@@ -1,0 +1,3002 @@
+[
+    {
+        "bandname": "The Zen",
+        "location": "Spain",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "The Zenith Passage",
+        "location": "United States",
+        "genres_unsanitized": "Technical Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "The Zephyr",
+        "location": "Mexico",
+        "genres_unsanitized": "Melodic Death/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "The Zeronaut",
+        "location": "Spain",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "The Ziggurat",
+        "location": "United States",
+        "genres_unsanitized": "Death/Heavy/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "The Zimmermann Note",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "The Zombi",
+        "location": "Finland",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "The Zone of Noise",
+        "location": "Poland",
+        "genres_unsanitized": "Grindcore/Death Metal/Noise",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Z",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Z",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Z",
+        "location": "Mexico",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Z'Kazan",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Z-Axis",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Z-Bek",
+        "location": "Uzbekistan",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Z-Gen",
+        "location": "France",
+        "genres_unsanitized": "Black/Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Z-Iron",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Z-LOT-Z",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Z-Sect",
+        "location": "Japan",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Z.A.A.R.",
+        "location": "Venezuela",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "z3r0c00l",
+        "location": "United States",
+        "genres_unsanitized": "Industrial Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Z:Blaze",
+        "location": "Japan",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zā Lä Thü",
+        "location": "United States",
+        "genres_unsanitized": "Industrial/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Za Piratz",
+        "location": "France",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zaas",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zabaniah",
+        "location": "Indonesia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zabaniyah",
+        "location": "Indonesia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zabiis",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Epic/Atmospheric Doom/Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zabulon",
+        "location": "Colombia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zabulos",
+        "location": "Italy",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zabulus",
+        "location": "Mexico",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zabulus",
+        "location": "Colombia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zaburon",
+        "location": "Italy",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zac Leaser",
+        "location": "United States",
+        "genres_unsanitized": "Technical/Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zacai",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zack Uidl",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Metal, Shred",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zadan",
+        "location": "United States",
+        "genres_unsanitized": "Black/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zadar",
+        "location": "Italy",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zadex",
+        "location": "United States",
+        "genres_unsanitized": "Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zadistik Zeekness",
+        "location": "Mexico",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zadkiel",
+        "location": "Japan",
+        "genres_unsanitized": "Black/Speed Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zadkiel",
+        "location": "Mexico",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zadögoat",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zadok",
+        "location": "Germany",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zadok",
+        "location": "Germany",
+        "genres_unsanitized": "Gothic Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zadok",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zadox",
+        "location": "United States",
+        "genres_unsanitized": "Heavy/Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zadur",
+        "location": "Mexico",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zaebos",
+        "location": "Germany",
+        "genres_unsanitized": "Melodic Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zaebros",
+        "location": "Australia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zafakon",
+        "location": "Puerto Rico",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zafio",
+        "location": "Ecuador",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zafira",
+        "location": "Chile",
+        "genres_unsanitized": "Death/Doom Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zagam",
+        "location": "France",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zagan",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zageron",
+        "location": "Lithuania",
+        "genres_unsanitized": "Experimental Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zaghan",
+        "location": "Mexico",
+        "genres_unsanitized": "Black/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zagharos",
+        "location": "Netherlands",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zaghurim",
+        "location": "France",
+        "genres_unsanitized": "Industrial/Ambient/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zagros",
+        "location": "Venezuela",
+        "genres_unsanitized": "Progressive Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zagros Atica",
+        "location": "Mexico",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zagłada",
+        "location": "Poland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zähc",
+        "location": "Brazil",
+        "genres_unsanitized": "Thrash/Death Metal/Crossover",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Zahena",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zahgurim",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zahgurim",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal/Dark Ambient",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zahgurim",
+        "location": "United States",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Zahgurim",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zahrim",
+        "location": "Sweden",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zahrim",
+        "location": "Denmark",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zahrim",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zaiko",
+        "location": "Mexico",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zaimus",
+        "location": "Montenegro",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zaitania",
+        "location": "Colombia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zaius",
+        "location": "United States",
+        "genres_unsanitized": "Stoner Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zajal",
+        "location": "Egypt",
+        "genres_unsanitized": "Death Metal with Middle Eastern influences",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zajetí Kouře",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zakas",
+        "location": "United States",
+        "genres_unsanitized": "Avant-garde Metal/Various",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zakata",
+        "location": "Hungary",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zakaz",
+        "location": "Iceland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zakeus",
+        "location": "Hungary",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zakhm",
+        "location": "Iran",
+        "genres_unsanitized": "Depressive Black Metal/Ambient",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zakk Wylde",
+        "location": "United States",
+        "genres_unsanitized": "Southern Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zaklan",
+        "location": "Serbia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zaklana Čeljad",
+        "location": "Serbia",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zaklon",
+        "location": "Belarus",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zakon",
+        "location": "Poland",
+        "genres_unsanitized": "Doom/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zakon Wilczej Krwi",
+        "location": "Poland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zalim",
+        "location": "Indonesia",
+        "genres_unsanitized": "Black/Gothic Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zalmoxis",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zalnabur",
+        "location": "Indonesia",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zalnik",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zamak",
+        "location": "Mexico",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zamboni",
+        "location": "United States",
+        "genres_unsanitized": "Crossover/Thrash Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Zamieć",
+        "location": "Poland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zamora",
+        "location": "Philippines",
+        "genres_unsanitized": "Black Metal/Grindcore",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Zamorak",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zamundra",
+        "location": "Italy",
+        "genres_unsanitized": "Groove/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zan",
+        "location": "United States",
+        "genres_unsanitized": "Technical Death Metal/Deathcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zanarkand",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zandelle",
+        "location": "United States",
+        "genres_unsanitized": "Heavy/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zandrium",
+        "location": "Finland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Zangentod",
+        "location": "Switzerland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zangryus",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Gothic Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zaninez",
+        "location": "Sweden",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zanister",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zanity",
+        "location": "Sweden",
+        "genres_unsanitized": "Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zanskar",
+        "location": "Pakistan",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zanthicus",
+        "location": "Philippines",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zanthropya Ex",
+        "location": "Germany",
+        "genres_unsanitized": "Thrash/Death Metal/Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zany Zone",
+        "location": "Thailand",
+        "genres_unsanitized": "Symphonic Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zanzibal",
+        "location": "Japan",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zap",
+        "location": "Italy",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zaphira",
+        "location": "Switzerland",
+        "genres_unsanitized": "Symphonic Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zaphyria",
+        "location": "Argentina",
+        "genres_unsanitized": "Symphonic Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zaplaxa",
+        "location": "Bulgaria",
+        "genres_unsanitized": "Thrash Metal/Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zapomenuta minulost",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Heavy/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zappenduster",
+        "location": "Germany",
+        "genres_unsanitized": "Melodic Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zaprti Oddelek",
+        "location": "Slovenia",
+        "genres_unsanitized": "Grindcore/Crust",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zaqueo",
+        "location": "Argentina",
+        "genres_unsanitized": "Progressive Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zaqum",
+        "location": "Colombia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zar",
+        "location": "Germany",
+        "genres_unsanitized": "Melodic Heavy/Power Metal, Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zara",
+        "location": "France",
+        "genres_unsanitized": "Heavy/Speed Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zarach 'Baal' Tharagh",
+        "location": "France",
+        "genres_unsanitized": "Raw Black Metal, Ambient/Noise",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Zaragone",
+        "location": "Sweden",
+        "genres_unsanitized": "Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zaraq",
+        "location": "Sweden",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zarathustra",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Zarathustra",
+        "location": "Netherlands",
+        "genres_unsanitized": "Melodic Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zarathustra",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Zarathustra",
+        "location": "Brazil",
+        "genres_unsanitized": "Depressive Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zaratustra",
+        "location": "Bulgaria",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zaraza",
+        "location": "Canada",
+        "genres_unsanitized": "Industrial/Doom Metal, Industrial",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zardens",
+        "location": "Belgium",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "ZarDošt",
+        "location": "Japan",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zardoz",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Zareg",
+        "location": "Spain",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zareptha",
+        "location": "Norway",
+        "genres_unsanitized": "Death/Groove Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zarg",
+        "location": "Brazil",
+        "genres_unsanitized": "Progressive Metal/Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zargof",
+        "location": "Brazil",
+        "genres_unsanitized": "Symphonic Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zaria",
+        "location": "Slovenia",
+        "genres_unsanitized": "Symphonic Folk Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zarin",
+        "location": "Belarus",
+        "genres_unsanitized": "Technical Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zarkasmo",
+        "location": "Guatemala",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zarkozooh",
+        "location": "Russia",
+        "genres_unsanitized": "Progressive Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zarpa",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zarpass",
+        "location": "Chile",
+        "genres_unsanitized": "Crossover (early), Thrash Metal/Grindcore (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zarquum",
+        "location": "Malaysia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zarragorth",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zarraza",
+        "location": "Kazakhstan",
+        "genres_unsanitized": "Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zástup jiných",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Thrash Metal/Crossover",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zatanor",
+        "location": "Chile",
+        "genres_unsanitized": "Black/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zath",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zatokrev",
+        "location": "Switzerland",
+        "genres_unsanitized": "Doom/Death/Sludge Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zatreon",
+        "location": "Egypt",
+        "genres_unsanitized": "Extreme Symphonic/Gothic Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zauberer",
+        "location": "Australia",
+        "genres_unsanitized": "Black Metal/Noise",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zaum",
+        "location": "United States",
+        "genres_unsanitized": "Atmospheric Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zaum",
+        "location": "Canada",
+        "genres_unsanitized": "Psychedelic Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zaunka",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zauron",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zavorash",
+        "location": "Sweden",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zavotage",
+        "location": "Peru",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zavraka",
+        "location": "France",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zaxas",
+        "location": "United States",
+        "genres_unsanitized": "Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zaxl Morg",
+        "location": "United States",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zaxxon",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zaz'Gogoogngm Second Season",
+        "location": "Japan",
+        "genres_unsanitized": "Technical/Brutal Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zazozora",
+        "location": "Sweden",
+        "genres_unsanitized": "Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zbor",
+        "location": "Croatia",
+        "genres_unsanitized": "Doom Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zcerneboh",
+        "location": "Poland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zdań",
+        "location": "Belarus",
+        "genres_unsanitized": "Depressive Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Ze Monsta",
+        "location": "Italy",
+        "genres_unsanitized": "Progressive Sludge/Thrash Metal/Post-Hardcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zeal",
+        "location": "Indonesia",
+        "genres_unsanitized": "Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zeal Camera",
+        "location": "Japan",
+        "genres_unsanitized": "Melodic Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zealot",
+        "location": "Finland",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Zealot Cult",
+        "location": "Ireland",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zealotry",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zealous",
+        "location": "Japan",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zealous",
+        "location": "India",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zealous Witness",
+        "location": "Canada",
+        "genres_unsanitized": "Technical Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zeb Dragon",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zebadiah Crowe",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zeber",
+        "location": "Colombia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zebra",
+        "location": "Mexico",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zebras",
+        "location": "United States",
+        "genres_unsanitized": "Noise Rock/Sludge Metal, Crossover",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Zebroid",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zebu",
+        "location": "Greece",
+        "genres_unsanitized": "Southern Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zebú",
+        "location": "Mexico",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zebub",
+        "location": "Colombia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zebulon",
+        "location": "Sweden",
+        "genres_unsanitized": "Stoner Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Zebulon Kosted",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal, Experimental/Noise/Ambient",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zebulon Pike",
+        "location": "United States",
+        "genres_unsanitized": "Stoner/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "ZED",
+        "location": "United States",
+        "genres_unsanitized": "Sludge Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zed Yago",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zeddicus Zu'l Zorander",
+        "location": "Russia",
+        "genres_unsanitized": "Crossover/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zedekiah",
+        "location": "Japan",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Zedher",
+        "location": "Italy",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Zedher's Coffin",
+        "location": "Italy",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zee Docta",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zeed",
+        "location": "Japan",
+        "genres_unsanitized": "Speed/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zeelion",
+        "location": "Sweden",
+        "genres_unsanitized": "Melodic Heavy/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zeenon",
+        "location": "Norway",
+        "genres_unsanitized": "Death Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Zeeuwse Meisjes Molestors",
+        "location": "Netherlands",
+        "genres_unsanitized": "Blackened Grindcore/Noise",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zeit",
+        "location": "Germany",
+        "genres_unsanitized": "Black/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zeitgeist",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zeitgeist",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zeitgeist",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zeitgeist",
+        "location": "Paraguay",
+        "genres_unsanitized": "Gothic Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zeitgeist",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "ZeitGeizt",
+        "location": "Brazil",
+        "genres_unsanitized": "Progressive Metal/Rock",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zel Agganor",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Symphonic Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zelator",
+        "location": "Russia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zelda",
+        "location": "France",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zeldar",
+        "location": "Argentina",
+        "genres_unsanitized": "Heavy/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zelestial",
+        "location": "Ecuador",
+        "genres_unsanitized": "Gothic/Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Železná neděle",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Železobeton",
+        "location": "Slovenia",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zelfhaat",
+        "location": "Netherlands",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zelichant",
+        "location": "Mexico",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zelosis",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zelyon",
+        "location": "Germany",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zematary",
+        "location": "Sweden",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zembator",
+        "location": "Poland",
+        "genres_unsanitized": "Thrash Metal with Core Influences",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zembus",
+        "location": "Italy",
+        "genres_unsanitized": "Progressive Rock/Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zementerio",
+        "location": "El Salvador",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zemeth",
+        "location": "Japan",
+        "genres_unsanitized": "Melodic Death/Neoclassical Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zemial",
+        "location": "Greece",
+        "genres_unsanitized": "Black Metal (early), Progressive Black/Heavy/Thrash Metal (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zeminence",
+        "location": "Japan",
+        "genres_unsanitized": "Symphonic Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zemsta",
+        "location": "International",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zen",
+        "location": "Italy",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Zen Venom",
+        "location": "Australia",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zenariz",
+        "location": "China",
+        "genres_unsanitized": "Depressive Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zendas",
+        "location": "Colombia",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zendik",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal with Thrash Elements",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zenek",
+        "location": "Poland",
+        "genres_unsanitized": "Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zênite",
+        "location": "Brazil",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zenith",
+        "location": "Denmark",
+        "genres_unsanitized": "Groove Metal/Grindcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zenith",
+        "location": "United Kingdom",
+        "genres_unsanitized": "NWOBHM",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zenith",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zenith",
+        "location": "Japan",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zenith",
+        "location": "Uruguay",
+        "genres_unsanitized": "Thrash/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zenith",
+        "location": "Finland",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zenith Grace",
+        "location": "Japan",
+        "genres_unsanitized": "Melodic Heavy Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Zenith Maudlin",
+        "location": "Turkey",
+        "genres_unsanitized": "Depressive Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zenith Reunion",
+        "location": "Finland",
+        "genres_unsanitized": "Hard Rock/Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zenithal",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zenithrash",
+        "location": "Japan",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zenner",
+        "location": "Colombia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zeno Morf",
+        "location": "Norway",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zenobia",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy Metal/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zenocide",
+        "location": "Japan",
+        "genres_unsanitized": "Sludge/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zenolyth",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zenoth",
+        "location": "Croatia",
+        "genres_unsanitized": "Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zentralrat der Guten",
+        "location": "Germany",
+        "genres_unsanitized": "Pagan Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zephaniah",
+        "location": "United States",
+        "genres_unsanitized": "Power/Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zepharnecron",
+        "location": "Mexico",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zepherus",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zephonith",
+        "location": "United States",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zephyr",
+        "location": "Italy",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zephyra",
+        "location": "Sweden",
+        "genres_unsanitized": "Metalcore/Melodic Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zephyrous",
+        "location": "Greece",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zephyrus",
+        "location": "Portugal",
+        "genres_unsanitized": "Blackened Thrash Metal/Crossover",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Zepo",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zepsilon",
+        "location": "Japan",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zépülkr",
+        "location": "France",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zer00ne",
+        "location": "Serbia",
+        "genres_unsanitized": "Groove Metal/Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zerakiel",
+        "location": "Finland",
+        "genres_unsanitized": "Melodic Heavy Metal/Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zeramoth",
+        "location": "Germany",
+        "genres_unsanitized": "Black/Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zerber",
+        "location": "Russia",
+        "genres_unsanitized": "Thrash/Death/Progressive/Industrial Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zerberus",
+        "location": "Austria",
+        "genres_unsanitized": "Gothic/Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zerfall",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zerfetzer",
+        "location": "Germany",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zerg",
+        "location": "Germany",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zerg",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zergeyth",
+        "location": "Russia",
+        "genres_unsanitized": "Atmospheric Black/Folk Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zergoth",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zermeño",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zernebog",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zero",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Thrash/Groove Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero",
+        "location": "Japan",
+        "genres_unsanitized": "Melodic Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zero Based Perception",
+        "location": "Canada",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero by None",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zero Control",
+        "location": "United States",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero Degree",
+        "location": "Germany",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zero Degrees Freedom",
+        "location": "Australia",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero Down",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal with Punk influences",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zero Enemies",
+        "location": "Italy",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero G",
+        "location": "Korea, South",
+        "genres_unsanitized": "Heavy Metal/Hard Rock (early), Pop Rock (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zero Gravity",
+        "location": "Belgium",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero Gravity",
+        "location": "India",
+        "genres_unsanitized": "Groove/Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zero Hora",
+        "location": "Brazil",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero Hour",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero Hour",
+        "location": "Greece",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero Hour",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero Hunt",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero Hunt",
+        "location": "Switzerland",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero Illusions",
+        "location": "Sweden",
+        "genres_unsanitized": "Power/Progressive Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero Kelvin",
+        "location": "Italy",
+        "genres_unsanitized": "Power Metal with Death Metal influences",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zero Nine",
+        "location": "Finland",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zero Option",
+        "location": "Canada",
+        "genres_unsanitized": "Heavy/Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero Point",
+        "location": "France",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero Signal",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zero Signal",
+        "location": "Italy",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero Signal",
+        "location": "Poland",
+        "genres_unsanitized": "Melodic Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero Silence",
+        "location": "Germany",
+        "genres_unsanitized": "Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero System",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Death Metal/Metalcore",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Zero to Ballistic",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Metal/Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zero Tolerance",
+        "location": "France",
+        "genres_unsanitized": "Industrial Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero Tolerance",
+        "location": "Sweden",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero Tolerance",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero Tolerance",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero Tolerance",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero Tolerance",
+        "location": "Ireland",
+        "genres_unsanitized": "Groove/Thrash/Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero Tolerance",
+        "location": "Chile",
+        "genres_unsanitized": "Death/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zero Vision",
+        "location": "Brazil",
+        "genres_unsanitized": "Thrash Metal with Industrial elements",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero Void",
+        "location": "Kazakhstan",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zero+onE",
+        "location": "Finland",
+        "genres_unsanitized": "EBM (early), Industrial Black Metal (later)",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zero3iete",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zeroasis",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "ZeroCold",
+        "location": "Brazil",
+        "genres_unsanitized": "Gothic Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "ZeroCrowd",
+        "location": "Finland",
+        "genres_unsanitized": "Melodic Death/Gothic Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zerodak",
+        "location": "Mexico",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zeroed",
+        "location": "Germany",
+        "genres_unsanitized": "Death metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zeroed",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zerofour",
+        "location": "Austria",
+        "genres_unsanitized": "Thrash/Groove Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zerogod",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zerokarma",
+        "location": "Russia",
+        "genres_unsanitized": "Melodic Death/Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zerolap",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zerotheist",
+        "location": "United States",
+        "genres_unsanitized": "Groove Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zerozonic",
+        "location": "Norway",
+        "genres_unsanitized": "Thrash/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zersenator",
+        "location": "Peru",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zerstiren",
+        "location": "New Zealand",
+        "genres_unsanitized": "Progressive/Technical Death Metal/Deathcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zerstörenfried",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zerstörer",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zerstörer",
+        "location": "Germany",
+        "genres_unsanitized": "Progressive Thrash/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zerstörung",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zervm",
+        "location": "Italy",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zerzyan Loathe",
+        "location": "Korea, South",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zesegaandag",
+        "location": "United States",
+        "genres_unsanitized": "Atmospheric Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zess",
+        "location": "Italy",
+        "genres_unsanitized": "Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zeta",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zeta Reticuli",
+        "location": "Australia",
+        "genres_unsanitized": "Symphonic Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zetkin",
+        "location": "Austria",
+        "genres_unsanitized": "Thrash Metal/Crust Punk",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zetörhead",
+        "location": "Hungary",
+        "genres_unsanitized": "Melodic Thrash/Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zetra",
+        "location": "Chile",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zett",
+        "location": "Korea, South",
+        "genres_unsanitized": "Alternative Heavy/Groove Metal/Hard Rock",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zett",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Melodic Heavy Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zettilmeyer",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zeugen der Leere",
+        "location": "Germany",
+        "genres_unsanitized": "Melodic Black Metal, Ambient",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zeus",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zeus",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zeus",
+        "location": "Cuba",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zeus",
+        "location": "Italy",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Zeus",
+        "location": "Mexico",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zeus",
+        "location": "Indonesia",
+        "genres_unsanitized": "Gothic Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zeusas",
+        "location": "Japan",
+        "genres_unsanitized": "Melodic Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zeuz",
+        "location": "Mexico",
+        "genres_unsanitized": "Blackened Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zeyking",
+        "location": "Denmark",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Zeyros' Cults",
+        "location": "Italy",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zgard",
+        "location": "Ukraine",
+        "genres_unsanitized": "Pagan Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zhalim",
+        "location": "Indonesia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zharmaq",
+        "location": "Hungary",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Zharwo Penggasak",
+        "location": "Indonesia",
+        "genres_unsanitized": "Heavy/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zhatsaraeth",
+        "location": "Spain",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zhgoryth",
+        "location": "France",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zhiva",
+        "location": "Sweden",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zhoda",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zhor",
+        "location": "Slovakia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zhora",
+        "location": "Ireland",
+        "genres_unsanitized": "Progressive/Sludge Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zhraja",
+        "location": "Belarus",
+        "genres_unsanitized": "Gothic/Folk Metal with Industrial Elements",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zhrine",
+        "location": "Iceland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zhuo",
+        "location": "Spain",
+        "genres_unsanitized": "Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zhurgal Dukhiatz",
+        "location": "France",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zi Factor",
+        "location": "Indonesia",
+        "genres_unsanitized": "Heavy Metal/Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zi Xul",
+        "location": "Netherlands",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zia",
+        "location": "United States",
+        "genres_unsanitized": "Gothic Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Ziad",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Ziarah",
+        "location": "Indonesia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zidiz",
+        "location": "Ecuador",
+        "genres_unsanitized": "Speed Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Ziechenbart",
+        "location": "Germany",
+        "genres_unsanitized": "Thrash/Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zieg Abuser",
+        "location": "Switzerland",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Ziege",
+        "location": "Norway",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Ziege",
+        "location": "Poland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Ziege Schwänze",
+        "location": "Canada",
+        "genres_unsanitized": "Experimental Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Ziel Bevrijd",
+        "location": "Canada",
+        "genres_unsanitized": "Atmospheric Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zierler",
+        "location": "Denmark",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Ziff",
+        "location": "Germany",
+        "genres_unsanitized": "Progressive Metal/Rock",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zifir",
+        "location": "Turkey",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Ziggurat",
+        "location": "Turkey",
+        "genres_unsanitized": "Gothic Death/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Ziggurat",
+        "location": "Israel",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zigma Detonador",
+        "location": "Ecuador",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zigurat",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy/Power Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zigurat",
+        "location": "Colombia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zígurath",
+        "location": "Argentina",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zihard",
+        "location": "Korea, South",
+        "genres_unsanitized": "Neoclassical Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zijl",
+        "location": "Australia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zilch",
+        "location": "United States",
+        "genres_unsanitized": "Heavy/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zilla",
+        "location": "Brazil",
+        "genres_unsanitized": "Technical/Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zillah",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Technical Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zillion",
+        "location": "Germany",
+        "genres_unsanitized": "Melodic Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zillion",
+        "location": "Japan",
+        "genres_unsanitized": "Goregrind",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zillion",
+        "location": "United States",
+        "genres_unsanitized": "Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zimmers Hole",
+        "location": "Canada",
+        "genres_unsanitized": "Speed/Thrash/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zimorog",
+        "location": "Croatia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zinah",
+        "location": "Indonesia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zinc Alloy",
+        "location": "Japan",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zindan",
+        "location": "Uzbekistan",
+        "genres_unsanitized": "Progressive/Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zingira",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zinkyeok",
+        "location": "Korea, South",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zinvmm",
+        "location": "Spain",
+        "genres_unsanitized": "Black Metal/Folk/Ambient",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zion",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zion",
+        "location": "Greece",
+        "genres_unsanitized": "Melodic Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zion Reign",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zions Abyss",
+        "location": "Canada",
+        "genres_unsanitized": "Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Ziontod",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zippo",
+        "location": "Italy",
+        "genres_unsanitized": "Stoner Metal (early), Sludge/Progressive Metal (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zirakzigil",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Stoner/Sludge Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zircon",
+        "location": "United States",
+        "genres_unsanitized": "Black/Death/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zirconium",
+        "location": "New Zealand",
+        "genres_unsanitized": "Death/Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Ziroh",
+        "location": "United States",
+        "genres_unsanitized": "Stoner Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Ziryab",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Zirze",
+        "location": "Spain",
+        "genres_unsanitized": "Folk/Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zis",
+        "location": "Italy",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zish",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zisii",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zithma",
+        "location": "Panama",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zithuan Labyrinth",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Black Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Zitsquatch",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Živá hudba",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zivatar",
+        "location": "Hungary",
+        "genres_unsanitized": "Atmospheric Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Živo blato",
+        "location": "Croatia",
+        "genres_unsanitized": "Heavy Metal, Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zix",
+        "location": "Lebanon",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zlatan",
+        "location": "Sweden",
+        "genres_unsanitized": "Stoner/Sludge Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zli grč",
+        "location": "Croatia",
+        "genres_unsanitized": "Death Metal (early), Avant-garde Metal (later)",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zlo",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zlobnik",
+        "location": "Croatia",
+        "genres_unsanitized": "Blackened Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zlomor",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Death Metal/Punk",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zloslut",
+        "location": "Serbia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zlost",
+        "location": "Estonia",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zlyden",
+        "location": "Ukraine",
+        "genres_unsanitized": "Atmospheric/Raw Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zmey Gorynich",
+        "location": "Russia",
+        "genres_unsanitized": "Folk Metal/Deathcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zmierzch",
+        "location": "Poland",
+        "genres_unsanitized": "Depressive Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Żmij",
+        "location": "Poland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zmijevik",
+        "location": "Slovakia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zmilodon",
+        "location": "Colombia",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zmoke",
+        "location": "United States",
+        "genres_unsanitized": "Stoner Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zmora",
+        "location": "Poland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zmrok",
+        "location": "Belarus",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zmrok",
+        "location": "Poland",
+        "genres_unsanitized": "Pagan Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "ZN Terror",
+        "location": "Brazil",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Znafelriff",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Znich",
+        "location": "Belarus",
+        "genres_unsanitized": "Pagan/Folk Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Znöwhite",
+        "location": "United States",
+        "genres_unsanitized": "Speed/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zoanthropic Paranoia",
+        "location": "Mexico",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zoberbia",
+        "location": "Argentina",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zobibor",
+        "location": "Sweden",
+        "genres_unsanitized": "Black/Death Metal/Punk",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zocabra",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zodiac",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zodiac",
+        "location": "Japan",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zodiac",
+        "location": "Japan",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zodiac",
+        "location": "Germany",
+        "genres_unsanitized": "Melodic Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zodiac",
+        "location": "Germany",
+        "genres_unsanitized": "Progressive Metal/Folk",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zodiac",
+        "location": "Austria",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Zodiac",
+        "location": "Australia",
+        "genres_unsanitized": "Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zodiac Ass",
+        "location": "Austria",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zodiac Ciphers",
+        "location": "Sweden",
+        "genres_unsanitized": "Melodic Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zodiac Killer",
+        "location": "Finland",
+        "genres_unsanitized": "Groove Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zodiacal Circle",
+        "location": "United States",
+        "genres_unsanitized": "Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zodiah",
+        "location": "Serbia",
+        "genres_unsanitized": "Melodic Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zodiaque",
+        "location": "Japan",
+        "genres_unsanitized": "Death/Thrash/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zodiark",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Progressive Death Metal/Metalcore",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Zodz",
+        "location": "Mexico",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zoebeast",
+        "location": "Russia",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zoetrope",
+        "location": "United States",
+        "genres_unsanitized": "Speed/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zofos",
+        "location": "Greece",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zoghnity",
+        "location": "Malaysia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zohak",
+        "location": "Chile",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zôia",
+        "location": "Brazil",
+        "genres_unsanitized": "Groove Metal/Crossover",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zoic",
+        "location": "Sweden",
+        "genres_unsanitized": "Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zôikitá",
+        "location": "Brazil",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zöldïer Noïz",
+        "location": "France",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zoliborz",
+        "location": "Russia",
+        "genres_unsanitized": "Experimental/Progressive Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zolle",
+        "location": "Italy",
+        "genres_unsanitized": "Sludge/Stoner Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zoloft",
+        "location": "Argentina",
+        "genres_unsanitized": "Heavy/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zoltan",
+        "location": "Denmark",
+        "genres_unsanitized": "Hard Rock/Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zoltan",
+        "location": "Sweden",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Zoltan",
+        "location": "Japan",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zoltar",
+        "location": "Brazil",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zoltar Speaks",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Melodic Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zoltegorok",
+        "location": "France",
+        "genres_unsanitized": "Black Metal/Dark Ambient",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zoltum",
+        "location": "France",
+        "genres_unsanitized": "Death/Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "ZOM",
+        "location": "Ireland",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zombie",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zombie",
+        "location": "Brazil",
+        "genres_unsanitized": "Thrash/Speed Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zombie",
+        "location": "Brazil",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zombie Assault!!",
+        "location": "Canada",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zombie Attack",
+        "location": "Moldova",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zombie Attack",
+        "location": "Ukraine",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zombie Autopilot",
+        "location": "Sweden",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Zombie Bitchslaughter",
+        "location": "Sweden",
+        "genres_unsanitized": "Death Metal with Grindcore and Stoner influences",
+        "active": "Active"
+    },
+    {
+        "bandname": "Zombie Blasphemy",
+        "location": "Japan",
+        "genres_unsanitized": "Sludge/Doom/Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Zombie Cookbook",
+        "location": "Brazil",
+        "genres_unsanitized": "Death/Thrash Metal/Grindcore",
+        "active": "Active"
+    }
+]

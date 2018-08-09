@@ -1,0 +1,3002 @@
+[
+    {
+        "bandname": "K'aux",
+        "location": "Chile",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "K'hara",
+        "location": "Russia",
+        "genres_unsanitized": "Pagan Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "K'hult",
+        "location": "Germany",
+        "genres_unsanitized": "Sludge/Black/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "K'taagar",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "K'vor",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "K-fir",
+        "location": "Ecuador",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "K-Lomny",
+        "location": "France",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "K-Octave",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "K-XX",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "K-ØS",
+        "location": "Spain",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "K.A.",
+        "location": "France",
+        "genres_unsanitized": "Thrash Metal/Crossover (early), Brutal Death Metal (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "K.A.IN",
+        "location": "Belarus",
+        "genres_unsanitized": "Melodic Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "K.A.S.K.",
+        "location": "Poland",
+        "genres_unsanitized": "Deathcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "K.D.T.",
+        "location": "Chile",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "K.F.R",
+        "location": "France",
+        "genres_unsanitized": "Black Metal/Dark Ambient",
+        "active": "Active"
+    },
+    {
+        "bandname": "K.G.B.",
+        "location": "Canada",
+        "genres_unsanitized": "Experimental Thrash Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "K.I.N.",
+        "location": "Australia",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "K.I.T.",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy Metal/Crossover",
+        "active": "Active"
+    },
+    {
+        "bandname": "K.L.L.K.",
+        "location": "France",
+        "genres_unsanitized": "Atmospheric Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "K.M.",
+        "location": "Russia",
+        "genres_unsanitized": "Dark/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "K.O.C",
+        "location": "Germany",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "K.O.D.",
+        "location": "United States",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "K.S",
+        "location": "Sweden",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "K.T.C.M.",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal/Crossover (early), Death/Thrash Metal (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "K28",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "K3",
+        "location": "Hungary",
+        "genres_unsanitized": "Progressive Metal/Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "K626",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "KA",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Ka Gaia An",
+        "location": "Romania",
+        "genres_unsanitized": "Pagan/Folk Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Ka Mmen",
+        "location": "Ukraine",
+        "genres_unsanitized": "Psychedelic Progressive Gothic/Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Ka-tet",
+        "location": "Germany",
+        "genres_unsanitized": "Black/Dark Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaak",
+        "location": "Austria",
+        "genres_unsanitized": "Industrial/Electronic Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaal",
+        "location": "Nepal",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaala",
+        "location": "Colombia",
+        "genres_unsanitized": "Groove/Thrash Metal (early), Metalcore (later)",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaamora",
+        "location": "Australia",
+        "genres_unsanitized": "Death/Black/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaamos",
+        "location": "Sweden",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaamos",
+        "location": "Finland",
+        "genres_unsanitized": "Doom/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaamos",
+        "location": "Finland",
+        "genres_unsanitized": "Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Kaaosteoria",
+        "location": "Finland",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaapora",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaar",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaarkema",
+        "location": "Russia",
+        "genres_unsanitized": "Atmospheric Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Käärmekristus",
+        "location": "Finland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaarnekorpi",
+        "location": "Finland",
+        "genres_unsanitized": "Viking/Folk Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaashnak",
+        "location": "Germany",
+        "genres_unsanitized": "Depressive Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaasibal",
+        "location": "Mexico",
+        "genres_unsanitized": "Stoner/Sludge/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaasschaaf",
+        "location": "Netherlands",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaat",
+        "location": "Belarus",
+        "genres_unsanitized": "Black Metal/Ambient",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaatarakt",
+        "location": "Switzerland",
+        "genres_unsanitized": "Viking/Folk Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaatörsnik",
+        "location": "Finland",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kab'rakan",
+        "location": "El Salvador",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kabak",
+        "location": "El Salvador",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kabal",
+        "location": "Italy",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kabal",
+        "location": "Spain",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kabala",
+        "location": "El Salvador",
+        "genres_unsanitized": "Heavy/Speed Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kabalah",
+        "location": "Russia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaban",
+        "location": "Russia",
+        "genres_unsanitized": "Thrash Metal/Crossover",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kabarah",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kabát",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Thrash Metal (early), Melodic Heavy Metal/Hard Rock (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kabbal",
+        "location": "Monaco",
+        "genres_unsanitized": "Death Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Kabexnuv",
+        "location": "Canada",
+        "genres_unsanitized": "Atmospheric Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kablo",
+        "location": "Spain",
+        "genres_unsanitized": "Black/Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kabra Makabra",
+        "location": "Argentina",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kabul",
+        "location": "Mexico",
+        "genres_unsanitized": "Melodic Death/Thrash Metal with Gothic influences",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Kachana",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Speed/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kadabra",
+        "location": "Brazil",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kadachat",
+        "location": "Israel",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kadakus",
+        "location": "Canada",
+        "genres_unsanitized": "Power/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kadar",
+        "location": "Kazakhstan",
+        "genres_unsanitized": "Progressive Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kadarma",
+        "location": "Spain",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kadastath",
+        "location": "Brazil",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kadath",
+        "location": "Germany",
+        "genres_unsanitized": "Brutal Death Metal/Grindcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kadath",
+        "location": "Russia",
+        "genres_unsanitized": "Pagan Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kadath",
+        "location": "Mexico",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kadath",
+        "location": "Italy",
+        "genres_unsanitized": "Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Kadath",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kadath",
+        "location": "Colombia",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kadath the Lost City",
+        "location": "Poland",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kadatheron",
+        "location": "Finland",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kadathorn",
+        "location": "Germany",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kadavar",
+        "location": "Italy",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kadaver",
+        "location": "Sweden",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kadaver Cult",
+        "location": "Chile",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kadaverdisciplin",
+        "location": "Sweden",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kadaverficker",
+        "location": "Germany",
+        "genres_unsanitized": "Sludge/Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kadaverica",
+        "location": "Italy",
+        "genres_unsanitized": "Black Metal (early), Black/Death Metal (later)",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kadaverin",
+        "location": "Hungary",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kadaverkult",
+        "location": "Sweden",
+        "genres_unsanitized": "Death/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kadavrik",
+        "location": "Germany",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kadawer Dialoog",
+        "location": "South Africa",
+        "genres_unsanitized": "Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kade Storm",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Blackened Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kadens",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kadenzza",
+        "location": "Japan",
+        "genres_unsanitized": "Symphonic Black Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Kadian Injection",
+        "location": "Australia",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kadotettu",
+        "location": "Finland",
+        "genres_unsanitized": "Ambient Black/Funeral Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kadotuksen Portti",
+        "location": "Finland",
+        "genres_unsanitized": "Atmospheric Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kadotus",
+        "location": "Finland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaduk",
+        "location": "Belarus",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Kaeck",
+        "location": "Netherlands",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaede",
+        "location": "Japan",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaemon",
+        "location": "United States",
+        "genres_unsanitized": "Southern/Stoner Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaemorph",
+        "location": "France",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaeos",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaer Morhen",
+        "location": "Poland",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaer Morhen",
+        "location": "Germany",
+        "genres_unsanitized": "Epic Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaer Morhen",
+        "location": "Italy",
+        "genres_unsanitized": "Epic Symphonic Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaer Morhen",
+        "location": "Argentina",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaerulean",
+        "location": "Australia",
+        "genres_unsanitized": "Melodic Death/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaets",
+        "location": "France",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaevum",
+        "location": "Norway",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kafan",
+        "location": "Lebanon",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Kaffaljidhma",
+        "location": "Netherlands",
+        "genres_unsanitized": "Atmospheric/Raw Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaffeine",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kafirun",
+        "location": "Canada",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kafka Rex",
+        "location": "United States",
+        "genres_unsanitized": "Stoner/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kafoth",
+        "location": "Ecuador",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kafros Lord",
+        "location": "Cyprus",
+        "genres_unsanitized": "Black Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Kafziel",
+        "location": "Sweden",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kafziel",
+        "location": "Argentina",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kagan",
+        "location": "Serbia",
+        "genres_unsanitized": "Pagan/Folk Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Kage",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kâhld",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kahlkopf",
+        "location": "Germany",
+        "genres_unsanitized": "Punk Rock/RAC (early), Crossover/Thrash/Heavy Metal (later)",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Kahn",
+        "location": "Sweden",
+        "genres_unsanitized": "Grindcore/Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Kahtahdhen",
+        "location": "Mexico",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kahtmayan",
+        "location": "Iran",
+        "genres_unsanitized": "Progressive Metal (early), Progressive/Thrash Metal (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kai Flood",
+        "location": "Mexico",
+        "genres_unsanitized": "Thrash/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaiadas",
+        "location": "Greece",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaiage",
+        "location": "Sweden",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaiaphas",
+        "location": "Canada",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaideka",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Groove Metal/Metalcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaihoro",
+        "location": "Finland",
+        "genres_unsanitized": "Stoner Metal/Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaihorro",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Thrash Metal/Metalcore",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Kaiju",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kailash",
+        "location": "Italy",
+        "genres_unsanitized": "Avant-garde/Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kailess",
+        "location": "Russia",
+        "genres_unsanitized": "Sludge/Post-Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kain",
+        "location": "Moldova",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kain",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kain",
+        "location": "Croatia",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kain",
+        "location": "Germany",
+        "genres_unsanitized": "Melodic Death/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kain",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy Metal/Punk",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kainabel",
+        "location": "Chile",
+        "genres_unsanitized": "Progressive Death/Thrash Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Kaine",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kainin Lapset",
+        "location": "Finland",
+        "genres_unsanitized": "Black/Thrash Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Kaintorment",
+        "location": "Costa Rica",
+        "genres_unsanitized": "Black Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Kaiowas",
+        "location": "Argentina",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaiphos",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaira",
+        "location": "Belarus",
+        "genres_unsanitized": "Symphonic Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kairhia",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kairi",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Funeral Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kairos",
+        "location": "Sweden",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kairos.",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kairosphere",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaiser",
+        "location": "Sweden",
+        "genres_unsanitized": "Black Metal/Ambient",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Kaiser",
+        "location": "Argentina",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaiser",
+        "location": "Switzerland",
+        "genres_unsanitized": "Gothic/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaiser",
+        "location": "Finland",
+        "genres_unsanitized": "Stoner Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaiser and the Machines of Creation",
+        "location": "Australia",
+        "genres_unsanitized": "Progressive Metal/Rock, Shred",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaiserkorps",
+        "location": "France",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaiserreich",
+        "location": "Italy",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaisers Bart",
+        "location": "Germany",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaitem",
+        "location": "Chile",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaizen",
+        "location": "France",
+        "genres_unsanitized": "Death Metal with Groove influences",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaizer",
+        "location": "Japan",
+        "genres_unsanitized": "Melodic Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kajaja Force-tek",
+        "location": "United States",
+        "genres_unsanitized": "Thrash/Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kakaradeath",
+        "location": "Indonesia",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kakaroth",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kakasbal",
+        "location": "Mexico",
+        "genres_unsanitized": "Ambient Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kakihara",
+        "location": "Netherlands",
+        "genres_unsanitized": "Thrash/Death/Groove Metal with Industrial Influences",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Kako Daimon",
+        "location": "Sweden",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kakoranger",
+        "location": "Greece",
+        "genres_unsanitized": "Experimental Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kakothanasy",
+        "location": "Switzerland",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaksonen",
+        "location": "Finland",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kal-El",
+        "location": "Norway",
+        "genres_unsanitized": "Doom/Stoner Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kala",
+        "location": "Indonesia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kala Mani Karm",
+        "location": "Japan",
+        "genres_unsanitized": "Melodic Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kala Sumeriah",
+        "location": "Argentina",
+        "genres_unsanitized": "Stoner/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalaallit Nunaat",
+        "location": "Italy",
+        "genres_unsanitized": "Atmospheric Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalaazar",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Kalabanganz",
+        "location": "Malaysia",
+        "genres_unsanitized": "Black 'n' Roll",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalabira",
+        "location": "Philippines",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalabouço",
+        "location": "Brazil",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kalakai",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Death Metal/Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalamalam",
+        "location": "Malaysia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalamiti",
+        "location": "Denmark",
+        "genres_unsanitized": "Experimental Progressive Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Kalangkang",
+        "location": "Indonesia",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalapács",
+        "location": "Hungary",
+        "genres_unsanitized": "Heavy/Speed Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalas",
+        "location": "United States",
+        "genres_unsanitized": "Stoner/Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kalasag",
+        "location": "Philippines",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Kalaschnikov",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy/Speed Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kalaschnikov",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy/Speed Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kalashnikov",
+        "location": "Portugal",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalashnikov",
+        "location": "Italy",
+        "genres_unsanitized": "Power/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalashnikov Khaos",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalavero",
+        "location": "Argentina",
+        "genres_unsanitized": "Groove Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kald Kriger",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaldariach",
+        "location": "Canada",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaldrfenrir",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaldt",
+        "location": "Belgium",
+        "genres_unsanitized": "Black/Funeral Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaldt",
+        "location": "Estonia",
+        "genres_unsanitized": "Melodic Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaldt Helvete",
+        "location": "France",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaldt Rike",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Kaldur",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Kaldur",
+        "location": "Russia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaleb",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Heavy/Thrash Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Kaledon",
+        "location": "Italy",
+        "genres_unsanitized": "Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalendae",
+        "location": "Russia",
+        "genres_unsanitized": "Atmospheric Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalevala",
+        "location": "Brazil",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kalevala",
+        "location": "Italy",
+        "genres_unsanitized": "Folk Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalevan Soturit",
+        "location": "Finland",
+        "genres_unsanitized": "Viking Metal/Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalhalla",
+        "location": "United States",
+        "genres_unsanitized": "Death 'n' Roll",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kali",
+        "location": "Germany",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kali",
+        "location": "Germany",
+        "genres_unsanitized": "Progressive/Stoner Metal/Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kali Ma",
+        "location": "United States",
+        "genres_unsanitized": "Technical Progressive Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kali Yuga",
+        "location": "France",
+        "genres_unsanitized": "Experimental Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kali Yuga",
+        "location": "United States",
+        "genres_unsanitized": "Experimental Black Metal/Ambient/Electronica",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Kali Yuga",
+        "location": "Germany",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kali-Yuga",
+        "location": "Russia",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaliban",
+        "location": "Finland",
+        "genres_unsanitized": "Melodic Death/Folk/Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaliban",
+        "location": "Brazil",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kalibas",
+        "location": "United States",
+        "genres_unsanitized": "Brutal Death Metal/Grindcore (early), Black/Death Metal/Grindcore (later)",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaliber",
+        "location": "Sweden",
+        "genres_unsanitized": "Thrash Metal/Grindcore/Hardcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalibos",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalibos",
+        "location": "Germany",
+        "genres_unsanitized": "Doom/Sludge Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalidia",
+        "location": "Italy",
+        "genres_unsanitized": "Gothic/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaligoh",
+        "location": "Netherlands",
+        "genres_unsanitized": "Stoner/Sludge Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaligula",
+        "location": "Indonesia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaliira",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kalijuge",
+        "location": "Slovakia",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalion",
+        "location": "Spain",
+        "genres_unsanitized": "Symphonic Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kalisia",
+        "location": "France",
+        "genres_unsanitized": "Progressive Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaliya",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaliyuga",
+        "location": "Singapore",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaliyuga",
+        "location": "France",
+        "genres_unsanitized": "Black Metal/Crust Punk",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kalki Avatara",
+        "location": "Italy",
+        "genres_unsanitized": "Experimental Folk/Symphonic Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kalku",
+        "location": "Chile",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kalkumakuñ",
+        "location": "Chile",
+        "genres_unsanitized": "Black/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalkutun",
+        "location": "Chile",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kall",
+        "location": "Sweden",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kall Ensamhet",
+        "location": "Germany",
+        "genres_unsanitized": "Depressive Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kallaikoi",
+        "location": "Portugal",
+        "genres_unsanitized": "Pagan/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kallastir",
+        "location": "Sweden",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kallathon",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kallbrand",
+        "location": "Sweden",
+        "genres_unsanitized": "Black Metal/Dark Ambient",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Kalloused",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Blackened Doom/Sludge Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kallus",
+        "location": "United States",
+        "genres_unsanitized": "Groove/Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Kallussed",
+        "location": "United States",
+        "genres_unsanitized": "Thrash/Death/Groove Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kalm",
+        "location": "Estonia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kalmah",
+        "location": "Finland",
+        "genres_unsanitized": "Melodic Death/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalman Varjot",
+        "location": "Finland",
+        "genres_unsanitized": "Dark Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kalmankantaja",
+        "location": "Finland",
+        "genres_unsanitized": "Depressive Black Metal (early), Atmospheric Black Metal (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalmannos",
+        "location": "Finland",
+        "genres_unsanitized": "Doom Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Kalmantach",
+        "location": "Finland",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalmen",
+        "location": "Germany",
+        "genres_unsanitized": "Psychedelic Doom/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalmex and the Riffmerchants",
+        "location": "United States",
+        "genres_unsanitized": "Experimental/Progressive Sludge Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kalmisto",
+        "location": "Finland",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalodin",
+        "location": "Nepal",
+        "genres_unsanitized": "Symphonic Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalögena",
+        "location": "Germany",
+        "genres_unsanitized": "Death/Thrash Metal with Gothic influences (early), Thrash Metal/Punk (later)",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kalona",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalopsia",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalot Enbolot",
+        "location": "Poland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Kalpa",
+        "location": "Korea, South",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Kalpa",
+        "location": "Greece",
+        "genres_unsanitized": "Sludge/Post-Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalpas",
+        "location": "Argentina",
+        "genres_unsanitized": "Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kalt",
+        "location": "Germany",
+        "genres_unsanitized": "Industrial/Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kalt",
+        "location": "France",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalt Vindur",
+        "location": "Poland",
+        "genres_unsanitized": "Progressive Black/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaltakustik",
+        "location": "Germany",
+        "genres_unsanitized": "Pagan Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kälte",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kalte Sonne",
+        "location": "Spain",
+        "genres_unsanitized": "Post-Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kältemond",
+        "location": "Hungary",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kälter",
+        "location": "Canada",
+        "genres_unsanitized": "Progressive Melodic Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kälter",
+        "location": "Germany",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalterit",
+        "location": "Finland",
+        "genres_unsanitized": "Black/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaltes",
+        "location": "Hungary",
+        "genres_unsanitized": "Pagan Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Kältetod",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kältetot",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Kaltfront",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaluman",
+        "location": "Indonesia",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kalvaria",
+        "location": "International",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kalvario",
+        "location": "Argentina",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kalvarius",
+        "location": "Brazil",
+        "genres_unsanitized": "Melodic Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kalysto",
+        "location": "France",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kam Lee",
+        "location": "United States",
+        "genres_unsanitized": "Horror Punk/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kam Talium",
+        "location": "France",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kama-Mara",
+        "location": "United States",
+        "genres_unsanitized": "Experimental Death/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kamá-Merú",
+        "location": "Venezuela",
+        "genres_unsanitized": "Melodic Thrash/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kamaedzitca",
+        "location": "Belarus",
+        "genres_unsanitized": "Pagan Folk/Black Metal (early), Various (later)",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kamagi",
+        "location": "Japan",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Kamala",
+        "location": "Brazil",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kamala",
+        "location": "Finland",
+        "genres_unsanitized": "Thrash/Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kamaloka",
+        "location": "Estonia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kamanchak",
+        "location": "Chile",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kamandag",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kamar Gelap",
+        "location": "Indonesia",
+        "genres_unsanitized": "Heavy Metal/Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kamar Mayat",
+        "location": "Indonesia",
+        "genres_unsanitized": "Gothic/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kamara",
+        "location": "Finland",
+        "genres_unsanitized": "Thrash/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kamäradi",
+        "location": "Croatia",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kambing",
+        "location": "Philippines",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kambing Sakti",
+        "location": "Malaysia",
+        "genres_unsanitized": "Melodic Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kambion",
+        "location": "Poland",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kambrium",
+        "location": "Germany",
+        "genres_unsanitized": "Symphonic Power/Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kamchatka",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kameleon",
+        "location": "Portugal",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kameleontti",
+        "location": "Finland",
+        "genres_unsanitized": "Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kameliah",
+        "location": "Italy",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kamelot",
+        "location": "United States",
+        "genres_unsanitized": "Progressive/Melodic Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kamen",
+        "location": "Romania",
+        "genres_unsanitized": "Thrash/Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kamera Obskur",
+        "location": "Germany",
+        "genres_unsanitized": "Experimental Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kami",
+        "location": "Denmark",
+        "genres_unsanitized": "Death/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kamijo",
+        "location": "Japan",
+        "genres_unsanitized": "Symphonic Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kamikabe",
+        "location": "United States",
+        "genres_unsanitized": "Technical Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kamikaze",
+        "location": "Argentina",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kamikaze",
+        "location": "Brazil",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kamikaze",
+        "location": "Indonesia",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kamikaze Butterfly",
+        "location": "United States",
+        "genres_unsanitized": "Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kamikaze Pilots",
+        "location": "United States",
+        "genres_unsanitized": "Grindcore, Powerviolence",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kamikaze Zombie",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal/Crossover",
+        "active": "Active"
+    },
+    {
+        "bandname": "KamiKazeKrieg",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kamikazes",
+        "location": "Portugal",
+        "genres_unsanitized": "Heavy/Thrash/Power Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Kamilla",
+        "location": "United States",
+        "genres_unsanitized": "Gothic Metal/Rock",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Kaminari",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kamlaniye",
+        "location": "Canada",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kamlath",
+        "location": "International",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kammerjäger",
+        "location": "Spain",
+        "genres_unsanitized": "Speed Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kammio",
+        "location": "Finland",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kamo Gryadeshi",
+        "location": "Ukraine",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kamorräh",
+        "location": "Spain",
+        "genres_unsanitized": "Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kamp",
+        "location": "Denmark",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kampen",
+        "location": "Russia",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kampf",
+        "location": "Greece",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Kampf",
+        "location": "France",
+        "genres_unsanitized": "Epic Black/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kampf",
+        "location": "Belarus",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kampfar",
+        "location": "Norway",
+        "genres_unsanitized": "Pagan Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kampfbund",
+        "location": "France",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kämpfe",
+        "location": "Sweden",
+        "genres_unsanitized": "Black Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Kampfzeit",
+        "location": "France",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kampgejst",
+        "location": "Denmark",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kampon",
+        "location": "Philippines",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kampøks",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kamuflase",
+        "location": "Indonesia",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kanako Like Fruits",
+        "location": "Indonesia",
+        "genres_unsanitized": "Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kanashimi",
+        "location": "Japan",
+        "genres_unsanitized": "Funeral Doom/Depressive Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kancerbero",
+        "location": "Spain",
+        "genres_unsanitized": "Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kandang Kawat",
+        "location": "Indonesia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kandaon",
+        "location": "Romania",
+        "genres_unsanitized": "Pagan/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kandar",
+        "location": "Germany",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kandar",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kandela",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kandelabrum",
+        "location": "Brazil",
+        "genres_unsanitized": "Doom/Gothic Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kandisky",
+        "location": "Italy",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kandor",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kane",
+        "location": "Germany",
+        "genres_unsanitized": "Melodic/Progressive Metal/Rock",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaneq",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kanflikt",
+        "location": "Belarus",
+        "genres_unsanitized": "Melodic Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kangal",
+        "location": "Argentina",
+        "genres_unsanitized": "Black/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kangaz Korva",
+        "location": "Russia",
+        "genres_unsanitized": "Brutal Deathcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kangker Otak",
+        "location": "Indonesia",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kanhiwara",
+        "location": "Ecuador",
+        "genres_unsanitized": "Death Metal, Black Metal, Hardcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kania",
+        "location": "Australia",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kanibal",
+        "location": "Indonesia",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kanimega",
+        "location": "Japan",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kankar",
+        "location": "Germany",
+        "genres_unsanitized": "Atmospheric Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kannabinõid",
+        "location": "Estonia",
+        "genres_unsanitized": "Stoner/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kannabis",
+        "location": "Venezuela",
+        "genres_unsanitized": "Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kannabyss",
+        "location": "United States",
+        "genres_unsanitized": "Stoner/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kannon",
+        "location": "Colombia",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kanseil",
+        "location": "Italy",
+        "genres_unsanitized": "Folk Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kanserus Stait",
+        "location": "United States",
+        "genres_unsanitized": "Heavy/Thrash/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kantamus",
+        "location": "Finland",
+        "genres_unsanitized": "Sludge Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kantation",
+        "location": "United States",
+        "genres_unsanitized": "Power/Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kanthaka",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Experimental Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kantica",
+        "location": "Italy",
+        "genres_unsanitized": "Symphonic/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kantiko",
+        "location": "Germany",
+        "genres_unsanitized": "Metalcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kanto Arboretum",
+        "location": "Finland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kantong Simayit",
+        "location": "Indonesia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kantor Voy",
+        "location": "Estonia",
+        "genres_unsanitized": "Progressive Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kanvass",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaohs",
+        "location": "Sweden",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Kaon",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Black Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Kaos",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaos",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaos",
+        "location": "Sweden",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaos",
+        "location": "Canada",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaos",
+        "location": "United States",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaos",
+        "location": "Italy",
+        "genres_unsanitized": "Black Metal/Noise",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Kaos",
+        "location": "United States",
+        "genres_unsanitized": "Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaos",
+        "location": "Canada",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaos",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaos 218",
+        "location": "Israel",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaos Aeon",
+        "location": "United States",
+        "genres_unsanitized": "Symphonic Thrash/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaos Engine",
+        "location": "Italy",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaos Reign",
+        "location": "United States",
+        "genres_unsanitized": "Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaos Rising",
+        "location": "United States",
+        "genres_unsanitized": "Groove/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaos Sacramentum",
+        "location": "Sweden",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaos Vortex",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaoscentrica",
+        "location": "Chile",
+        "genres_unsanitized": "Death Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Kaoskult",
+        "location": "Poland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaoslord",
+        "location": "Italy",
+        "genres_unsanitized": "Progressive Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaosmos",
+        "location": "Italy",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaosophia",
+        "location": "Ukraine",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaosquad",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaosritual",
+        "location": "Norway",
+        "genres_unsanitized": "Black Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Kaosthron",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaosweaver",
+        "location": "France",
+        "genres_unsanitized": "Thrash Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaoteon",
+        "location": "Lebanon",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaothic",
+        "location": "Spain",
+        "genres_unsanitized": "Avant-garde/Progressive Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaotik",
+        "location": "Canada",
+        "genres_unsanitized": "Thrash/Death Metal (early), Death Metal (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaotika",
+        "location": "Hungary",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaotk",
+        "location": "Brazil",
+        "genres_unsanitized": "Technical Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaottick",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Thrash Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Kaoz",
+        "location": "Slovenia",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaoz",
+        "location": "Ukraine",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kapakmens",
+        "location": "Latvia",
+        "genres_unsanitized": "Death Metal/Hardcore Punk",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kapala",
+        "location": "Germany",
+        "genres_unsanitized": "Black/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kapala",
+        "location": "India",
+        "genres_unsanitized": "Death/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kapein",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kapel Maister",
+        "location": "Argentina",
+        "genres_unsanitized": "Symphonic Heavy/Opera Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kapela",
+        "location": "Romania",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kapital",
+        "location": "Indonesia",
+        "genres_unsanitized": "Metalcore/Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kapitalistas Podridão",
+        "location": "Portugal",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kapot",
+        "location": "Netherlands",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kappa Crucis",
+        "location": "Brazil",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaprogöat",
+        "location": "Italy",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaptain Sun",
+        "location": "Sweden",
+        "genres_unsanitized": "Doom Metal (early), Death 'n' Roll (later)",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaptivity",
+        "location": "Italy",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kaput Mortuum",
+        "location": "New Zealand",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kaputtnix",
+        "location": "Germany",
+        "genres_unsanitized": "Thrash Metal with Rock 'n' Roll influences",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kapybara",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Thrash/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kapytaen",
+        "location": "Germany",
+        "genres_unsanitized": "Post-Black Metal/Crust",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kar",
+        "location": "Slovakia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kara",
+        "location": "Finland",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kara Śmierci",
+        "location": "Poland",
+        "genres_unsanitized": "Thrash Metal with Hardcore influences",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Karaboudjan",
+        "location": "Sweden",
+        "genres_unsanitized": "Avant-garde Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Karaczun",
+        "location": "Belarus",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Karadima",
+        "location": "Chile",
+        "genres_unsanitized": "Grindcore/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karakedi",
+        "location": "Turkey",
+        "genres_unsanitized": "Heavy/Thrash Metal with Punk/Rock influences",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karakondjo",
+        "location": "Russia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karakondžula",
+        "location": "Serbia",
+        "genres_unsanitized": "Black/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karakoram",
+        "location": "United States",
+        "genres_unsanitized": "Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karakum",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karamah",
+        "location": "Malaysia",
+        "genres_unsanitized": "Pagan Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karambole",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Karandash",
+        "location": "Sweden",
+        "genres_unsanitized": "Death Metal (early), Hardcore/Death Metal (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karanlığın Sol Eli",
+        "location": "Turkey",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karanlık",
+        "location": "Turkey",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karantina",
+        "location": "Turkey",
+        "genres_unsanitized": "Crossover",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karas",
+        "location": "France",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karas",
+        "location": "United States",
+        "genres_unsanitized": "Post-Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karasafra",
+        "location": "Turkey",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karat",
+        "location": "Indonesia",
+        "genres_unsanitized": "Melodic Death Metal/Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karathos",
+        "location": "United States",
+        "genres_unsanitized": "Black/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Karbo",
+        "location": "Netherlands",
+        "genres_unsanitized": "Groove Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Karbonized Traitor",
+        "location": "Luxembourg",
+        "genres_unsanitized": "Black/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Karbonsoul",
+        "location": "Portugal",
+        "genres_unsanitized": "Gothic Metal (early), Death Metal (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karburalcool",
+        "location": "Brazil",
+        "genres_unsanitized": "Heavy/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karcavul",
+        "location": "France",
+        "genres_unsanitized": "Doom/Death/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karcharodon",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Progressive Power/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karcharoth",
+        "location": "Poland",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karcinoma",
+        "location": "Russia",
+        "genres_unsanitized": "Gothic/Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Karcist",
+        "location": "United States",
+        "genres_unsanitized": "Blackened Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karcist of Manes",
+        "location": "Australia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kardacheron",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kardahas",
+        "location": "Poland",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kardashev",
+        "location": "United States",
+        "genres_unsanitized": "Progressive/Atmospheric Deathcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kardia",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kardinal Sin",
+        "location": "Sweden",
+        "genres_unsanitized": "Heavy/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kardroz",
+        "location": "Austria",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karehgod",
+        "location": "Netherlands",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Karelia",
+        "location": "France",
+        "genres_unsanitized": "Symphonic Heavy/Power Metal (early), Gothic/Industrial Metal (later)",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Karelian Warcry",
+        "location": "Finland",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karen Kenedy",
+        "location": "United States",
+        "genres_unsanitized": "Power/Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Karen Single Band",
+        "location": "Canada",
+        "genres_unsanitized": "Melodic Progressive Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karensdag",
+        "location": "Sweden",
+        "genres_unsanitized": "Crossover/Punk with Grindcore influences",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karg",
+        "location": "Austria",
+        "genres_unsanitized": "Ambient Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kargvint",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kárhozat",
+        "location": "Hungary",
+        "genres_unsanitized": "Power Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Karijes",
+        "location": "Serbia",
+        "genres_unsanitized": "Thrash/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karimlan",
+        "location": "Philippines",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karion",
+        "location": "United States",
+        "genres_unsanitized": "Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Kariostoro",
+        "location": "Japan",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Karisiria",
+        "location": "Peru",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karisma",
+        "location": "Brazil",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Kariwa",
+        "location": "Colombia",
+        "genres_unsanitized": "Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karkadam",
+        "location": "Uruguay",
+        "genres_unsanitized": "Death/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karkadan",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karkajou",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Karkaos",
+        "location": "Canada",
+        "genres_unsanitized": "Melodic Death Metal/Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karkapan",
+        "location": "Malaysia",
+        "genres_unsanitized": "Melodic Black/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Karkav",
+        "location": "International",
+        "genres_unsanitized": "Viking Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karkinos",
+        "location": "Greece",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karkinoz",
+        "location": "Brazil",
+        "genres_unsanitized": "Industrial Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Karkosa",
+        "location": "United States",
+        "genres_unsanitized": "Blackened Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karl Cromok",
+        "location": "Malaysia",
+        "genres_unsanitized": "Heavy Metal/Shred",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karl Krueger",
+        "location": "United States",
+        "genres_unsanitized": "Thrash/Power/Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karl Sanders",
+        "location": "United States",
+        "genres_unsanitized": "Middle Eastern/Egyptian Ambient",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karlahan",
+        "location": "Spain",
+        "genres_unsanitized": "Folk/Black Metal (early), Symphonic/Melodic Death Metal (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karls",
+        "location": "Italy",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Karma",
+        "location": "Brazil",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Karma",
+        "location": "Colombia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Unknown"
+    }
+]

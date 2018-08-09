@@ -1,0 +1,3002 @@
+[
+    {
+        "bandname": "O",
+        "location": "Finland",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "O",
+        "location": "Italy",
+        "genres_unsanitized": "Black Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "O",
+        "location": "Australia",
+        "genres_unsanitized": "Atmospheric Blackened Sludge Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "O Anjo Exterminador",
+        "location": "Brazil",
+        "genres_unsanitized": "Industrial/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "O Cerco",
+        "location": "Portugal",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "O Oráculo de Asaradel",
+        "location": "Brazil",
+        "genres_unsanitized": "Black/Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "O Wretched Man",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "O Zorn!",
+        "location": "United States",
+        "genres_unsanitized": "Doom Metal/Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "O' Krwenen",
+        "location": "France",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "O'Cold Körns",
+        "location": "Austria",
+        "genres_unsanitized": "Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "O, Majestic Winter",
+        "location": "United States",
+        "genres_unsanitized": "Experimental Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Ö-Nirik",
+        "location": "France",
+        "genres_unsanitized": "Melodic Death/Thrash Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "O-Zone",
+        "location": "France",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "O.68",
+        "location": "Germany",
+        "genres_unsanitized": "Doom Metal/Industrial",
+        "active": "Active"
+    },
+    {
+        "bandname": "O.A.",
+        "location": "Japan",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "O.B.E.Y.",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Drone Doom, Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "O.C.D.",
+        "location": "United States",
+        "genres_unsanitized": "Thrash/Groove Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "O.C.D.",
+        "location": "France",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "O.D.",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "O.D.I.O",
+        "location": "Spain",
+        "genres_unsanitized": "Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "O.D.O.",
+        "location": "Italy",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "O.D.R.A",
+        "location": "Poland",
+        "genres_unsanitized": "Sludge Metal/Post-Hardcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "O.H.",
+        "location": "Bulgaria",
+        "genres_unsanitized": "Death/Thrash/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "O.H.D.",
+        "location": "Netherlands",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "O.I.D.",
+        "location": "Italy",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "O.L.D.",
+        "location": "United States",
+        "genres_unsanitized": "Grindcore (early), Industrial/Avant-garde Metal (later)",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "O.M.",
+        "location": "Bolivia",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "O.M.S.F.",
+        "location": "United States",
+        "genres_unsanitized": "Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "O.Miserum.Mane",
+        "location": "Spain",
+        "genres_unsanitized": "Doom/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "O.N.E.",
+        "location": "Russia",
+        "genres_unsanitized": "Heavy/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "O.R.B.",
+        "location": "Canada",
+        "genres_unsanitized": "Progressive/Stoner Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "O.R.C.",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal, Doom Metal, Ambient",
+        "active": "Active"
+    },
+    {
+        "bandname": "O.R.D.A.",
+        "location": "Italy",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "O.S.A.",
+        "location": "Russia",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "O.S.F.",
+        "location": "United States",
+        "genres_unsanitized": "Technical Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "O.S.S.Y",
+        "location": "Finland",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "O.T. Factor",
+        "location": "United States",
+        "genres_unsanitized": "Thrash/Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "O.V.D.",
+        "location": "Finland",
+        "genres_unsanitized": "Speed Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "O.X.",
+        "location": "Russia",
+        "genres_unsanitized": "Heavy/Thrash Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Oak",
+        "location": "Netherlands",
+        "genres_unsanitized": "Folk/Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oak",
+        "location": "Finland",
+        "genres_unsanitized": "Doom Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Oak",
+        "location": "United States",
+        "genres_unsanitized": "Drone/Doom/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oak",
+        "location": "Sweden",
+        "genres_unsanitized": "Doom Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Oak",
+        "location": "Sweden",
+        "genres_unsanitized": "Sludge/Post-Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oak",
+        "location": "France",
+        "genres_unsanitized": "Atmospheric Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oak & Stone",
+        "location": "United States",
+        "genres_unsanitized": "Doom/Stoner Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oak Coffin",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oak Pantheon",
+        "location": "United States",
+        "genres_unsanitized": "Atmospheric Black/Folk/Post-Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oak Roots",
+        "location": "Italy",
+        "genres_unsanitized": "Folk Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oak, Ash & Thorn",
+        "location": "United States",
+        "genres_unsanitized": "Pagan/Folk Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "OakBreaker",
+        "location": "Germany",
+        "genres_unsanitized": "Sludge Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oaken Heart",
+        "location": "Germany",
+        "genres_unsanitized": "Post-Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oaken Throne",
+        "location": "Argentina",
+        "genres_unsanitized": "Melodic Death/Viking Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oaken Tower",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Oakenshield",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Viking/Folk Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oakenshield",
+        "location": "Brazil",
+        "genres_unsanitized": "Pagan Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oakhaart",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Technical Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oakhelm",
+        "location": "United States",
+        "genres_unsanitized": "Pagan Folk Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Oaks",
+        "location": "United States",
+        "genres_unsanitized": "Stoner Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oaks of Bethel",
+        "location": "United States",
+        "genres_unsanitized": "Ambient Drone/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oar",
+        "location": "Australia",
+        "genres_unsanitized": "Post-Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oarfish",
+        "location": "Sweden",
+        "genres_unsanitized": "Atmospheric Doom/Post-Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oath",
+        "location": "Australia",
+        "genres_unsanitized": "Black Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Oath",
+        "location": "Finland",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oath",
+        "location": "Italy",
+        "genres_unsanitized": "Thrash/Speed Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oath",
+        "location": "Canada",
+        "genres_unsanitized": "Folk/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oath",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oath",
+        "location": "Switzerland",
+        "genres_unsanitized": "Death/Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Oath",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Oath",
+        "location": "Finland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oath",
+        "location": "Indonesia",
+        "genres_unsanitized": "Doom/Sludge Metal/Punk",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oath and Addiction",
+        "location": "Germany",
+        "genres_unsanitized": "Avant-garde Black/Doom/Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Oath Div. 666",
+        "location": "Canada",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oath of an Exile",
+        "location": "United States",
+        "genres_unsanitized": "Metalcore/Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oath of Cirion",
+        "location": "Finland",
+        "genres_unsanitized": "Symphonic/Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oath of Cruelty",
+        "location": "United States",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oath of Damnation",
+        "location": "Australia",
+        "genres_unsanitized": "Death/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oath of Insanity",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Oath of Sin",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oath of Woe",
+        "location": "Denmark",
+        "genres_unsanitized": "Epic Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oath to Order",
+        "location": "United States",
+        "genres_unsanitized": "Metalcore/Deathcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oath to Vanquish",
+        "location": "Lebanon",
+        "genres_unsanitized": "Technical Death Metal/Grindcore",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Oath Witness",
+        "location": "Mexico",
+        "genres_unsanitized": "Heavy/Progressive Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Oathbreaker",
+        "location": "Belgium",
+        "genres_unsanitized": "Post-Black Metal/Post-Hardcore",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Oathcult",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oathean",
+        "location": "Korea, South",
+        "genres_unsanitized": "Melodic Black/Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Obake",
+        "location": "Italy",
+        "genres_unsanitized": "Experimental Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obametal Rising",
+        "location": "Japan",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obastra",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Death Metal/Deathcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obat Bius",
+        "location": "Indonesia",
+        "genres_unsanitized": "Black Metal/Crust",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obcisor",
+        "location": "Bosnia and Herzegovina",
+        "genres_unsanitized": "Death Metal/Death 'n' Roll",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obduction",
+        "location": "Slovenia",
+        "genres_unsanitized": "Melodic Death Metal (early), Progressive/Heavy Metal (mid), Alternative Metal/Rock (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obduktion",
+        "location": "Greece",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obduracy",
+        "location": "Sweden",
+        "genres_unsanitized": "Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Obduracy",
+        "location": "Canada",
+        "genres_unsanitized": "Death Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Obdurate Seduction",
+        "location": "Australia",
+        "genres_unsanitized": "Gothic Metal with Thrash Influences",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obdurated",
+        "location": "France",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obe",
+        "location": "Italy",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obeah",
+        "location": "Netherlands",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obed",
+        "location": "Venezuela",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obed Marsh",
+        "location": "Australia",
+        "genres_unsanitized": "Black/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obedience",
+        "location": "Finland",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obedience Paradigm",
+        "location": "Canada",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obedience Thru Suffering",
+        "location": "United States",
+        "genres_unsanitized": "Sludge Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obedience to Dict∆tor",
+        "location": "Italy",
+        "genres_unsanitized": "Blackened Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obedient Chaos",
+        "location": "Finland",
+        "genres_unsanitized": "Melodic Death Metal/Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obehag",
+        "location": "Sweden",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obeisance",
+        "location": "United States",
+        "genres_unsanitized": "Thrash/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obeisance",
+        "location": "Indonesia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obéissance",
+        "location": "Chile",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obelisco",
+        "location": "Colombia",
+        "genres_unsanitized": "Heavy/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obelisk",
+        "location": "United States",
+        "genres_unsanitized": "Epic/Folk Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obelisk",
+        "location": "United States",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obelisk",
+        "location": "Ireland",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obelisk",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obelisk",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obelisk",
+        "location": "United States",
+        "genres_unsanitized": "Thrash/Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obelisk",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obelyskkh",
+        "location": "Germany",
+        "genres_unsanitized": "Psychedelic Doom/Stoner Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obereg",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Folk/Pagan Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obereit",
+        "location": "Russia",
+        "genres_unsanitized": "Black/Dark Metal, Acoustic/Neofolk",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oberion",
+        "location": "Sweden",
+        "genres_unsanitized": "Melodic Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oberon",
+        "location": "Canada",
+        "genres_unsanitized": "Death Metal (early), Thrash/Power Metal (later)",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oberon",
+        "location": "Norway",
+        "genres_unsanitized": "Folk/Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oberon",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Thrash Metal/RAC",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oberon",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Stoner Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oberon",
+        "location": "Australia",
+        "genres_unsanitized": "Symphonic Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oberris",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obertura",
+        "location": "Venezuela",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obertura",
+        "location": "Mexico",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obertura",
+        "location": "Ecuador",
+        "genres_unsanitized": "Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obesity",
+        "location": "Germany",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obessous",
+        "location": "Ecuador",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obey",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obey",
+        "location": "Sweden",
+        "genres_unsanitized": "Death/Thrash Metal/Grindcore",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obey Bizar",
+        "location": "United States",
+        "genres_unsanitized": "Groove Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obey the Moon",
+        "location": "Mexico",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obfuscate",
+        "location": "Hungary",
+        "genres_unsanitized": "Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Obfuscate",
+        "location": "United States",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obfuscate Mass",
+        "location": "Australia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obfuscated Autumn",
+        "location": "Mexico",
+        "genres_unsanitized": "Technical Death Metal/Deathcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obfuscation",
+        "location": "Finland",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obfuscator",
+        "location": "Bolivia",
+        "genres_unsanitized": "Black/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obiat",
+        "location": "Poland",
+        "genres_unsanitized": "Stoner/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obidil",
+        "location": "Slovenia",
+        "genres_unsanitized": "Progressive Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obire Mortem",
+        "location": "Mexico",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obire Pestis",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obispo Fornicado",
+        "location": "Spain",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obitania",
+        "location": "Spain",
+        "genres_unsanitized": "Blackened Pagan Metal/Ambient",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Obito",
+        "location": "Argentina",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Obitor",
+        "location": "Colombia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obituary",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obitum",
+        "location": "Argentina",
+        "genres_unsanitized": "Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obitus",
+        "location": "Sweden",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obitus Vitae",
+        "location": "Spain",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obius",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Object",
+        "location": "Netherlands",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Object of Aggression",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal/Metalcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Objective Zero",
+        "location": "Australia",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Objector",
+        "location": "Belgium",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Objector",
+        "location": "Belgium",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Objet",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblation",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblatus",
+        "location": "Brazil",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblech",
+        "location": "Poland",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblidian",
+        "location": "United States",
+        "genres_unsanitized": "Progressive/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obligatorisk Tortyr",
+        "location": "Sweden",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblige",
+        "location": "United States",
+        "genres_unsanitized": "Groove/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblique Rain",
+        "location": "Portugal",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblique Visions",
+        "location": "Malta",
+        "genres_unsanitized": "Doom Metal (early), Experimental Progressive Metal (2006-)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obliquity",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obliquity Inc.",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Progressive/Melodic Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obliteração",
+        "location": "Brazil",
+        "genres_unsanitized": "Grindcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obliterate",
+        "location": "Slovakia",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obliterate",
+        "location": "Canada",
+        "genres_unsanitized": "Deathcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obliterate the Apex",
+        "location": "United States",
+        "genres_unsanitized": "Technical Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obliterated",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obliterated",
+        "location": "Italy",
+        "genres_unsanitized": "Progressive Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obliterating Vortex",
+        "location": "India",
+        "genres_unsanitized": "Technical Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obliteration",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Thrash/Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obliteration",
+        "location": "United States",
+        "genres_unsanitized": "Death/Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obliteration",
+        "location": "Norway",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obliteration",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obliteration",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obliteration",
+        "location": "Costa Rica",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obliteration",
+        "location": "Brazil",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obliteration",
+        "location": "Mexico",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obliteration of the Obelisk",
+        "location": "Singapore",
+        "genres_unsanitized": "Progressive Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obliteration X",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obliterator",
+        "location": "United States",
+        "genres_unsanitized": "Thrash/Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obliterator",
+        "location": "Portugal",
+        "genres_unsanitized": "Heavy/Thrash Metal/Shred",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obliterator",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obliterator",
+        "location": "Spain",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obliteratus",
+        "location": "United States",
+        "genres_unsanitized": "Depressive Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obliterhate",
+        "location": "Poland",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obliti Devoravit",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblitus",
+        "location": "Australia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obliveion",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obliveon",
+        "location": "Canada",
+        "genres_unsanitized": "Technical Death/Thrash/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivian",
+        "location": "Germany",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivian Nightmare",
+        "location": "Netherlands",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obliviax",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblivio",
+        "location": "Italy",
+        "genres_unsanitized": "Doom/Death Metal (early), Depressive Rock/Metal (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Colombia",
+        "genres_unsanitized": "Heavy/Thrash Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Spain",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Poland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Sweden",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "United States",
+        "genres_unsanitized": "Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Romania",
+        "genres_unsanitized": "Melodic Death/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Poland",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Sweden",
+        "genres_unsanitized": "Stoner Metal/Rock with Grunge influences",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Belgium",
+        "genres_unsanitized": "Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Sweden",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Brazil",
+        "genres_unsanitized": "Heavy/Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Germany",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Italy",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Germany",
+        "genres_unsanitized": "Progressive Metal (early), Heavy Metal (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Poland",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Greece",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Spain",
+        "genres_unsanitized": "Thrash/Doom/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "France",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Lebanon",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Croatia",
+        "genres_unsanitized": "Speed/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Germany",
+        "genres_unsanitized": "Death/Doom Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "United States",
+        "genres_unsanitized": "Technical Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Germany",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Japan",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "Poland",
+        "genres_unsanitized": "Gothic Rock (early), Gothic Metal (later)",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Öblivïon",
+        "location": "France",
+        "genres_unsanitized": "Heavy/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivion",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Black Metal/Ambient",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivion 999",
+        "location": "Italy",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Oblivion A.D.",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal, Rock",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblivion Awaits",
+        "location": "Serbia",
+        "genres_unsanitized": "Symphonic Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivion Circle",
+        "location": "Portugal",
+        "genres_unsanitized": "Gothic Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivion Circle",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Black/Death Metal/Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivion Dawn",
+        "location": "New Zealand",
+        "genres_unsanitized": "Post-Black/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivion Denied",
+        "location": "Denmark",
+        "genres_unsanitized": "Heavy/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivion Echo",
+        "location": "Greece",
+        "genres_unsanitized": "Atmospheric Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivion Knight",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Speed Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivion Machine",
+        "location": "Russia",
+        "genres_unsanitized": "Industrial Groove/Death Metal (early), Industrial/Electronic Rock/Metal (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivion Myth",
+        "location": "United States",
+        "genres_unsanitized": "Power/Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivion River",
+        "location": "Greece",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivion Winters",
+        "location": "United States",
+        "genres_unsanitized": "Symphonic Death/Doom Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Oblivion Worship",
+        "location": "United States",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivion Zero",
+        "location": "United States",
+        "genres_unsanitized": "Progressive/Thrash/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivion's Eye",
+        "location": "Canada",
+        "genres_unsanitized": "Atmospheric/Progressive Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblivion's Garden",
+        "location": "Spain",
+        "genres_unsanitized": "Symphonic/Melodic Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivion's Rising",
+        "location": "Greece",
+        "genres_unsanitized": "Melodic Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivione",
+        "location": "Argentina",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblivionized",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Brutal Death Metal (early), Technical Grindcore (later)",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblivions Kiss",
+        "location": "Germany",
+        "genres_unsanitized": "Gothic/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblivious Enslavement",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Black/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Oblivium",
+        "location": "Indonesia",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblomov",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Black/Death Metal with Folk influences",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblong Box",
+        "location": "United States",
+        "genres_unsanitized": "Death/Thrash/Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Oblyvion",
+        "location": "Italy",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obnounce",
+        "location": "Slovenia",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obnoxious",
+        "location": "Germany",
+        "genres_unsanitized": "Power/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obnoxious",
+        "location": "Sweden",
+        "genres_unsanitized": "Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obnoxious",
+        "location": "France",
+        "genres_unsanitized": "Thrash/Death Metal/Deathcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obnoxious",
+        "location": "Canada",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obnoxious Youth",
+        "location": "International",
+        "genres_unsanitized": "Heavy/Speed/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obnoxiousness",
+        "location": "Poland",
+        "genres_unsanitized": "Doom Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Oboltred",
+        "location": "Lithuania",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obolus",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obor Setan",
+        "location": "Indonesia",
+        "genres_unsanitized": "Progressive Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obrero",
+        "location": "Sweden",
+        "genres_unsanitized": "Doom/Stoner Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obriotanya",
+        "location": "Sweden",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obruthion",
+        "location": "Finland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscence",
+        "location": "Greece",
+        "genres_unsanitized": "Brutal Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscene",
+        "location": "Sweden",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscene",
+        "location": "Sweden",
+        "genres_unsanitized": "Death/Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscene",
+        "location": "Finland",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obscene",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscene Crisis",
+        "location": "Canada",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscene Entity",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscene Eulogy",
+        "location": "Canada",
+        "genres_unsanitized": "Death/Black Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Obscene Evisceration",
+        "location": "Greece",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscene Execration",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscene Gesture",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal/Crossover",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscene Jester",
+        "location": "United States",
+        "genres_unsanitized": "Power/Thrash Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Obscene Nihilist",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscenery",
+        "location": "Netherlands",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Obscenity",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscenity",
+        "location": "Italy",
+        "genres_unsanitized": "Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obscenium",
+        "location": "Australia",
+        "genres_unsanitized": "Technical Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obsceno",
+        "location": "Mexico",
+        "genres_unsanitized": "Death Metal/Goregrind",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscenum",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscenus",
+        "location": "Luxembourg",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscenus",
+        "location": "Portugal",
+        "genres_unsanitized": "Death/Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscest",
+        "location": "Sweden",
+        "genres_unsanitized": "Death Metal/Crust Punk",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscura",
+        "location": "Germany",
+        "genres_unsanitized": "Progressive/Technical Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscura",
+        "location": "Sweden",
+        "genres_unsanitized": "Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obscura",
+        "location": "Ecuador",
+        "genres_unsanitized": "Thrash/Death/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscura Amentia",
+        "location": "Italy",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscura Insania",
+        "location": "Venezuela",
+        "genres_unsanitized": "Stoner/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscura Monotonia Animae",
+        "location": "Italy",
+        "genres_unsanitized": "Ambient/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscura Nocte",
+        "location": "Italy",
+        "genres_unsanitized": "Doom/Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscura Nox Hibernis",
+        "location": "Italy",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscura Pars",
+        "location": "Indonesia",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscura Religio",
+        "location": "Germany",
+        "genres_unsanitized": "Melodic Black/Gothic Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obscura Symphonia",
+        "location": "France",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscurae",
+        "location": "United States",
+        "genres_unsanitized": "Atmospheric Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscurant",
+        "location": "Finland",
+        "genres_unsanitized": "Melodic Death/Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscurarte",
+        "location": "Italy",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscuration",
+        "location": "Norway",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscuration",
+        "location": "France",
+        "genres_unsanitized": "Gothic/Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscuratum",
+        "location": "Sweden",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscurcis Romancia",
+        "location": "Canada",
+        "genres_unsanitized": "Symphonic Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscure",
+        "location": "Spain",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscure",
+        "location": "Netherlands",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Obscure",
+        "location": "France",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscure",
+        "location": "Austria",
+        "genres_unsanitized": "Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obscure",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Metalcore/Death Metal/Grindcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscure",
+        "location": "Germany",
+        "genres_unsanitized": "Groove Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscure",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscure",
+        "location": "Germany",
+        "genres_unsanitized": "Thrash/Groove Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscure",
+        "location": "Turkey",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscure",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscure",
+        "location": "Austria",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscure",
+        "location": "Norway",
+        "genres_unsanitized": "Heavy/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscure",
+        "location": "Germany",
+        "genres_unsanitized": "Atmospheric Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscure",
+        "location": "France",
+        "genres_unsanitized": "Depressive Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscure",
+        "location": "Guatemala",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscure",
+        "location": "Sweden",
+        "genres_unsanitized": "Thrash/Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscure 13",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscure 666",
+        "location": "Poland",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscure Anachronism",
+        "location": "Austria",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscure Burial",
+        "location": "Finland",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscure Death",
+        "location": "Brazil",
+        "genres_unsanitized": "Death/Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscure Devotion",
+        "location": "Italy",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscure Disaster",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscure Dismay",
+        "location": "Italy",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscure Divinity",
+        "location": "Sweden",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscure Dust",
+        "location": "Chile",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscure Evil",
+        "location": "Peru",
+        "genres_unsanitized": "Black/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscure Forêt",
+        "location": "France",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscure Illusions",
+        "location": "Canada",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscure Infinity",
+        "location": "Sweden",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscure Infinity",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscure Lupine Quietus",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscure Mind",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscure Natus",
+        "location": "Greece",
+        "genres_unsanitized": "Atmospheric Death/Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscure Oath",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscure Oracle",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Black/Death Metal (early), Progressive Thrash/Death Metal (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscure Sanity",
+        "location": "United States",
+        "genres_unsanitized": "Deathcore/Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscure Sphere",
+        "location": "Chile",
+        "genres_unsanitized": "Groove/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscure Sphinx",
+        "location": "Poland",
+        "genres_unsanitized": "Sludge/Doom Metal/Post-Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscure Valley",
+        "location": "Brazil",
+        "genres_unsanitized": "Pagan Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscure Vortex",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscurecidos",
+        "location": "Chile",
+        "genres_unsanitized": "Melodic Death/Thrash Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obscured",
+        "location": "Estonia",
+        "genres_unsanitized": "Atmospheric Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscured",
+        "location": "Sweden",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscured",
+        "location": "Serbia",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscured",
+        "location": "Chile",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscured",
+        "location": "Germany",
+        "genres_unsanitized": "Stoner/Doom/Sludge Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscured by Shadows",
+        "location": "Argentina",
+        "genres_unsanitized": "Symphonic Death/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscured Introitu",
+        "location": "Brazil",
+        "genres_unsanitized": "Progressive Death Metal/Fusion",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscured Secretions",
+        "location": "United States",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "ObscureDream",
+        "location": "China",
+        "genres_unsanitized": "Symphonic/Melodic Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscureism",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscuri Tronos",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscuria",
+        "location": "Germany",
+        "genres_unsanitized": "Melodic Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscuritas",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscuritas Est Imperium",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscuritatem",
+        "location": "Italy",
+        "genres_unsanitized": "Funeral Doom/Black Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Obscurité",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscurité",
+        "location": "France",
+        "genres_unsanitized": "Epic Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscurity",
+        "location": "Germany",
+        "genres_unsanitized": "Pagan/Viking Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscurity",
+        "location": "Sweden",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscurity",
+        "location": "Slovenia",
+        "genres_unsanitized": "Thrash/Dark Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscurity",
+        "location": "Greece",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscurity",
+        "location": "Turkey",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscurity",
+        "location": "Sweden",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscurity",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscurity",
+        "location": "Portugal",
+        "genres_unsanitized": "Gothic/Doom Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obscurity",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscurity",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscurity",
+        "location": "Germany",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscurity",
+        "location": "Germany",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obscurity",
+        "location": "Hungary",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscurity Tears",
+        "location": "Brazil",
+        "genres_unsanitized": "Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscurity Truth",
+        "location": "Germany",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscuro",
+        "location": "Sweden",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscuro Austral",
+        "location": "Chile",
+        "genres_unsanitized": "Black Metal with thrash influences",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscuro Corvus",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Melodic Death/Doom/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscuro Ímpeto",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscuro Mausoléu",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscurum",
+        "location": "Belgium",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscurum",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscurum",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscurum",
+        "location": "Slovenia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscurum Malum",
+        "location": "Italy",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Obscurum Noctis",
+        "location": "Romania",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscurus",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscurus",
+        "location": "Germany",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscurus",
+        "location": "Argentina",
+        "genres_unsanitized": "Melodic/Atmospheric Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Obscurus Advocam",
+        "location": "France",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obscurus Codex",
+        "location": "Russia",
+        "genres_unsanitized": "Experimental Black Metal, Epic Doom/Black Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obscurys",
+        "location": "Germany",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Obscvrii Lvnae",
+        "location": "Portugal",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obscyria",
+        "location": "Sweden",
+        "genres_unsanitized": "Thrash Metal (early), Thrash/Death Metal (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsecrate the Deity",
+        "location": "United States",
+        "genres_unsanitized": "Technical Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsecration",
+        "location": "Greece",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsek",
+        "location": "Canada",
+        "genres_unsanitized": "Death Metal/Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsèques",
+        "location": "France",
+        "genres_unsanitized": "Black Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Obsequiae",
+        "location": "United States",
+        "genres_unsanitized": "Medieval/Melodic Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsequies",
+        "location": "Cyprus",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Obsequies",
+        "location": "Netherlands",
+        "genres_unsanitized": "Black/Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obsequies",
+        "location": "Singapore",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obsequy",
+        "location": "United States",
+        "genres_unsanitized": "Progressive/Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obseqvies",
+        "location": "Finland",
+        "genres_unsanitized": "Funeral Drone/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Observant",
+        "location": "Finland",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Observer",
+        "location": "Brazil",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Observer",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Observing the Obscenery",
+        "location": "Canada",
+        "genres_unsanitized": "Black/Heavy Metal/Avant-garde",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsesión Compulsiva",
+        "location": "Spain",
+        "genres_unsanitized": "Industrial/Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obsessed",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obsessed",
+        "location": "Finland",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsessed by Cruelty",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Blackened Death/Thrash Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obsessed by Seth",
+        "location": "Russia",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsessed Mord",
+        "location": "Poland",
+        "genres_unsanitized": "Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obsessed with Death",
+        "location": "Australia",
+        "genres_unsanitized": "Black/Thrash Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Obsession",
+        "location": "United States",
+        "genres_unsanitized": "Heavy/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsession",
+        "location": "Finland",
+        "genres_unsanitized": "Heavy/Gothic Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Obsession",
+        "location": "Argentina",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsession",
+        "location": "Greece",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obsession",
+        "location": "France",
+        "genres_unsanitized": "Heavy/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsession",
+        "location": "China",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsessive Art",
+        "location": "Finland",
+        "genres_unsanitized": "Dark Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obsessment",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obsessor",
+        "location": "Brazil",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsessör",
+        "location": "Germany",
+        "genres_unsanitized": "Black/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obsessor",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal/Crossover/Punk",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obsessos",
+        "location": "Brazil",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obsidia",
+        "location": "Austria",
+        "genres_unsanitized": "Gothic Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obsidian",
+        "location": "Netherlands",
+        "genres_unsanitized": "Progressive Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obsidian",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obsidian",
+        "location": "United States",
+        "genres_unsanitized": "Industrial Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidian",
+        "location": "Belgium",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obsidian",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obsidian",
+        "location": "United States",
+        "genres_unsanitized": "Black/Death/Thrash Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obsidian",
+        "location": "Canada",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidian",
+        "location": "United States",
+        "genres_unsanitized": "Heavy/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidian",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Metal/Djent",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidian Aspect",
+        "location": "Australia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Obsidian Blood",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidian Chamber",
+        "location": "Austria",
+        "genres_unsanitized": "Symphonic Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidian Dawn",
+        "location": "Unknown",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidian Flow",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal/Experimental",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidian Forest",
+        "location": "Australia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidian Gate",
+        "location": "Germany",
+        "genres_unsanitized": "Symphonic Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidian Grave",
+        "location": "United States",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidian Halo",
+        "location": "United States",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obsidian Key",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidian Kingdom",
+        "location": "Spain",
+        "genres_unsanitized": "Experimental Black/Death Metal (early), Progressive Extreme Metal (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidian Knife",
+        "location": "Germany",
+        "genres_unsanitized": "Post-Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidian Monolith",
+        "location": "Australia",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidian Reign",
+        "location": "Canada",
+        "genres_unsanitized": "Progressive/Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obsidian Sea",
+        "location": "Bulgaria",
+        "genres_unsanitized": "Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidian Shell",
+        "location": "Hungary",
+        "genres_unsanitized": "Gothic Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidian Shrine",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidian Sword",
+        "location": "United States",
+        "genres_unsanitized": "Sludge/Drone/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidian Throne",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obsidian Tongue",
+        "location": "United States",
+        "genres_unsanitized": "Atmospheric Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidieth",
+        "location": "Australia",
+        "genres_unsanitized": "Symphonic Melodic Death/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidio",
+        "location": "Italy",
+        "genres_unsanitized": "Symphonic Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidion",
+        "location": "Ireland",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obsidious",
+        "location": "New Zealand",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Obsidium",
+        "location": "Switzerland",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidium",
+        "location": "France",
+        "genres_unsanitized": "Technical/Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsidivm Spirti",
+        "location": "Italy",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obsin",
+        "location": "Brazil",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obskene Sonare",
+        "location": "Austria",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obskur",
+        "location": "Canada",
+        "genres_unsanitized": "Heavy/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obskur",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obskura",
+        "location": "Germany",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obskure",
+        "location": "Brazil",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obskure Torture",
+        "location": "Denmark",
+        "genres_unsanitized": "Black/Death/Doom Metal (early), Dark Ambient/Noise (later)",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obskuritatem",
+        "location": "Bosnia and Herzegovina",
+        "genres_unsanitized": "Black Metal, Ambient/Noise",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obskurum",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Obsolence",
+        "location": "Poland",
+        "genres_unsanitized": "Post-Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsolete",
+        "location": "Malaysia",
+        "genres_unsanitized": "Death Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Obsolete Incarnation",
+        "location": "Germany",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsolete Mankind",
+        "location": "Canada",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsolete Theory",
+        "location": "Italy",
+        "genres_unsanitized": "Death 'n' Roll (early), Blackened Death Metal (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsolete Tomorrow",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Progressive Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsoletenova",
+        "location": "China",
+        "genres_unsanitized": "Technical Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obssesion",
+        "location": "Chile",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obsta",
+        "location": "United States",
+        "genres_unsanitized": "Death/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obstetrical Palsy",
+        "location": "Kazakhstan",
+        "genres_unsanitized": "Brutal Death Metal/Grindcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Obstinacy",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Obstinacy",
+        "location": "Turkey",
+        "genres_unsanitized": "Melodic/Progressive Death Metal",
+        "active": "Active"
+    }
+]

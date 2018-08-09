@@ -1,0 +1,3002 @@
+[
+    {
+        "bandname": "B and R",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "B Chaos",
+        "location": "Mexico",
+        "genres_unsanitized": "Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "B-612",
+        "location": "Uruguay",
+        "genres_unsanitized": "Melodic Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "B-Code",
+        "location": "Italy",
+        "genres_unsanitized": "Stoner Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "B-Low",
+        "location": "Netherlands",
+        "genres_unsanitized": "Death/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "B-Thong",
+        "location": "Sweden",
+        "genres_unsanitized": "Groove Metal/Hardcore",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "B-Toon",
+        "location": "Poland",
+        "genres_unsanitized": "Stoner/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "B.A.R.F.",
+        "location": "Canada",
+        "genres_unsanitized": "Thrash Metal/Hardcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "B.B.P.",
+        "location": "Netherlands",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "B.B.R.",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "B.C.",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "B.C:A.D.",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal/Punk/Crossover",
+        "active": "Active"
+    },
+    {
+        "bandname": "B.D. Union",
+        "location": "Japan",
+        "genres_unsanitized": "Groove Metal/Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "B.D.Ö.",
+        "location": "Estonia",
+        "genres_unsanitized": "Heavy/Thrash Metal, Crossover",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "B.D.S.",
+        "location": "Mexico",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "B.E.N.T.",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "B.F.C.",
+        "location": "Russia",
+        "genres_unsanitized": "Black/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "B.G.T.",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "B.H.P.",
+        "location": "Croatia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "B.L.E.E.D.",
+        "location": "Greece",
+        "genres_unsanitized": "Thrash Metal/Metalcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "B.O.R.N.",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "B.O.T.",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal/Crossover",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "B.O.W.A.",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "B.R.A.S.H.",
+        "location": "United States",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "B.S.D.",
+        "location": "France",
+        "genres_unsanitized": "Deathcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "B.S.T.",
+        "location": "Germany",
+        "genres_unsanitized": "Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "B.S.U.R.",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "B.T.R.",
+        "location": "Bulgaria",
+        "genres_unsanitized": "Hard Rock/Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "B.T.R.",
+        "location": "Russia",
+        "genres_unsanitized": "Heavy Metal/Punk Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "B.Æ.S.J.",
+        "location": "Norway",
+        "genres_unsanitized": "Black/Death Metal/Grindcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baader-Meinhof",
+        "location": "United States",
+        "genres_unsanitized": "Black/Doom/Sludge Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baal",
+        "location": "Mexico",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baal",
+        "location": "Germany",
+        "genres_unsanitized": "Metalcore, Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baal",
+        "location": "Portugal",
+        "genres_unsanitized": "Black Metal/Ambient",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baal",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baal",
+        "location": "France",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baal",
+        "location": "Peru",
+        "genres_unsanitized": "Stoner/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baal",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baal",
+        "location": "New Zealand",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baal",
+        "location": "Spain",
+        "genres_unsanitized": "Grindcore",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Baal Berit",
+        "location": "Poland",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baal Gadrial",
+        "location": "Australia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baal Hamon",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baal Sebul",
+        "location": "Sweden",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baal Therocles",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baal Zabub",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baal Ze Ub",
+        "location": "Germany",
+        "genres_unsanitized": "Black/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baal Zebuth",
+        "location": "Russia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baalberith",
+        "location": "Australia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baalberith",
+        "location": "France",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baalberith",
+        "location": "Norway",
+        "genres_unsanitized": "Black Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Baalberith",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baalberith",
+        "location": "Russia",
+        "genres_unsanitized": "Ambient/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baalberith",
+        "location": "Russia",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baalberith",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Black/Death Metal (early), Black Metal (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baalberith",
+        "location": "France",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baalberith",
+        "location": "Mexico",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baalgedeon",
+        "location": "Mexico",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baalmoral",
+        "location": "Germany",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baalphegor",
+        "location": "Spain",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baalsebub",
+        "location": "Estonia",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baalshamin",
+        "location": "Switzerland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baalzephon",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baatezu",
+        "location": "Netherlands",
+        "genres_unsanitized": "Death/Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "BAB O.D.",
+        "location": "Denmark",
+        "genres_unsanitized": "Sludge Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baba de Sheeva",
+        "location": "Brazil",
+        "genres_unsanitized": "Thrash Metal/Crossover",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baba Yaga",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Baba Yaga",
+        "location": "United States",
+        "genres_unsanitized": "Doom/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baba Yaga",
+        "location": "United States",
+        "genres_unsanitized": "Death/Black/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baba Yaga",
+        "location": "United States",
+        "genres_unsanitized": "Stoner/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Babajaga",
+        "location": "Austria",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Babel",
+        "location": "Indonesia",
+        "genres_unsanitized": "Thrash Metal/Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Babilonia",
+        "location": "Colombia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Babilos",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Babirusa",
+        "location": "Indonesia",
+        "genres_unsanitized": "Thrash Metal/Hardcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baboon King",
+        "location": "New Zealand",
+        "genres_unsanitized": "Sludge/Doom/Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Baboon Rising",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baby Dollz",
+        "location": "Mexico",
+        "genres_unsanitized": "Gothic Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baby Elephant and the Horse",
+        "location": "Poland",
+        "genres_unsanitized": "Psychedelic Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baby Frog",
+        "location": "Indonesia",
+        "genres_unsanitized": "Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baby Stab Horror",
+        "location": "United States",
+        "genres_unsanitized": "Black/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baby Werewolf Hunter",
+        "location": "Poland",
+        "genres_unsanitized": "Heavy/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Babygrinder",
+        "location": "Netherlands",
+        "genres_unsanitized": "Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Babylon",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Babylon",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Babylon",
+        "location": "Italy",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Babylon",
+        "location": "Japan",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Babylon",
+        "location": "Italy",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Babylon",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Babylon",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Babylon",
+        "location": "Malaysia",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Babylon Asleep",
+        "location": "Germany",
+        "genres_unsanitized": "Sludge/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Babylon Fading",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Progressive Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Babylon Fire",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Babylon Mystery Orchestra",
+        "location": "United States",
+        "genres_unsanitized": "Symphonic Gothic/Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Babylon Sad",
+        "location": "Switzerland",
+        "genres_unsanitized": "Avant-garde Death/Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Babylon Whores",
+        "location": "Finland",
+        "genres_unsanitized": "Heavy Metal/Deathrock",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bacab",
+        "location": "Guatemala",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bacalou",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Bacchanalia",
+        "location": "Greece",
+        "genres_unsanitized": "Death/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bacchia Neraida",
+        "location": "Greece",
+        "genres_unsanitized": "Pagan Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bacchus",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bacchus",
+        "location": "Belgium",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bacchus",
+        "location": "France",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bacchus",
+        "location": "France",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bacchus Priest",
+        "location": "Greece",
+        "genres_unsanitized": "Psychedelic Doom/Stoner Metal/Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bachus",
+        "location": "Belarus",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Back Door to Asylum",
+        "location": "Russia",
+        "genres_unsanitized": "Technical Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Back from Ashes",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Back from Death",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Back in Black",
+        "location": "China",
+        "genres_unsanitized": "Black Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Back Out",
+        "location": "Netherlands",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Back Pain",
+        "location": "Slovakia",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Back to Death",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Death Metal/Metalcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Back to R'lyeh",
+        "location": "Spain",
+        "genres_unsanitized": "Avant-garde Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Backbitten from Alive",
+        "location": "Indonesia",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Backblast",
+        "location": "United States",
+        "genres_unsanitized": "Groove/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Backbone",
+        "location": "Belgium",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Backbone",
+        "location": "Germany",
+        "genres_unsanitized": "Thrash Metal/Hardcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Backbone",
+        "location": "Spain",
+        "genres_unsanitized": "Sludge/Stoner Metal/Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Backbone",
+        "location": "Poland",
+        "genres_unsanitized": "Doom/Post-Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Backbone",
+        "location": "Argentina",
+        "genres_unsanitized": "Progressive Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Backdawn",
+        "location": "France",
+        "genres_unsanitized": "Thrash/Death/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Backdraft",
+        "location": "Philippines",
+        "genres_unsanitized": "Heavy Metal/Crossover",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Backdraft",
+        "location": "Chile",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Backfire",
+        "location": "Italy",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Backfired.Hate",
+        "location": "Germany",
+        "genres_unsanitized": "Death/Thrash/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Backhander",
+        "location": "Sweden",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Backhill",
+        "location": "Finland",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Backhoe Butchery",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Backlash",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Backlash",
+        "location": "Italy",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Backlash",
+        "location": "Netherlands",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Backlash",
+        "location": "France",
+        "genres_unsanitized": "Thrash/Heavy Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Backlash",
+        "location": "Malaysia",
+        "genres_unsanitized": "Crossover/Thrash Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Backlash",
+        "location": "Romania",
+        "genres_unsanitized": "Thrash/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Backlash",
+        "location": "United States",
+        "genres_unsanitized": "Heavy/Thrash Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Backlash",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Backmask",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Backscattered",
+        "location": "Mexico",
+        "genres_unsanitized": "Heavy/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Backslash",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "BackSlide",
+        "location": "Ukraine",
+        "genres_unsanitized": "Death Metal/Deathcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Backslider",
+        "location": "Belgium",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Backstabber",
+        "location": "Canada",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Backstabbing Bastard",
+        "location": "Finland",
+        "genres_unsanitized": "Melodic Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Backstage",
+        "location": "France",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Backstroke",
+        "location": "Brazil",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Backtimes",
+        "location": "Brazil",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Backup",
+        "location": "Canada",
+        "genres_unsanitized": "Thrash Metal/Hardcore",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Backup",
+        "location": "Germany",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "BackWardness",
+        "location": "Sweden",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Backwater",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy/Speed Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Backwoods",
+        "location": "United States",
+        "genres_unsanitized": "Drone/Doom Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Backwoods Payback",
+        "location": "United States",
+        "genres_unsanitized": "Stoner/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Backyard Burial",
+        "location": "New Zealand",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Backyard Mortuary",
+        "location": "Australia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Backyotomy",
+        "location": "United States",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baco",
+        "location": "Chile",
+        "genres_unsanitized": "Thrash/Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bacon Warriors",
+        "location": "Sweden",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Bacrus",
+        "location": "Colombia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Bacteremia",
+        "location": "Colombia",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bacteria",
+        "location": "Colombia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bacteria",
+        "location": "Argentina",
+        "genres_unsanitized": "Heavy/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bacteria",
+        "location": "Malaysia",
+        "genres_unsanitized": "Symphonic Thrash/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bacteria",
+        "location": "Uruguay",
+        "genres_unsanitized": "Groove Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bacterial Husk",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bacterial Vaginosis",
+        "location": "Indonesia",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bactery",
+        "location": "France",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bactherion",
+        "location": "Portugal",
+        "genres_unsanitized": "Black/Doom Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Bactotavaiy",
+        "location": "Algeria",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baculum",
+        "location": "France",
+        "genres_unsanitized": "Black/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bad Acid",
+        "location": "Sweden",
+        "genres_unsanitized": "Stoner Metal/Psychedelic Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bad Acid Trip",
+        "location": "United States",
+        "genres_unsanitized": "Crossover/Thrash Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bad Actor",
+        "location": "United States",
+        "genres_unsanitized": "Progressive/Sludge Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bad Ambition",
+        "location": "Italy",
+        "genres_unsanitized": "Progressive Metal (early), Hard Rock (later)",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bad Angels",
+        "location": "France",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bad Angle",
+        "location": "United States",
+        "genres_unsanitized": "Sludge Metal/Crust",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bad Attitude",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bad Axe",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bad Blood",
+        "location": "Croatia",
+        "genres_unsanitized": "Thrash Metal/Hardcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bad Blood",
+        "location": "United States",
+        "genres_unsanitized": "Progressive/Thrash Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Bad Blood",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Heavy/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bad Boat",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Stoner/Doom Metal (early), Hard Rock (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bad Butler",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bad Comedy",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Bad Dog Bad",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bad Dream",
+        "location": "United States",
+        "genres_unsanitized": "Psychedelic Doom/Stoner Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bad Erection",
+        "location": "Germany",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bad Evolution Theory",
+        "location": "Finland",
+        "genres_unsanitized": "Thrash/Alternative Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bad Face",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Death/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bad Habbit",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bad Habits",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bäd Hammer",
+        "location": "Austria",
+        "genres_unsanitized": "Thrash Metal/Crossover",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bad Heaven",
+        "location": "United States",
+        "genres_unsanitized": "Speed Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bäd Influence",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bad Influence",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Bad Intention",
+        "location": "Germany",
+        "genres_unsanitized": "Melodic Heavy Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Bad January",
+        "location": "United States",
+        "genres_unsanitized": "Heavy/Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bad Joke",
+        "location": "Chile",
+        "genres_unsanitized": "Heavy/Speed Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bad Karma",
+        "location": "United States",
+        "genres_unsanitized": "Heavy/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bad Karma",
+        "location": "Australia",
+        "genres_unsanitized": "Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bad Lizard",
+        "location": "Belgium",
+        "genres_unsanitized": "Hard Rock (early), Power Metal (later)",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bad Loser",
+        "location": "Japan",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bad Luck Rides on Wheels",
+        "location": "Germany",
+        "genres_unsanitized": "Sludge/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bad Mamasan",
+        "location": "China",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bad Mean Tone",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Bad Medicine",
+        "location": "Denmark",
+        "genres_unsanitized": "Hard Rock/Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bad Men",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Doom/Stoner Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bad More Ending",
+        "location": "Italy",
+        "genres_unsanitized": "Thrash/Groove Metal/Metalcore",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Bad News",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bad Omen",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bad Press",
+        "location": "United States",
+        "genres_unsanitized": "Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bad Salad",
+        "location": "Brazil",
+        "genres_unsanitized": "Progressive Metal/Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bad Steve",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bad Taste",
+        "location": "Poland",
+        "genres_unsanitized": "Thrash/Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bad Taste",
+        "location": "Spain",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bad Taste",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bad Taste",
+        "location": "Brazil",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bad to the Bone",
+        "location": "Italy",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bad Victim",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Death Metal, Groove/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bad Voodoo",
+        "location": "Mexico",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bad Whispers",
+        "location": "France",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bad Year",
+        "location": "United States",
+        "genres_unsanitized": "Sludge/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bad Yodelers",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal/Crossover",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Badana",
+        "location": "Spain",
+        "genres_unsanitized": "Hard Rock/Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Badass Commander",
+        "location": "Canada",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Badcarrion",
+        "location": "Indonesia",
+        "genres_unsanitized": "Technical Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Badfare State",
+        "location": "Spain",
+        "genres_unsanitized": "Thrash Metal/Crossover",
+        "active": "Active"
+    },
+    {
+        "bandname": "Badge",
+        "location": "United Kingdom",
+        "genres_unsanitized": "NWOBHM",
+        "active": "Active"
+    },
+    {
+        "bandname": "Badge",
+        "location": "Austria",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Badge of Apathy",
+        "location": "Germany",
+        "genres_unsanitized": "Metalcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Badhead",
+        "location": "Russia",
+        "genres_unsanitized": "Thrash/Heavy Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Badluck",
+        "location": "Turkey",
+        "genres_unsanitized": "Glam/Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Badmotorfinger",
+        "location": "Italy",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Badness Hell",
+        "location": "Argentina",
+        "genres_unsanitized": "Blackened Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Badoc",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bädr Vogu",
+        "location": "United States",
+        "genres_unsanitized": "Crust/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Badragath",
+        "location": "Turkey",
+        "genres_unsanitized": "Black Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Badreams",
+        "location": "Italy",
+        "genres_unsanitized": "Heavy/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Badtrip Surfdeath",
+        "location": "Brazil",
+        "genres_unsanitized": "Thrash Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "BadTrippe",
+        "location": "Canada",
+        "genres_unsanitized": "Grindcore with Death Metal influences",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Baekdoosan",
+        "location": "Korea, South",
+        "genres_unsanitized": "Heavy Metal/Hard Rock (early, later), Thrash Metal (mid)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bael",
+        "location": "France",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bael",
+        "location": "Bolivia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bael",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bael",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bael Kultus",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bael Occultus",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baerenzorn",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal, Pagan/Viking Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Baerus",
+        "location": "Germany",
+        "genres_unsanitized": "Blackened Sludge/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baffald",
+        "location": "Canada",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Baffald Brainz",
+        "location": "Canada",
+        "genres_unsanitized": "Thrash Metal/Crossover",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Baffled",
+        "location": "Canada",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bafomet",
+        "location": "Japan",
+        "genres_unsanitized": "Black/Speed Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bag a Head",
+        "location": "Greece",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Bag of Gremlins",
+        "location": "United States",
+        "genres_unsanitized": "Grindcore/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bag of Humans",
+        "location": "United States",
+        "genres_unsanitized": "Avant-garde Extreme/Atmospheric Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baga",
+        "location": "Brazil",
+        "genres_unsanitized": "Brutal Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bagatur",
+        "location": "Bulgaria",
+        "genres_unsanitized": "Pagan Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baghdad",
+        "location": "United States",
+        "genres_unsanitized": "Doom/Stoner Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Baghead",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bagheera",
+        "location": "Netherlands",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bagronk",
+        "location": "Argentina",
+        "genres_unsanitized": "Death/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bagual",
+        "location": "Argentina",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bagual",
+        "location": "Chile",
+        "genres_unsanitized": "Stoner Metal/Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bagual",
+        "location": "Uruguay",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bahajang",
+        "location": "Malaysia",
+        "genres_unsanitized": "Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bahal",
+        "location": "Italy",
+        "genres_unsanitized": "Progressive Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bahamut",
+        "location": "Portugal",
+        "genres_unsanitized": "Atmospheric Black Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Bahimiron",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bahrrecht",
+        "location": "France",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baht",
+        "location": "Turkey",
+        "genres_unsanitized": "Progressive Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baigaliin Haranhui",
+        "location": "Mongolia",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baile y Borrachera",
+        "location": "Chile",
+        "genres_unsanitized": "Avant-garde Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baise Ma Hache",
+        "location": "France",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baixo Calão",
+        "location": "Brazil",
+        "genres_unsanitized": "Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bajel",
+        "location": "Spain",
+        "genres_unsanitized": "Power/Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bajen Death Cult",
+        "location": "Sweden",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bajo Sombras",
+        "location": "Chile",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bajo Sueños",
+        "location": "Ecuador",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bajo Tierra",
+        "location": "Bolivia",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Bajo Zero",
+        "location": "Venezuela",
+        "genres_unsanitized": "Power/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "BajoMundo",
+        "location": "Chile",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Bajonet",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bajopresión",
+        "location": "Spain",
+        "genres_unsanitized": "Progressive/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bak de Syv Fjell",
+        "location": "Norway",
+        "genres_unsanitized": "Folk/Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Baked Bomb",
+        "location": "Japan",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bakjaruh",
+        "location": "Germany",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bakken",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Thrash/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baksztag",
+        "location": "Poland",
+        "genres_unsanitized": "Folk/Power/Heavy Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Bakteria",
+        "location": "Sweden",
+        "genres_unsanitized": "Thrash Metal/Crust",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bakterium",
+        "location": "Mexico",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baktheria",
+        "location": "Portugal",
+        "genres_unsanitized": "Death/Thrash Metal/Crust",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bal-Sagoth",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Symphonic/Epic Black Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Balaam",
+        "location": "France",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Balaena",
+        "location": "Japan",
+        "genres_unsanitized": "Progressive Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balam",
+        "location": "United States",
+        "genres_unsanitized": "Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balam Akab",
+        "location": "Mexico",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balambika",
+        "location": "Indonesia",
+        "genres_unsanitized": "Black Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Balance Interruption",
+        "location": "Ukraine",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balance of Power",
+        "location": "United Kingdom",
+        "genres_unsanitized": "AOR (early), Power/Progressive Metal (later)",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Balance of Power",
+        "location": "United States",
+        "genres_unsanitized": "Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Balance of Silence",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Thrash Metal/Metalcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Balance of Terror",
+        "location": "Indonesia",
+        "genres_unsanitized": "Brutal Death Metal/Grindcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Balance of Terror",
+        "location": "France",
+        "genres_unsanitized": "Brutal Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balanitis",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balas de Plata",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy/Speed Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Balas Dendam",
+        "location": "Indonesia",
+        "genres_unsanitized": "Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balatonizer",
+        "location": "Italy",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balberith",
+        "location": "Singapore",
+        "genres_unsanitized": "Black Metal, Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balberith",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Balberith Incinerum",
+        "location": "Mexico",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Balbulus",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Industrial Metal/Post-Rock/Electronica",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balcanium",
+        "location": "Germany",
+        "genres_unsanitized": "Melodic Death Metal/Metalcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Båld Imperium",
+        "location": "Sweden",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Balder",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Balder & Forseti",
+        "location": "Switzerland",
+        "genres_unsanitized": "Experimental/Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balder Dead",
+        "location": "United States",
+        "genres_unsanitized": "Industrial Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Balders Likferd",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baldrian",
+        "location": "Italy",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baldrs Draumar",
+        "location": "Netherlands",
+        "genres_unsanitized": "Folk/Viking Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baldur",
+        "location": "Chile",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balegard",
+        "location": "Finland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Balero",
+        "location": "United States",
+        "genres_unsanitized": "Groove/Stoner Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balescream",
+        "location": "Australia",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balest",
+        "location": "Italy",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balezn",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Balflare",
+        "location": "Japan",
+        "genres_unsanitized": "Melodic Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balfor",
+        "location": "Russia",
+        "genres_unsanitized": "Progressive Death/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balfor",
+        "location": "Ukraine",
+        "genres_unsanitized": "Melodic Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balina",
+        "location": "Turkey",
+        "genres_unsanitized": "Atmospheric Post-Metal/Post-Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baliset",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Metal/Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balistic",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Balistik Kick",
+        "location": "United States",
+        "genres_unsanitized": "Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Balistraria",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balkan",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balkhara",
+        "location": "Bulgaria",
+        "genres_unsanitized": "Stoner Metal/Rock",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Ballantinez",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Ballard",
+        "location": "Spain",
+        "genres_unsanitized": "Sludge/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Ballastic",
+        "location": "Indonesia",
+        "genres_unsanitized": "Gothic Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Ballerina",
+        "location": "Indonesia",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Ballgag",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal/Grind 'n' Roll",
+        "active": "Active"
+    },
+    {
+        "bandname": "Ballhammer",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Heavy Metal/Punk",
+        "active": "Active"
+    },
+    {
+        "bandname": "Ballistic",
+        "location": "United States",
+        "genres_unsanitized": "Speed/Power Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Ballistic Whiplash",
+        "location": "United States",
+        "genres_unsanitized": "Power/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Ballistika",
+        "location": "United States",
+        "genres_unsanitized": "Symphonic Black/Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Ballistixx",
+        "location": "United States",
+        "genres_unsanitized": "Progressive/Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Balls Deep",
+        "location": "United States",
+        "genres_unsanitized": "Death/Groove Metal/Metalcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Ballsack Warfare",
+        "location": "Indonesia",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balmog",
+        "location": "Spain",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balmung",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Balnasar",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal/Ambient",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balor",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Black Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Balor",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Balor",
+        "location": "United States",
+        "genres_unsanitized": "Black/Doom Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Balor's Eye",
+        "location": "United States",
+        "genres_unsanitized": "Technical/Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balothron",
+        "location": "Finland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Balrog",
+        "location": "France",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Balrog",
+        "location": "Argentina",
+        "genres_unsanitized": "Speed/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balrog",
+        "location": "Sweden",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balrog",
+        "location": "Italy",
+        "genres_unsanitized": "Power/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balrog",
+        "location": "Belarus",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balseraph",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Balshazaars Feast",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Balt Hüttar",
+        "location": "Italy",
+        "genres_unsanitized": "Folk Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baltak",
+        "location": "Australia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balthasar",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Progressive Metal/Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balthazar",
+        "location": "New Zealand",
+        "genres_unsanitized": "Black Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Balthazor",
+        "location": "Indonesia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balthorum",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baltico",
+        "location": "Argentina",
+        "genres_unsanitized": "Power/Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baltimor",
+        "location": "Finland",
+        "genres_unsanitized": "Heavy/Speed Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balvaz",
+        "location": "Norway",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Balyios",
+        "location": "South Africa",
+        "genres_unsanitized": "Melodic Folk Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Balymba",
+        "location": "Ukraine",
+        "genres_unsanitized": "Sludge Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Balzabouth",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Banana Mayor",
+        "location": "Italy",
+        "genres_unsanitized": "Progressive Stoner Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bananaslama",
+        "location": "United States",
+        "genres_unsanitized": "Brutal Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Banaspati",
+        "location": "Indonesia",
+        "genres_unsanitized": "Blackened Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Banazvaty",
+        "location": "Indonesia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Banco de Semen",
+        "location": "Ecuador",
+        "genres_unsanitized": "Goregrind",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Band of Destruction",
+        "location": "United States",
+        "genres_unsanitized": "Speed/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Band of Wolves",
+        "location": "Austria",
+        "genres_unsanitized": "Black Metal/Punk",
+        "active": "Active"
+    },
+    {
+        "bandname": "Banda de la Muerte",
+        "location": "Argentina",
+        "genres_unsanitized": "Stoner/Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bandana Revenge",
+        "location": "Brazil",
+        "genres_unsanitized": "Thrash Metal/Punk/Crossover",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bandanos",
+        "location": "Brazil",
+        "genres_unsanitized": "Thrash Metal/Crossover",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bandärløg",
+        "location": "Russia",
+        "genres_unsanitized": "Black Metal/Hardcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bandemonic",
+        "location": "Greece",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bandera de Odio",
+        "location": "Guatemala",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bandersnatch",
+        "location": "France",
+        "genres_unsanitized": "Progressive/Stoner Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bandiet",
+        "location": "Netherlands",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bandit Revolver",
+        "location": "Japan",
+        "genres_unsanitized": "Heavy Metal, Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bandoso",
+        "location": "Indonesia",
+        "genres_unsanitized": "Melodic Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bane",
+        "location": "United States",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bane",
+        "location": "Philippines",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bane",
+        "location": "Serbia",
+        "genres_unsanitized": "Melodic Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bane and Illusion",
+        "location": "Canada",
+        "genres_unsanitized": "Black Metal/Ambient",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bane of Bedlam",
+        "location": "Australia",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bane of Existence",
+        "location": "United States",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bane of Isildur",
+        "location": "Australia",
+        "genres_unsanitized": "Melodic Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bane of Winterstorm",
+        "location": "Australia",
+        "genres_unsanitized": "Symphonic Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baneful Storm",
+        "location": "France",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Banefull",
+        "location": "Brazil",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baneworth",
+        "location": "Austria",
+        "genres_unsanitized": "Death Metal/Hardcore",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Banewreaker",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal/Hardcore",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Bang",
+        "location": "Colombia",
+        "genres_unsanitized": "Heavy/Speed Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bang",
+        "location": "United States",
+        "genres_unsanitized": "Psychedelic Hard Rock/Heavy Metal, Glam/Pop Rock (mid)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bang Bangalow",
+        "location": "Italy",
+        "genres_unsanitized": "Southern Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bang-Doll",
+        "location": "Japan",
+        "genres_unsanitized": "Thrash/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bang-Utot",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Groove/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bangin' Moon",
+        "location": "United States",
+        "genres_unsanitized": "Heavy/Power Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Bangkai",
+        "location": "Indonesia",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bangover",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bangsat",
+        "location": "Indonesia",
+        "genres_unsanitized": "Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Banish the Demons",
+        "location": "United States",
+        "genres_unsanitized": "Groove Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Banished",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Banished",
+        "location": "Sweden",
+        "genres_unsanitized": "Blackened Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Banished",
+        "location": "Spain",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Banished Force",
+        "location": "Germany",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Banished from Inferno",
+        "location": "Spain",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Banished Reality",
+        "location": "Germany",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Banished Spirits",
+        "location": "France",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Banisher",
+        "location": "Poland",
+        "genres_unsanitized": "Technical/Experimental Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Banishet",
+        "location": "Indonesia",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Banishing",
+        "location": "United States",
+        "genres_unsanitized": "Atmospheric Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Banishment",
+        "location": "United States",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bankeray",
+        "location": "Indonesia",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bann",
+        "location": "Germany",
+        "genres_unsanitized": "Neoclassical/Ambient Black Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Bannbodo",
+        "location": "Malaysia",
+        "genres_unsanitized": "Crossover/Thrash/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Banned from Hell",
+        "location": "Italy",
+        "genres_unsanitized": "Melodic Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Banner of Wrath",
+        "location": "Germany",
+        "genres_unsanitized": "Folk/Gothic Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bannerwar",
+        "location": "Greece",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Banni Conflict",
+        "location": "Brazil",
+        "genres_unsanitized": "Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Banshee",
+        "location": "United States",
+        "genres_unsanitized": "Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Banshee",
+        "location": "Canada",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Banshee",
+        "location": "Mexico",
+        "genres_unsanitized": "Melodic Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Banshee",
+        "location": "Italy",
+        "genres_unsanitized": "Doom/Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Banshee",
+        "location": "France",
+        "genres_unsanitized": "Gothic/Black/Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Banshee",
+        "location": "Finland",
+        "genres_unsanitized": "Doom/Stoner/Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Banshee",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Banshee",
+        "location": "Malaysia",
+        "genres_unsanitized": "Black/Death/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bantha Rider",
+        "location": "Poland",
+        "genres_unsanitized": "Stoner/Sludge Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Banu Maimun",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Banyon",
+        "location": "Australia",
+        "genres_unsanitized": "Deathcore/Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Banzai",
+        "location": "Spain",
+        "genres_unsanitized": "Hard Rock, Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Bao Tap",
+        "location": "Thailand",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baobab Wizard",
+        "location": "Indonesia",
+        "genres_unsanitized": "Black Metal/Crust Punk",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baobhan",
+        "location": "Mexico",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Baph Metis",
+        "location": "United States",
+        "genres_unsanitized": "Symphonic Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baphogoat",
+        "location": "Malaysia",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baphomaster",
+        "location": "Brazil",
+        "genres_unsanitized": "Sludge/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baphomation",
+        "location": "Denmark",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Baphomenum",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baphomet",
+        "location": "Germany",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baphomet",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baphomet",
+        "location": "Brazil",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baphomet",
+        "location": "United States",
+        "genres_unsanitized": "Blackened Death/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baphomet",
+        "location": "Spain",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baphomet",
+        "location": "Colombia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baphomet Throne Hell's",
+        "location": "Bolivia",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baphomet's Blood",
+        "location": "Italy",
+        "genres_unsanitized": "Speed/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baphomet's Crest",
+        "location": "United States",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baphomet's Cunt",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baphomet's Throne",
+        "location": "Poland",
+        "genres_unsanitized": "Symphonic Death/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baphomet's Throne",
+        "location": "France",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baphomet's Wrath",
+        "location": "Austria",
+        "genres_unsanitized": "Melodic Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baphometh",
+        "location": "Venezuela",
+        "genres_unsanitized": "Death/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baphometh",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baphometh",
+        "location": "Sri Lanka",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baphometic",
+        "location": "Mexico",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baphometic Dawn",
+        "location": "United States",
+        "genres_unsanitized": "Raw Black Metal/Noise",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Baphometic Deathslaught",
+        "location": "International",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baphometic Fire",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baphometic War Command",
+        "location": "International",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baphomets Horns",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Baphomilitia",
+        "location": "Turkey",
+        "genres_unsanitized": "Death/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baphovomit",
+        "location": "Finland",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bapthomet",
+        "location": "Finland",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Baptised in Ice",
+        "location": "Brazil",
+        "genres_unsanitized": "Viking Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Baptism",
+        "location": "Finland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baptism of Hate",
+        "location": "Australia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Baptiste Brun",
+        "location": "France",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baptized in Blood",
+        "location": "Canada",
+        "genres_unsanitized": "Melodic Thrash Metal/Metalcore",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Baptized in Vaginal Liquid",
+        "location": "France",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baptizer",
+        "location": "United States",
+        "genres_unsanitized": "Sludge/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baptizm",
+        "location": "Indonesia",
+        "genres_unsanitized": "Death Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Bar Sinister",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Bar'Lgura",
+        "location": "United States",
+        "genres_unsanitized": "Symphonic Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Barabas",
+        "location": "Austria",
+        "genres_unsanitized": "Thrash/Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Barabbas",
+        "location": "Germany",
+        "genres_unsanitized": "Doom Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Barabbas",
+        "location": "France",
+        "genres_unsanitized": "Doom/Stoner Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Barabbas",
+        "location": "United States",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Barabbas AK",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Barad Dûr",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Barad Dûr",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Barad-Dur",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Barad-Dur",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Black/Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baradj",
+        "location": "Russia",
+        "genres_unsanitized": "Folk/Progressive/Experimental/Post-Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Barahona",
+        "location": "Chile",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Baraka",
+        "location": "Australia",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Changed name"
+    }
+]

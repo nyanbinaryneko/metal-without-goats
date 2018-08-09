@@ -1,0 +1,3002 @@
+[
+    {
+        "bandname": "C Average",
+        "location": "United States",
+        "genres_unsanitized": "Heavy/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "C'est la Guerre",
+        "location": "Japan",
+        "genres_unsanitized": "Doom/Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "C-187",
+        "location": "Netherlands",
+        "genres_unsanitized": "Groove Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "C-300",
+        "location": "Russia",
+        "genres_unsanitized": "Melodic Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "C-4",
+        "location": "Poland",
+        "genres_unsanitized": "Grindcore/Death 'n' Roll",
+        "active": "Active"
+    },
+    {
+        "bandname": "C-One",
+        "location": "France",
+        "genres_unsanitized": "Heavy/Progressive  Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "C-T Prevail",
+        "location": "Norway",
+        "genres_unsanitized": "Thrash Metal/Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "C-War",
+        "location": "Canada",
+        "genres_unsanitized": "Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "C.A.I.N.",
+        "location": "United States",
+        "genres_unsanitized": "Death/Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "C.A.R.N.E.",
+        "location": "Mexico",
+        "genres_unsanitized": "Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "C.A.S.H.",
+        "location": "Romania",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "C.B Murdoc",
+        "location": "Sweden",
+        "genres_unsanitized": "Technical Groove/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "C.C.C.",
+        "location": "Estonia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "C.C.H.B.",
+        "location": "Sweden",
+        "genres_unsanitized": "Death Metal/Various",
+        "active": "On hold"
+    },
+    {
+        "bandname": "C.C.S.",
+        "location": "United States",
+        "genres_unsanitized": "Power/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "C.D.O.",
+        "location": "Colombia",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "C.F.C.",
+        "location": "Brazil",
+        "genres_unsanitized": "Thrash Metal/Crossover",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "C.F.I.",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "C.F.T.C.",
+        "location": "Croatia",
+        "genres_unsanitized": "Melodic Death/Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "C.H.U.D.",
+        "location": "International",
+        "genres_unsanitized": "Goregrind",
+        "active": "Active"
+    },
+    {
+        "bandname": "C.I.A.",
+        "location": "United States",
+        "genres_unsanitized": "Heavy/Thrash Metal with Hardcore influences",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "C.I.A.",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "C.L.G.",
+        "location": "Italy",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "C.N.P.",
+        "location": "Brazil",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "C.O.B.R.A.",
+        "location": "Italy",
+        "genres_unsanitized": "Melodic Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "C.O.D.",
+        "location": "Finland",
+        "genres_unsanitized": "Doom/Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "C.O.D.",
+        "location": "France",
+        "genres_unsanitized": "Speed/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "C.O.D.",
+        "location": "Russia",
+        "genres_unsanitized": "Industrial Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "C.O.D.E.",
+        "location": "Brazil",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "C.O.E",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "C.O.L.D.",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "C.O.M.A.",
+        "location": "Switzerland",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "C.O.M.A.",
+        "location": "Uruguay",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "C.O.T.L.O.D.",
+        "location": "France",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "C.R.U.C.I.F.I.X.S.",
+        "location": "Argentina",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "C.R.Y.",
+        "location": "Ecuador",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "C.V.I.",
+        "location": "Brazil",
+        "genres_unsanitized": "Grindcore, Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "C.X.",
+        "location": "Russia",
+        "genres_unsanitized": "Sludge/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "C.Y.C.L.E.",
+        "location": "United States",
+        "genres_unsanitized": "Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "C.Y.T",
+        "location": "France",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "C/56",
+        "location": "Brazil",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caacrinolaas",
+        "location": "Spain",
+        "genres_unsanitized": "Black Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Caacrinolas",
+        "location": "Germany",
+        "genres_unsanitized": "Experimental Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caamos",
+        "location": "Finland",
+        "genres_unsanitized": "Melodic Heavy Metal/Hard Rock",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Caarcrinolas",
+        "location": "France",
+        "genres_unsanitized": "Experimental Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "CAB",
+        "location": "United States",
+        "genres_unsanitized": "Heavy/Doom Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Cab Ride Home",
+        "location": "United States",
+        "genres_unsanitized": "Thrash/Groove Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cabal",
+        "location": "Finland",
+        "genres_unsanitized": "Groove Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Cabal",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cabal",
+        "location": "United States",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cabal",
+        "location": "Sweden",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cabal",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cabal",
+        "location": "Nicaragua",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Cabal",
+        "location": "France",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cabal A.D.",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cabal Cripta",
+        "location": "Italy",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cabala",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cabalistic",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Caballero Negro",
+        "location": "El Salvador",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Caballero Negro",
+        "location": "Guatemala",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caballo de Plomo",
+        "location": "Peru",
+        "genres_unsanitized": "Stoner/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caballo Salvaje",
+        "location": "Argentina",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cabals Brut",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caban",
+        "location": "Chile",
+        "genres_unsanitized": "Death/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cabaret Aberrante",
+        "location": "Spain",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cabaret for Bereaved",
+        "location": "Finland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cabestro",
+        "location": "Spain",
+        "genres_unsanitized": "Grindcore/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cabeza de Caballo",
+        "location": "Spain",
+        "genres_unsanitized": "Stoner/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cabeza de Martillo",
+        "location": "Panama",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cable",
+        "location": "United States",
+        "genres_unsanitized": "Atmospheric Sludge Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cable a Tierra",
+        "location": "Chile",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cabra",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cabra Negra",
+        "location": "Colombia",
+        "genres_unsanitized": "Thrash/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cabracan",
+        "location": "Mexico",
+        "genres_unsanitized": "Death Metal with Folk Influences",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cabrakaän",
+        "location": "Mexico",
+        "genres_unsanitized": "Folk/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cabral",
+        "location": "Argentina",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cabrero",
+        "location": "Brazil",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cabrero",
+        "location": "Argentina",
+        "genres_unsanitized": "Melodic Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cabresto",
+        "location": "Argentina",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cabrio",
+        "location": "Chile",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cabrocordero",
+        "location": "Argentina",
+        "genres_unsanitized": "Sludge/Stoner Metal/Experimental",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Cabron",
+        "location": "Russia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Cabut Nyawa",
+        "location": "Indonesia",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caçador de Almas",
+        "location": "Brazil",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caccamon",
+        "location": "Italy",
+        "genres_unsanitized": "Death/Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Cacealma",
+        "location": "Romania",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cacería",
+        "location": "Paraguay",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cachexia",
+        "location": "Australia",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cachexic",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cachorro da Duença",
+        "location": "Brazil",
+        "genres_unsanitized": "Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cachtice",
+        "location": "Sweden",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cacodaemon",
+        "location": "Finland",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cacodaemonic",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Blackened Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cacodemon",
+        "location": "Ireland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cacophony",
+        "location": "United States",
+        "genres_unsanitized": "Speed/Shred/Neoclassical Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cacophony",
+        "location": "Denmark",
+        "genres_unsanitized": "Progressive Melodic Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cacophony of Wailing",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cacotopia",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cactus Chainsaw",
+        "location": "United States",
+        "genres_unsanitized": "Stoner Metal/Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cactus Hag",
+        "location": "United States",
+        "genres_unsanitized": "Sludge/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cactus Jumper",
+        "location": "Russia",
+        "genres_unsanitized": "Stoner/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cactus Stoner Club 1984",
+        "location": "Italy",
+        "genres_unsanitized": "Stoner/Doom Metal with Psychedelic Influences",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cacumen",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy Metal, Hard Rock",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Cadacross",
+        "location": "Finland",
+        "genres_unsanitized": "Death Metal (early), Melodic Death/Folk/Power Metal (later)",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cadafalso",
+        "location": "Brazil",
+        "genres_unsanitized": "Thrash/Death/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadalso",
+        "location": "Spain",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadavalanche",
+        "location": "Australia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadavarice",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaver",
+        "location": "Norway",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaver",
+        "location": "Greece",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cadaver",
+        "location": "Mexico",
+        "genres_unsanitized": "Grindcore/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaver",
+        "location": "Spain",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cadáver",
+        "location": "Spain",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaver",
+        "location": "Indonesia",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaver",
+        "location": "Hong Kong",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaver",
+        "location": "Peru",
+        "genres_unsanitized": "Death/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaver",
+        "location": "Colombia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaver",
+        "location": "Chile",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaver Corps.",
+        "location": "United States",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cadaver Corpse",
+        "location": "Germany",
+        "genres_unsanitized": "Grindcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cadaver Cum",
+        "location": "Italy",
+        "genres_unsanitized": "Goregrind",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaver Disposal",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaver Ecogenics",
+        "location": "United States",
+        "genres_unsanitized": "Grindcore/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaver Goretority",
+        "location": "Indonesia",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaver Inc",
+        "location": "Norway",
+        "genres_unsanitized": "Black/Thrash/Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Cadaver Incubador",
+        "location": "Peru",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaver Macerandum",
+        "location": "Russia",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaver Mutilator",
+        "location": "Italy",
+        "genres_unsanitized": "Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Cadaver Mutilator",
+        "location": "Italy",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaver Putrefacto",
+        "location": "Argentina",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaver Race",
+        "location": "Austria",
+        "genres_unsanitized": "Thrash Metal/Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaver Soiree",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaver Symposium",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cadaver Zombie",
+        "location": "Chile",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadavera",
+        "location": "France",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cadaveria",
+        "location": "Italy",
+        "genres_unsanitized": "Black/Gothic Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaveria",
+        "location": "Colombia",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaveric",
+        "location": "Chile",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaveric Asphyxiation",
+        "location": "Puerto Rico",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaveric Crematorium",
+        "location": "Italy",
+        "genres_unsanitized": "Brutal Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaveric Curse",
+        "location": "Brazil",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaveric Engorgement",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal/Deathcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cadaveric Fumes",
+        "location": "France",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaveric Hunter",
+        "location": "France",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cadaveric Incest",
+        "location": "Finland",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaveric Incubator",
+        "location": "Finland",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaveric Infection",
+        "location": "Brazil",
+        "genres_unsanitized": "Brutal Death Metal (early), Black/Death Metal (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaveric Mass",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cadaveric Poison",
+        "location": "International",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaveric Possession",
+        "location": "Poland",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaveric Spasm",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cadaveric Spasm",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaveric Stench",
+        "location": "France",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cadavericmutilator",
+        "location": "Finland",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cadaverina",
+        "location": "Brazil",
+        "genres_unsanitized": "Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cadaverine",
+        "location": "Australia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cadaverine",
+        "location": "Bulgaria",
+        "genres_unsanitized": "Death Metal/Goregrind",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaveris",
+        "location": "Russia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaverise",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaverist",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaverize",
+        "location": "Sweden",
+        "genres_unsanitized": "Death Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Cadaverizer",
+        "location": "Brazil",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaverment",
+        "location": "United States",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Cadaverous",
+        "location": "Turkey",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cadaverous",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cadaverous Condition",
+        "location": "Austria",
+        "genres_unsanitized": "Goregrind (early), Death Metal/Neofolk (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaverous Contingency",
+        "location": "United States",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaverous Incarnate",
+        "location": "Chile",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaverous Onslaught",
+        "location": "Mexico",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Cadaverous Putrescence",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cadaverous Quartet",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cadaverous Smell",
+        "location": "Ecuador",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaverous State",
+        "location": "New Zealand",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadaverous Suppuration",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cadaveryne",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadavoracity",
+        "location": "Indonesia",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadavrosity",
+        "location": "Canada",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cadavrul",
+        "location": "Romania",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caddis",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Groove/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadebrio",
+        "location": "Chile",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadela Maldita",
+        "location": "Brazil",
+        "genres_unsanitized": "Thrash Metal/Crossover",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadena Perpetua",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cadena Perpetua",
+        "location": "Chile",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Cadense",
+        "location": "United States",
+        "genres_unsanitized": "Thrash/Groove Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cadenz in Black",
+        "location": "Bolivia",
+        "genres_unsanitized": "Progressive/Gothic Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadmium",
+        "location": "France",
+        "genres_unsanitized": "Symphonic Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cadothus",
+        "location": "Finland",
+        "genres_unsanitized": "Progressive/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caducity",
+        "location": "Belgium",
+        "genres_unsanitized": "Epic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caecus",
+        "location": "United States",
+        "genres_unsanitized": "Progressive/Technical Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caecus",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caed Dhu",
+        "location": "Poland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caedeath",
+        "location": "France",
+        "genres_unsanitized": "Death/Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Caedeous",
+        "location": "Portugal",
+        "genres_unsanitized": "Symphonic/Extreme Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caedere",
+        "location": "Netherlands",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caedes",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Caedes",
+        "location": "Sweden",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Caedes",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal/Metalcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Caedes",
+        "location": "Germany",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Caedes",
+        "location": "Austria",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Caedes",
+        "location": "Netherlands",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Caedes Castus",
+        "location": "International",
+        "genres_unsanitized": "Melodic Black Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Caedes Cruenta",
+        "location": "Greece",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caedes Vocum",
+        "location": "France",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caedo",
+        "location": "Slovakia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caelestia",
+        "location": "Greece",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caelestis",
+        "location": "Hungary",
+        "genres_unsanitized": "Brutal Deathcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caelo et Inferno",
+        "location": "El Salvador",
+        "genres_unsanitized": "Funeral Doom Metal (early), Doom/Death Metal (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caelum",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal/Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caelum Adustum",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Caelus",
+        "location": "Spain",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caelvm",
+        "location": "Mexico",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caer",
+        "location": "Chile",
+        "genres_unsanitized": "Drone/Doom/Sludge Metal/Crust",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caer Gwydyon",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Caer Ibormeith",
+        "location": "France",
+        "genres_unsanitized": "Symphonic Gothic/Black Metal (early), Death Metal with Progressive Rock influences (later)",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Caerimonium",
+        "location": "Norway",
+        "genres_unsanitized": "Melodic Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caesarean Section",
+        "location": "Canada",
+        "genres_unsanitized": "Jazz/Death Metal/Grindcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Caesarius",
+        "location": "Russia",
+        "genres_unsanitized": "Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caesarum",
+        "location": "France",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caesius",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Atmospheric Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caetera",
+        "location": "Australia",
+        "genres_unsanitized": "Melodic Death/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cafagiem",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal/Ambient",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Cafergot",
+        "location": "Malaysia",
+        "genres_unsanitized": "Grindcore/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cafeterasub",
+        "location": "Ecuador",
+        "genres_unsanitized": "Death/Thrash/Groove Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Caffa",
+        "location": "United States",
+        "genres_unsanitized": "Death/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caffas Rain",
+        "location": "Netherlands",
+        "genres_unsanitized": "Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cagadera",
+        "location": "Chile",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Cage",
+        "location": "United States",
+        "genres_unsanitized": "Heavy/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cage",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cage of Creation",
+        "location": "Russia",
+        "genres_unsanitized": "Experimental Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cage of Serenity",
+        "location": "Australia",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cage of Torment",
+        "location": "Norway",
+        "genres_unsanitized": "Deathcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caiaphas",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Death Metal/Metalcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Caibalion",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Caid Deceit",
+        "location": "Spain",
+        "genres_unsanitized": "Melodic Heavy/Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Caifaz",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cailleach",
+        "location": "New Zealand",
+        "genres_unsanitized": "Progressive Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Caillech",
+        "location": "Australia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caiman",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Cain",
+        "location": "Greece",
+        "genres_unsanitized": "Heavy/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cain",
+        "location": "Italy",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cain",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Industrial/Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cain",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cain",
+        "location": "Israel",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cain",
+        "location": "Sweden",
+        "genres_unsanitized": "Progressive/Power Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Cain's Alibi",
+        "location": "United States",
+        "genres_unsanitized": "Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cain's Dinasty",
+        "location": "Spain",
+        "genres_unsanitized": "Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cain's Offering",
+        "location": "Finland",
+        "genres_unsanitized": "Melodic Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caïna",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Raw Black Metal (early), Post-Black Metal (later)",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Caïnan Dawn",
+        "location": "France",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cainian Legion",
+        "location": "Chile",
+        "genres_unsanitized": "Pagan Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cainomen",
+        "location": "Indonesia",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cair Rigor",
+        "location": "Russia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cairiss",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Atmospheric Black Metal/Shoegaze",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cairn",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Folk/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cairn",
+        "location": "France",
+        "genres_unsanitized": "Atmospheric Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caitiff",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cajan",
+        "location": "Ecuador",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caje",
+        "location": "United States",
+        "genres_unsanitized": "Thrash/Speed Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cakerawala",
+        "location": "Malaysia",
+        "genres_unsanitized": "Progressive Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cakewet",
+        "location": "Switzerland",
+        "genres_unsanitized": "Brutal Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calabouço",
+        "location": "Brazil",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Calacras",
+        "location": "Mexico",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caladan Brood",
+        "location": "United States",
+        "genres_unsanitized": "Epic/Atmospheric Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caladbolg",
+        "location": "Italy",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Caladmor",
+        "location": "Switzerland",
+        "genres_unsanitized": "Folk/Gothic Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calamitous",
+        "location": "Thailand",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Calamitous Intent",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calamity",
+        "location": "Puerto Rico",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calamity",
+        "location": "United States",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calamity Islet",
+        "location": "Portugal",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calatrilloz",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Gothic Metal/Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calavera",
+        "location": "Argentina",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calavera",
+        "location": "Chile",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calaverno",
+        "location": "Chile",
+        "genres_unsanitized": "Heavy/Stoner Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calb O'Roth",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Calcemia",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calciferum",
+        "location": "France",
+        "genres_unsanitized": "Death/Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Calcined",
+        "location": "Switzerland",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calculated Barbarity",
+        "location": "United States",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calculating Genocide",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal/Deathcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Calcutta",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Caldera",
+        "location": "France",
+        "genres_unsanitized": "Stoner/Doom Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Caldera",
+        "location": "United States",
+        "genres_unsanitized": "Thrash/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calderah",
+        "location": "Austria",
+        "genres_unsanitized": "Progressive/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calderone",
+        "location": "Germany",
+        "genres_unsanitized": "Speed/Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caldwell",
+        "location": "Finland",
+        "genres_unsanitized": "Melodic Black/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Caledonian",
+        "location": "Finland",
+        "genres_unsanitized": "Melodic/Atmospheric Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cales",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Melodic Doom/Pagan Folk Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caleuche",
+        "location": "Ecuador",
+        "genres_unsanitized": "Pagan/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calhoun Conquer",
+        "location": "Switzerland",
+        "genres_unsanitized": "Progressive Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Caliban",
+        "location": "Germany",
+        "genres_unsanitized": "Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caliber",
+        "location": "Indonesia",
+        "genres_unsanitized": "Thrash Metal/Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caliber 666",
+        "location": "Sweden",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Caliber X",
+        "location": "Slovakia",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caliber.X",
+        "location": "Germany",
+        "genres_unsanitized": "Melodic Death/Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Calibern",
+        "location": "Netherlands",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Calibos",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Power/Speed Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calibos",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Calibra",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Calibra",
+        "location": "United States",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calibre 38",
+        "location": "Brazil",
+        "genres_unsanitized": "Heavy/Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Calibre 38",
+        "location": "Chile",
+        "genres_unsanitized": "Thrash metal (early), Thrash Metal/Hardcore Punk (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calibre Infinite",
+        "location": "Germany",
+        "genres_unsanitized": "Epic/Symphonic Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calibre Zero",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calico",
+        "location": "Germany",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Calico Jack",
+        "location": "Italy",
+        "genres_unsanitized": "Folk Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calidad",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Thrash Metal/Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calidelphia",
+        "location": "Argentina",
+        "genres_unsanitized": "Power/Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "California Love",
+        "location": "United States",
+        "genres_unsanitized": "Sludge Metal/Grindcore/Powerviolence",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "California Smile",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Technical Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caliga",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caligatum",
+        "location": "Mexico",
+        "genres_unsanitized": "Symphonic Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caliginosity",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caliginosus Obscurus",
+        "location": "Finland",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Caliginous",
+        "location": "Canada",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Caligo",
+        "location": "Moldova",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caligo",
+        "location": "Brazil",
+        "genres_unsanitized": "Stoner/Doom/Sludge Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caligo",
+        "location": "Argentina",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caligula",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Caligula",
+        "location": "Sweden",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Calígula",
+        "location": "Argentina",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caligula",
+        "location": "Paraguay",
+        "genres_unsanitized": "Black/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caligula",
+        "location": "Belgium",
+        "genres_unsanitized": "Thrash Metal/Avant-garde",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Caligula's Horse",
+        "location": "Australia",
+        "genres_unsanitized": "Progressive Metal/Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caligvla",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caligvla",
+        "location": "Chile",
+        "genres_unsanitized": "Melodic/Blackened Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calipash",
+        "location": "Sweden",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Call Forth the Hordes",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Call from Subconscious",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Call from the Abyss",
+        "location": "Australia",
+        "genres_unsanitized": "Black Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Call Me Savage",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Call of Charon",
+        "location": "Germany",
+        "genres_unsanitized": "Deathcore/Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Call of Decision",
+        "location": "Germany",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Call of Madness",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Death/Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Call of Syn",
+        "location": "France",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Call of the Sirens",
+        "location": "Germany",
+        "genres_unsanitized": "Deathcore/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Call of the Wild",
+        "location": "Canada",
+        "genres_unsanitized": "Heavy/Speed Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Call of the Wolves",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Call of Thousands",
+        "location": "United States",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Call ov Unearthly",
+        "location": "Poland",
+        "genres_unsanitized": "Death/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Call the Paramedics",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal/Grindcore with Rock/Punk Influences",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Call to Arms",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Callahan",
+        "location": "Poland",
+        "genres_unsanitized": "Death Metal with Gothic Influences",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Callan Vincent",
+        "location": "New Zealand",
+        "genres_unsanitized": "Melodic/Progressive Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Callejero",
+        "location": "Argentina",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Callenish Circle",
+        "location": "Netherlands",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Callibos M.S.",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Callicles",
+        "location": "France",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Callidice",
+        "location": "Finland",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calligery",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Calligram",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Black Metal/Hardcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calling Card",
+        "location": "France",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Calling Hour",
+        "location": "United States",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calliophis",
+        "location": "Germany",
+        "genres_unsanitized": "Death/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calliper Square",
+        "location": "France",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Callisto",
+        "location": "Finland",
+        "genres_unsanitized": "Atmospheric Sludge Metal/Post-Hardcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Callous",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Callous",
+        "location": "Australia",
+        "genres_unsanitized": "Groove/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Callous Humanity",
+        "location": "United States",
+        "genres_unsanitized": "Grindcore/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calloused",
+        "location": "United States",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Callousness",
+        "location": "Germany",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Callus",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Thrash/Groove Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Callus",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Stoner/Thrash/Groove Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calm",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Calm",
+        "location": "Poland",
+        "genres_unsanitized": "Psychedelic Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Calm Before the Storm",
+        "location": "Hungary",
+        "genres_unsanitized": "Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calm Hatchery",
+        "location": "Poland",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calmetholt",
+        "location": "Belgium",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calmsite",
+        "location": "Finland",
+        "genres_unsanitized": "Stoner/Melodic Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Caloric",
+        "location": "Thailand",
+        "genres_unsanitized": "Melodic Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calslagen",
+        "location": "Netherlands",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Calth",
+        "location": "Bulgaria",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caltrop",
+        "location": "United States",
+        "genres_unsanitized": "Stoner Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Caltura",
+        "location": "Germany",
+        "genres_unsanitized": "Progressive Death Metal/Deathcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calufrax",
+        "location": "Canada",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calus",
+        "location": "United States",
+        "genres_unsanitized": "Stoner Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calvados",
+        "location": "Russia",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calvaire",
+        "location": "Canada",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calvaire",
+        "location": "Singapore",
+        "genres_unsanitized": "Depressive/Post-Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calvaire",
+        "location": "France",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calvaria",
+        "location": "Mexico",
+        "genres_unsanitized": "Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calvaria",
+        "location": "Poland",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calvaria Fuck Fever",
+        "location": "Germany",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calvário",
+        "location": "Brazil",
+        "genres_unsanitized": "Heavy/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calvario",
+        "location": "Argentina",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Calvario",
+        "location": "Argentina",
+        "genres_unsanitized": "Groove Metal, Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calvario",
+        "location": "Chile",
+        "genres_unsanitized": "Black/Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calvario",
+        "location": "Colombia",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calvario",
+        "location": "Uruguay",
+        "genres_unsanitized": "Melodic Death/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calvarium",
+        "location": "Finland",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Calvarium",
+        "location": "Peru",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Calvarium",
+        "location": "Venezuela",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calvarium",
+        "location": "Italy",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Calvarium",
+        "location": "Indonesia",
+        "genres_unsanitized": "Black/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calvarium Funestus",
+        "location": "Mexico",
+        "genres_unsanitized": "Black Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Calvary",
+        "location": "Italy",
+        "genres_unsanitized": "Atmospheric Death Metal (early), Death Metal (later)",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Calvary",
+        "location": "Germany",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Calvary",
+        "location": "Germany",
+        "genres_unsanitized": "Gothic/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Calvary",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calvary Death",
+        "location": "Brazil",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Calverhine",
+        "location": "Austria",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calypso",
+        "location": "Mexico",
+        "genres_unsanitized": "Symphonic Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Calyx",
+        "location": "Spain",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cam",
+        "location": "France",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cámara Obscura",
+        "location": "Mexico",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Camarosmith",
+        "location": "United States",
+        "genres_unsanitized": "Heavy/Stoner Metal/Hard Rock",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Camaxtli",
+        "location": "Mexico",
+        "genres_unsanitized": "Black Metal",
+        "active": "Unknown"
+    },
+    {
+        "bandname": "Camaxtli Yoxippa",
+        "location": "Mexico",
+        "genres_unsanitized": "Folk/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Camazotz",
+        "location": "Sweden",
+        "genres_unsanitized": "Pagan Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cambian Dawn",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cambion",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Melodic Death Metal/Metalcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cambion",
+        "location": "International",
+        "genres_unsanitized": "Blackened Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cambodia",
+        "location": "Canada",
+        "genres_unsanitized": "Sludge/Epic Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cambodia",
+        "location": "Germany",
+        "genres_unsanitized": "Death/Thrash Metal/Metalcore",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Camboja",
+        "location": "Indonesia",
+        "genres_unsanitized": "Symphonic Gothic Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Cambrian",
+        "location": "Italy",
+        "genres_unsanitized": "Stoner/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Camel Heavy",
+        "location": "United States",
+        "genres_unsanitized": "Stoner/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Camel of Doom",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Experimental Stoner/Doom Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Camelot",
+        "location": "Germany",
+        "genres_unsanitized": "Power Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Camelot",
+        "location": "Hungary",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Camelot",
+        "location": "Spain",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Camelot",
+        "location": "Mexico",
+        "genres_unsanitized": "Hard Rock (early), Heavy Metal (later)",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Camembert",
+        "location": "Argentina",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Camera Oscura",
+        "location": "Italy",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Camerata",
+        "location": "Brazil",
+        "genres_unsanitized": "Progressive Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cameron Conyer",
+        "location": "United States",
+        "genres_unsanitized": "Progressive Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cameron Vegas",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Heavy Metal/Hard Rock",
+        "active": "Active"
+    },
+    {
+        "bandname": "Camerra",
+        "location": "Switzerland",
+        "genres_unsanitized": "Groove/Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Camicia Nera",
+        "location": "Brazil",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Camilla Rhodes",
+        "location": "Canada",
+        "genres_unsanitized": "Death Metal/Metalcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Camion",
+        "location": "Italy",
+        "genres_unsanitized": "Stoner/Southern Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Camion",
+        "location": "Argentina",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Camisole",
+        "location": "Japan",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Camlann",
+        "location": "Spain",
+        "genres_unsanitized": "Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Camlann",
+        "location": "United States",
+        "genres_unsanitized": "Power/Melodic Death Metal (early), Blackened Shoegaze/Power Metal (later)",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cammelot",
+        "location": "Brazil",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cammo Shorts",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Camorra",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Deathcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Camorristas",
+        "location": "Germany",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Camos",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Camos",
+        "location": "Poland",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Camoz",
+        "location": "Germany",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Camp",
+        "location": "Netherlands",
+        "genres_unsanitized": "Grindcore/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Camp Chaos",
+        "location": "Austria",
+        "genres_unsanitized": "Metalcore/Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Camp Jason",
+        "location": "Germany",
+        "genres_unsanitized": "Thrash Metal with Hardcore Elements",
+        "active": "On hold"
+    },
+    {
+        "bandname": "Camp Loco",
+        "location": "Norway",
+        "genres_unsanitized": "Heavy/Progressive Metal",
+        "active": "Changed name"
+    },
+    {
+        "bandname": "Camphora Monobromata",
+        "location": "Russia",
+        "genres_unsanitized": "Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Campo de Mayo",
+        "location": "Argentina",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Campo Minado",
+        "location": "Brazil",
+        "genres_unsanitized": "Thrash Metal/Crossover",
+        "active": "Active"
+    },
+    {
+        "bandname": "Campo Nero SS",
+        "location": "Italy",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Camponero",
+        "location": "Italy",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Campos Bélicos",
+        "location": "Mexico",
+        "genres_unsanitized": "Heavy Metal/Crossover",
+        "active": "Active"
+    },
+    {
+        "bandname": "Camulos",
+        "location": "Germany",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Camulus",
+        "location": "United States",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Camus",
+        "location": "Chile",
+        "genres_unsanitized": "Power Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Can Abyss",
+        "location": "Netherlands",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cân Bardd",
+        "location": "Switzerland",
+        "genres_unsanitized": "Epic/Atmospheric Folk/Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Can Calyx",
+        "location": "Germany",
+        "genres_unsanitized": "Heavy/Doom/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Can of Worms",
+        "location": "France",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Canaima",
+        "location": "Germany",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Canary of Chaos",
+        "location": "Germany",
+        "genres_unsanitized": "Thrash Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Canaya",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Technical Groove Metal/Metalcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cancer",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Death/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cancer",
+        "location": "Ukraine",
+        "genres_unsanitized": "Depressive Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cancer",
+        "location": "Australia",
+        "genres_unsanitized": "Depressive Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cancer of the Larynx",
+        "location": "Germany",
+        "genres_unsanitized": "Funeral Doom/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cancer Source",
+        "location": "Poland",
+        "genres_unsanitized": "Thrash Metal/Crossover",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cancer Spreading",
+        "location": "Italy",
+        "genres_unsanitized": "Death Metal/Crust",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cancer Whore",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cancerbero",
+        "location": "Chile",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cancerbero",
+        "location": "Cuba",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cancerbero",
+        "location": "Argentina",
+        "genres_unsanitized": "Thrash Metal (early), Death/Thrash Metal (later)",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cancerfaust",
+        "location": "Poland",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cancerian Moon",
+        "location": "United States",
+        "genres_unsanitized": "Raw Black Metal/Ambient",
+        "active": "Active"
+    },
+    {
+        "bandname": "Canceric",
+        "location": "Canada",
+        "genres_unsanitized": "Thrash/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cancerous Abscess",
+        "location": "Germany",
+        "genres_unsanitized": "Brutal Death Metal/Grindcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cancerous Core",
+        "location": "Germany",
+        "genres_unsanitized": "Doom/Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cancerous Factor",
+        "location": "United States",
+        "genres_unsanitized": "Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cancerous Womb",
+        "location": "United Kingdom",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Canchroid",
+        "location": "Portugal",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cancrena",
+        "location": "Italy",
+        "genres_unsanitized": "Groove/Thrash Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cancrena",
+        "location": "Italy",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cancriculus",
+        "location": "Netherlands",
+        "genres_unsanitized": "Raw Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Cancro",
+        "location": "Brazil",
+        "genres_unsanitized": "Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cancroid",
+        "location": "Russia",
+        "genres_unsanitized": "Groove/Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Cancrum Oris",
+        "location": "Colombia",
+        "genres_unsanitized": "Death Metal/Grindcore",
+        "active": "Active"
+    },
+    {
+        "bandname": "Candela",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Speed Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Candela",
+        "location": "Germany",
+        "genres_unsanitized": "Melodic Heavy Metal with Progressive Rock elements",
+        "active": "Active"
+    },
+    {
+        "bandname": "Candelabro",
+        "location": "Spain",
+        "genres_unsanitized": "Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Candelabro",
+        "location": "Brazil",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Candelabrum",
+        "location": "Portugal",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Candeliere",
+        "location": "Brazil",
+        "genres_unsanitized": "Black Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Candelora",
+        "location": "Italy",
+        "genres_unsanitized": "Black Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Candente",
+        "location": "Argentina",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Candero",
+        "location": "Germany",
+        "genres_unsanitized": "Brutal Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Candescence",
+        "location": "Germany",
+        "genres_unsanitized": "Melodic Death Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Candlanaft",
+        "location": "Greece",
+        "genres_unsanitized": "Doom Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Candle",
+        "location": "Sweden",
+        "genres_unsanitized": "Heavy Metal",
+        "active": "Active"
+    },
+    {
+        "bandname": "Candle in the Dark",
+        "location": "Russia",
+        "genres_unsanitized": "Black/Doom/Dark Metal",
+        "active": "Split-up"
+    },
+    {
+        "bandname": "Candle Light",
+        "location": "Indonesia",
+        "genres_unsanitized": "Gothic/Melodic Black Metal",
+        "active": "Active"
+    }
+]
