@@ -1,0 +1,16 @@
+[
+    {
+        "bandname": "!T.O.O.H.!",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Progressive Death Metal/Grindcore (early), Doom Metal (later)",
+        "active": "Active",
+        "genres_cleaned": ""
+    },
+    {
+        "bandname": "!T.E.S.T.!",
+        "location": "Czech Republic",
+        "genres_unsanitized": "Operatic Black Metal/Grindcore",
+        "active": "Active",
+        "genres_cleaned": ""
+    }
+]

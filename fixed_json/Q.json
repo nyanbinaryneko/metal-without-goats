@@ -3,1254 +3,1463 @@
         "bandname": "Q-Box",
         "location": "Germany",
         "genres_unsanitized": "Heavy/Stoner Rock/Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Q-Fonia",
         "location": "Chile",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Q-Squad",
         "location": "Germany",
         "genres_unsanitized": "Power/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Q.W.A.N.",
         "location": "Sweden",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Q5",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal/Hard Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qaanaaq",
         "location": "Italy",
         "genres_unsanitized": "Avant-garde/Progressive Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qaf",
         "location": "Egypt",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qafsiel",
         "location": "United Kingdom",
         "genres_unsanitized": "Post-Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qantice",
         "location": "France",
         "genres_unsanitized": "Symphonic Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qassam",
         "location": "Hungary",
         "genres_unsanitized": "Black Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qayin",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qayin Regis",
         "location": "Spain",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "QBA",
         "location": "Finland",
         "genres_unsanitized": "Groove Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qebehet",
         "location": "Chile",
         "genres_unsanitized": "Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qeddeshet",
         "location": "Japan",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qerbero",
         "location": "Brazil",
         "genres_unsanitized": "Sludge/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "QFT",
         "location": "Sweden",
         "genres_unsanitized": "Melodic Heavy/Symphonic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qhafir",
         "location": "Singapore",
         "genres_unsanitized": "Raw Black Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qharinth",
         "location": "Malaysia",
         "genres_unsanitized": "Symphonic Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qiasmo",
         "location": "Portugal",
         "genres_unsanitized": "Thrash/Death Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qilin",
         "location": "France",
         "genres_unsanitized": "Stoner/Doom Metal/Psychedelic Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qip",
         "location": "United Kingdom",
         "genres_unsanitized": "Death/Electronic/Industrial Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qishash",
         "location": "Indonesia",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qliphoth",
         "location": "Italy",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qliphoth",
         "location": "Brazil",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qodesh",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qojau",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qrixkuor",
         "location": "United Kingdom",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qrujhuk",
         "location": "Korea, South",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "QÜ",
         "location": "Denmark",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qu Kangen Nih",
         "location": "Indonesia",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quadriga",
         "location": "Germany",
         "genres_unsanitized": "Melodic Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quadrivium",
         "location": "Norway",
         "genres_unsanitized": "Avant-garde/Symphonic Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quadrotonn",
         "location": "Germany",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quadruple",
         "location": "Sweden",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quadrus",
         "location": "Greece",
         "genres_unsanitized": "Symphonic/Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quadryss",
         "location": "France",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quaedt",
         "location": "Belgium",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quaero Verum",
         "location": "Australia",
         "genres_unsanitized": "Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quaet Gespuys",
         "location": "Netherlands",
         "genres_unsanitized": "Black Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quake",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quake",
         "location": "United Kingdom",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qualeaceans",
         "location": "Unknown",
         "genres_unsanitized": "Avant-garde Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qualen",
         "location": "Moldova",
         "genres_unsanitized": "Death/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quallus",
         "location": "Germany",
         "genres_unsanitized": "Sludge/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qualm",
         "location": "Hungary",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quandary",
         "location": "Poland",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quandary",
         "location": "Hungary",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quandary",
         "location": "Portugal",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quantum",
         "location": "Sweden",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quantum",
         "location": "Colombia",
         "genres_unsanitized": "Progressive Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quantum",
         "location": "Italy",
         "genres_unsanitized": "Psychedelic Doom Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quantum Hierarchy",
         "location": "Italy",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quantum Illusion",
         "location": "Italy",
         "genres_unsanitized": "Industrial/Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quantum Superposition",
         "location": "Russia",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quarantine",
         "location": "Spain",
         "genres_unsanitized": "Thrash Metal/Hardcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quarantine",
         "location": "India",
         "genres_unsanitized": "Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quark 7",
         "location": "France",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "QuarterBlind",
         "location": "United Kingdom",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quartered",
         "location": "United States",
         "genres_unsanitized": "Grindcore/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "QuarterMaster",
         "location": "Indonesia",
         "genres_unsanitized": "Epic Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quartz",
         "location": "United Kingdom",
         "genres_unsanitized": "NWOBHM",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quasar",
         "location": "Australia",
         "genres_unsanitized": "Progressive Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quasar",
         "location": "France",
         "genres_unsanitized": "Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quasar",
         "location": "Italy",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quasar",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quasar",
         "location": "Chile",
         "genres_unsanitized": "Groove/Heavy Metal/Hard Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quasar Post Mortem",
         "location": "Italy",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quasarborn",
         "location": "Serbia",
         "genres_unsanitized": "Technical Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quasi Modo",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quasidiploid",
         "location": "Japan",
         "genres_unsanitized": "Technical Death Metal/Mathcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quasimodo",
         "location": "Poland",
         "genres_unsanitized": "Black Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quasimodo",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quassar",
         "location": "Spain",
         "genres_unsanitized": "Death/Thrash Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quasy Modo",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quattro Clavos",
         "location": "Spain",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quayde LaHüe",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal/Hard Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qube",
         "location": "Poland",
         "genres_unsanitized": "Progressive/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Queda",
         "location": "Brazil",
         "genres_unsanitized": "Raw Black Metal/Ambient",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Queef Huffer",
         "location": "United States",
         "genres_unsanitized": "Brutal Death Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Queen Absinthia",
         "location": "Germany",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Queen Acid",
         "location": "United States",
         "genres_unsanitized": "Heavy/Thrash Metal/Grunge/Hard Rock",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Queen Annes Revenge",
         "location": "United States",
         "genres_unsanitized": "Metalcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Queen Assassin",
         "location": "United States",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Queen Beast",
         "location": "United States",
         "genres_unsanitized": "Stoner/Sludge Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Queen Dementia",
         "location": "United States",
         "genres_unsanitized": "Melodic Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Queen Evil",
         "location": "Brazil",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Queen of the Elves Land",
         "location": "France",
         "genres_unsanitized": "Melodic Black/Folk Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Queen Trooper",
         "location": "Japan",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Queensrÿche",
         "location": "United States",
         "genres_unsanitized": "Heavy/Power/Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Queensrÿche",
         "location": "United States",
         "genres_unsanitized": "Heavy/Groove Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Queenstone",
         "location": "Finland",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Queensway",
         "location": "France",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Queequeg",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Queer Circle",
         "location": "Slovakia",
         "genres_unsanitized": "Funeral Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quehanna",
         "location": "United States",
         "genres_unsanitized": "Progressive/Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Queiles",
         "location": "Spain",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Queiron",
         "location": "Brazil",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quel che Resta della Cresta",
         "location": "Italy",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quell",
         "location": "United States",
         "genres_unsanitized": "Grindcore/Groove Metal/Metalcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quell the Skies",
         "location": "Finland",
         "genres_unsanitized": "Death Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quelonio",
         "location": "Spain",
         "genres_unsanitized": "Melodic Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quelques Souffrances",
         "location": "France",
         "genres_unsanitized": "Depressive Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quemar",
         "location": "Argentina",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quercus",
         "location": "Czech Republic",
         "genres_unsanitized": "Funeral Doom Metal with Avant-garde elements",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quercus",
         "location": "Poland",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Querimonia",
         "location": "Germany",
         "genres_unsanitized": "Black Metal, Viking Metal, Gothic/Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Querubes",
         "location": "Paraguay",
         "genres_unsanitized": "Progressive/Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ques Ans",
         "location": "Japan",
         "genres_unsanitized": "Melodic Speed Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quest",
         "location": "Denmark",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quest",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quest",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quest",
         "location": "Netherlands",
         "genres_unsanitized": "Melodic Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quest",
         "location": "Lithuania",
         "genres_unsanitized": "Melodic Heavy Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quest for Blood",
         "location": "Japan",
         "genres_unsanitized": "Black/Folk/Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quest for Serenity",
         "location": "United Kingdom",
         "genres_unsanitized": "Black Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quest from Inside",
         "location": "Hungary",
         "genres_unsanitized": "Melodic Death Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quest Haven",
         "location": "Canada",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quest Object Project",
         "location": "Japan",
         "genres_unsanitized": "Heavy/Speed Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quest of Aidance",
         "location": "Sweden",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Question",
         "location": "Mexico",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Question of Madness",
         "location": "United States",
         "genres_unsanitized": "Heavy/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Question-Mark",
         "location": "Germany",
         "genres_unsanitized": "Doom/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Questionmark",
         "location": "Netherlands",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Questions",
         "location": "Brazil",
         "genres_unsanitized": "Thrash Metal/Hardcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Questor",
         "location": "Norway",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "QuetzalQoatl",
         "location": "Russia",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qui Incenditur",
         "location": "Portugal",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quiáltera",
         "location": "Brazil",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quiar",
         "location": "Argentina",
         "genres_unsanitized": "Black/Gothic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quick Change",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quick Fever",
         "location": "United States",
         "genres_unsanitized": "Progressive Neoclassical Power/Speed Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quick Fix",
         "location": "United States",
         "genres_unsanitized": "Melodic Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quick Frisk",
         "location": "United States",
         "genres_unsanitized": "Melodic Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "QuickFire Deus Sol Invictus",
         "location": "Argentina",
         "genres_unsanitized": "Technical Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quicksand Devil",
         "location": "United States",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quicksand Dream",
         "location": "Sweden",
         "genres_unsanitized": "Epic Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quidam 666",
         "location": "Spain",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quiebra",
         "location": "Spain",
         "genres_unsanitized": "Doom Metal/Hard Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quiema",
         "location": "Japan",
         "genres_unsanitized": "Melodic Power Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quiet Absence",
         "location": "Finland",
         "genres_unsanitized": "Melodic Death/Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quiet Human",
         "location": "France",
         "genres_unsanitized": "Folk Rock (early), Experimental/Progressive Death/Doom Metal (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quiet in the Cave",
         "location": "Italy",
         "genres_unsanitized": "Experimental Doom/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quiet Outcry",
         "location": "Finland",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quiet Prayer",
         "location": "Canada",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quiet Revolution",
         "location": "Japan",
         "genres_unsanitized": "Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quiet Riot",
         "location": "United States",
         "genres_unsanitized": "Hard Rock, Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quietflower",
         "location": "Italy",
         "genres_unsanitized": "Heavy/Death Metal/Death 'n' Roll",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quietus",
         "location": "Finland",
         "genres_unsanitized": "Melodic Dark/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quietus",
         "location": "United States",
         "genres_unsanitized": "Death/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quietus",
         "location": "Canada",
         "genres_unsanitized": "Progressive Symphonic Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quietus",
         "location": "Israel",
         "genres_unsanitized": "Gothic/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quietus",
         "location": "Netherlands",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quietus",
         "location": "United States",
         "genres_unsanitized": "Progressive Thrash Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quietus",
         "location": "Canada",
         "genres_unsanitized": "Melodic Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quietus",
         "location": "United Kingdom",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quijote",
         "location": "Spain",
         "genres_unsanitized": "Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quill-pen",
         "location": "Italy",
         "genres_unsanitized": "Epic Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quills",
         "location": "United States",
         "genres_unsanitized": "Grindcore/Sludge Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quilmess",
         "location": "Sweden",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quilter's Bane",
         "location": "Australia",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quimera",
         "location": "Spain",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quimera",
         "location": "Bolivia",
         "genres_unsanitized": "Thrash/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quimera",
         "location": "Chile",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quimera",
         "location": "Mexico",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quimera Infernal",
         "location": "Argentina",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quincunx",
         "location": "United States",
         "genres_unsanitized": "Black/Thrash Metal/Punk",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quinta Enmienda",
         "location": "Spain",
         "genres_unsanitized": "Power Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quinta Essentia",
         "location": "United States",
         "genres_unsanitized": "Black/Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quintessence",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quintessence",
         "location": "Netherlands",
         "genres_unsanitized": "Death/Thrash/Heavy/Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quintessence",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quintessence Mystica",
         "location": "Ukraine",
         "genres_unsanitized": "Symphonic Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quintessence of Flesh",
         "location": "Croatia",
         "genres_unsanitized": "Gothic Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quintessence of Hate",
         "location": "Poland",
         "genres_unsanitized": "Industrial Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quintessente",
         "location": "Brazil",
         "genres_unsanitized": "Death/Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quintessential",
         "location": "Brazil",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quintessenz",
         "location": "Germany",
         "genres_unsanitized": "Black/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quintessenza",
         "location": "Italy",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quintet of Tyrants",
         "location": "Japan",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quinthate",
         "location": "Russia",
         "genres_unsanitized": "Atmospheric Black Metal/Ambient",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quiromancia",
         "location": "Colombia",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quiron",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quis Deo",
         "location": "United States",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quis ut Deus?",
         "location": "Norway",
         "genres_unsanitized": "Raw Black Metal/Ambient",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quittance",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quix",
         "location": "Sweden",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qulielfi",
         "location": "United States",
         "genres_unsanitized": "Psychedelic Folk/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qumran",
         "location": "Mexico",
         "genres_unsanitized": "Speed/Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quo Vadis",
         "location": "Canada",
         "genres_unsanitized": "Technical Melodic Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quo Vadis",
         "location": "Poland",
         "genres_unsanitized": "Death/Thrash/Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quod Demonstratum Est",
         "location": "Hungary",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quorthon",
         "location": "Sweden",
         "genres_unsanitized": "Alternative/Grunge/Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quorthon",
         "location": "New Zealand",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quoth",
         "location": "Denmark",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Quötta Pas",
         "location": "Spain",
         "genres_unsanitized": "Melodic Black Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qupram",
         "location": "Italy",
         "genres_unsanitized": "Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "QuRoQ",
         "location": "Russia",
         "genres_unsanitized": "Thrashcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qusayu",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qutin",
         "location": "Iran",
         "genres_unsanitized": "Progressive/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Qwestion",
         "location": "United States",
         "genres_unsanitized": "Progressive/Industrial Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Quantum Mechanic",
         "location": "United States",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Quantum Possession",
         "location": "Mexico",
         "genres_unsanitized": "Deathcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Quest",
         "location": "Germany",
         "genres_unsanitized": "Melodic Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Quiescent",
         "location": "Belgium",
         "genres_unsanitized": "Melodic Death/Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Quiet Before the Tempest",
         "location": "Italy",
         "genres_unsanitized": "Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Quiet Room",
         "location": "United States",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Quill",
         "location": "Sweden",
         "genres_unsanitized": "Heavy/Stoner Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Quintessence",
         "location": "Hungary",
         "genres_unsanitized": "Avant-garde/Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     }
 ]

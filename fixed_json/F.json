@@ -3,3000 +3,3500 @@
         "bandname": "F",
         "location": "Finland",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F",
         "location": "Finland",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F & M = SSS",
         "location": "Brazil",
         "genres_unsanitized": "Raw Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F 6:17",
         "location": "Mexico",
         "genres_unsanitized": "Blackened Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F-60",
         "location": "Germany",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F-Gor",
         "location": "Russia",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F-Side",
         "location": "Italy",
         "genres_unsanitized": "Progressive/Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F. Roses",
         "location": "Japan",
         "genres_unsanitized": "Melodic Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.A.C.E.",
         "location": "Bulgaria",
         "genres_unsanitized": "Progressive Metal/Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.A.F.",
         "location": "Canada",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.A.I.T.H.",
         "location": "Ukraine",
         "genres_unsanitized": "Melodic Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.A.L.",
         "location": "Argentina",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.A.M.",
         "location": "Poland",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.A.M.A.S.",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.B. Bastard",
         "location": "Switzerland",
         "genres_unsanitized": "Speed/Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.B.I.",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.B.O.T.",
         "location": "Mexico",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.C.A.",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.C.D.N. Tormentor",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.D.B.",
         "location": "Bulgaria",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.D.P.",
         "location": "France",
         "genres_unsanitized": "Speed/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.E.A.R.",
         "location": "United States",
         "genres_unsanitized": "Groove Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.K.Ü.",
         "location": "Sweden",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.M Driver",
         "location": "Korea, South",
         "genres_unsanitized": "Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.M.C.",
         "location": "Italy",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.O.A.D",
         "location": "Sweden",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.O.B.",
         "location": "Czech Republic",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.O.D",
         "location": "Indonesia",
         "genres_unsanitized": "Thrash Metal/Punk",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.O.D.",
         "location": "Poland",
         "genres_unsanitized": "Thrash/Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.O.G.",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal, Hard Rock",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.O.W.",
         "location": "Czech Republic",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.P.G.S.",
         "location": "Austria",
         "genres_unsanitized": "Experimental Black/Doom Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.R.A.M.",
         "location": "Ukraine",
         "genres_unsanitized": "Folk Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.R.O.S.T.",
         "location": "Greece",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.R.Y.",
         "location": "Russia",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.T.G.",
         "location": "Malaysia",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.U.B.A.R.",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.U.C.K.",
         "location": "Chile",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.U.C.Kings",
         "location": "Germany",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.U.C.T.",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F.U.D.",
         "location": "United States",
         "genres_unsanitized": "Crossover/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F104",
         "location": "United Kingdom",
         "genres_unsanitized": "NWOBHM",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F21",
         "location": "Japan",
         "genres_unsanitized": "Melodic Heavy Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F41.0",
         "location": "Germany",
         "genres_unsanitized": "Atmospheric Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "F5",
         "location": "United States",
         "genres_unsanitized": "Power/Thrash Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fa-Q",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faagia",
         "location": "Hungary",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faagrim",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faal",
         "location": "Netherlands",
         "genres_unsanitized": "Funeral Doom/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faanefjell",
         "location": "Norway",
         "genres_unsanitized": "Symphonic Black/Folk Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faarthkrag",
         "location": "Belgium",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faast Orange",
         "location": "Belgium",
         "genres_unsanitized": "Power/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fabbri Macellai",
         "location": "Italy",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fabián Ingrassia",
         "location": "Argentina",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fabian Rauter",
         "location": "Austria",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fabiano Romagnoli",
         "location": "Italy",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fabiant",
         "location": "Belarus",
         "genres_unsanitized": "Melodic Gothic/Death/Thrash/Folk Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fabio La Manna",
         "location": "Italy",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fábio Laguna",
         "location": "Brazil",
         "genres_unsanitized": "Progressive Metal/Shred",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fabio Lentola",
         "location": "Italy",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fabio Montorzi",
         "location": "Italy",
         "genres_unsanitized": "Neoclassical Heavy Metal/Shred",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fabio Morese",
         "location": "Italy",
         "genres_unsanitized": "Progressive Metal/Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fable",
         "location": "Australia",
         "genres_unsanitized": "Epic/Folk Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fabrica de Caníbales",
         "location": "Ecuador",
         "genres_unsanitized": "Grindcore/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fábrica Morta",
         "location": "Brazil",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fabricant",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fabricantes",
         "location": "Argentina",
         "genres_unsanitized": "Progressive Stoner Rock/Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fabula Noctis",
         "location": "Italy",
         "genres_unsanitized": "Symphonic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fabulae Dramatis",
         "location": "Belgium",
         "genres_unsanitized": "Progressive/Avant-garde Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fabulam Fier",
         "location": "Finland",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fabulous",
         "location": "Poland",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fabulous Desaster",
         "location": "Germany",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facada",
         "location": "Brazil",
         "genres_unsanitized": "Grindcore/Crust/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Façade",
         "location": "Netherlands",
         "genres_unsanitized": "Doom/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facção Suicida",
         "location": "Brazil",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faccion de Sangre",
         "location": "Brazil",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face",
         "location": "Poland",
         "genres_unsanitized": "Progressive Thrash/Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face Down",
         "location": "Sweden",
         "genres_unsanitized": "Groove/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face Down",
         "location": "France",
         "genres_unsanitized": "Southern/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face Down Hero",
         "location": "Germany",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face Fear",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face First",
         "location": "United States",
         "genres_unsanitized": "Thrash/Groove Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face It Out",
         "location": "Brazil",
         "genres_unsanitized": "Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face New World",
         "location": "Germany",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face of a Virus",
         "location": "Portugal",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face of Agony",
         "location": "Slovakia",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face of Anger",
         "location": "United States",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face of Chaos",
         "location": "Finland",
         "genres_unsanitized": "Death/Thrash/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face of Evil",
         "location": "Sweden",
         "genres_unsanitized": "Black/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face of Fatality",
         "location": "United Kingdom",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face of Fear",
         "location": "Italy",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face of Hate",
         "location": "Poland",
         "genres_unsanitized": "Groove/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face of Oblivion",
         "location": "United States",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face of Ruin",
         "location": "United States",
         "genres_unsanitized": "Progressive Death Metal/Metalcore (early), Death Metal (later)",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face of the Enemy",
         "location": "United States",
         "genres_unsanitized": "Thrash/Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face Rot",
         "location": "United States",
         "genres_unsanitized": "Blackened Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face the Fact",
         "location": "Italy",
         "genres_unsanitized": "Melodic Death Metal/Deathcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face the Fact",
         "location": "Netherlands",
         "genres_unsanitized": "Death/Thrash Metal/Metalcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face the Flames",
         "location": "United States",
         "genres_unsanitized": "Stoner/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face the Hate",
         "location": "Canada",
         "genres_unsanitized": "Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face the Misery",
         "location": "France",
         "genres_unsanitized": "Symphonic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face the Unknown",
         "location": "United Kingdom",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face to Face",
         "location": "France",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face Yourself",
         "location": "Slovakia",
         "genres_unsanitized": "Melodic Death Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Face.X",
         "location": "Russia",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faceache",
         "location": "United Kingdom",
         "genres_unsanitized": "Groove/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faceblaster",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal/Hardcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facebreaker",
         "location": "Sweden",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facecrime",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faced Reality",
         "location": "Germany",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faced the Victim",
         "location": "Russia",
         "genres_unsanitized": "Progressive Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "FaceDown",
         "location": "Canada",
         "genres_unsanitized": "Metalcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facedowninshit",
         "location": "United States",
         "genres_unsanitized": "Sludge Metal/Hardcore Punk",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "FaceFuck",
         "location": "Australia",
         "genres_unsanitized": "Brutal Death Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facegrinder",
         "location": "Australia",
         "genres_unsanitized": "Brutal Death Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facehugger",
         "location": "Netherlands",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facehugger",
         "location": "Germany",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faceless",
         "location": "Portugal",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faceless",
         "location": "Brazil",
         "genres_unsanitized": "Power/Progressive Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faceless and Descending",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faceless Burial",
         "location": "Australia",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faceless Enemy",
         "location": "United States",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faceless Enemy",
         "location": "Austria",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faceless Entity",
         "location": "Netherlands",
         "genres_unsanitized": "Raw Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faceless God",
         "location": "Greece",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faceless Hatred",
         "location": "United States",
         "genres_unsanitized": "Black/Thrash Metal/Crust",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faceless Hulk",
         "location": "Canada",
         "genres_unsanitized": "Sludge/Death Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faceless Mutilation",
         "location": "United Kingdom",
         "genres_unsanitized": "Brutal Death/Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faceless Night",
         "location": "Italy",
         "genres_unsanitized": "Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facelift",
         "location": "Denmark",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facelift Deformation",
         "location": "International",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facelifter",
         "location": "Netherlands",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facelock",
         "location": "United States",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faceman",
         "location": "Hungary",
         "genres_unsanitized": "Death Metal/Hardcore",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faceofanother",
         "location": "Greece",
         "genres_unsanitized": "Crust Punk/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faceplate",
         "location": "United States",
         "genres_unsanitized": "Thrash/Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facerake",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facerip",
         "location": "Sweden",
         "genres_unsanitized": "Speed/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faces",
         "location": "Poland",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faces",
         "location": "Hungary",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faces of Bayon",
         "location": "United States",
         "genres_unsanitized": "Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faces of Black",
         "location": "Canada",
         "genres_unsanitized": "Stoner/Doom Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faces of Cain",
         "location": "Netherlands",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faces of Death",
         "location": "Brazil",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faces of Destrudo",
         "location": "Japan",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faces of Fear",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faces of Gore",
         "location": "Germany",
         "genres_unsanitized": "Goregrind",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faces of Madness",
         "location": "Brazil",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faces of Many",
         "location": "United States",
         "genres_unsanitized": "Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faces of the Bog",
         "location": "United States",
         "genres_unsanitized": "Progressive/Sludge/Psychedelic Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faces of War",
         "location": "Brazil",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faceshift",
         "location": "Sweden",
         "genres_unsanitized": "Gothic Metal (early), Heavy Metal (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facetumor",
         "location": "Brazil",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "FaceWreck",
         "location": "United States",
         "genres_unsanitized": "Southern Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facial Abuse",
         "location": "Sweden",
         "genres_unsanitized": "Grindcore/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facial Climax",
         "location": "Austria",
         "genres_unsanitized": "Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facial Defecation",
         "location": "United States",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facial Humiliation",
         "location": "Netherlands",
         "genres_unsanitized": "Death Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faciess",
         "location": "France",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facilis Descensus Averni",
         "location": "Russia",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facing Death",
         "location": "Sweden",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facing Death",
         "location": "France",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facing Extinction",
         "location": "United States",
         "genres_unsanitized": "Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facing Fear",
         "location": "Brazil",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facing the Chaos",
         "location": "Japan",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facing the Sun",
         "location": "United States",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facing the Swarm Thought",
         "location": "Germany",
         "genres_unsanitized": "Melodic Death Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facínora",
         "location": "Brazil",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facón",
         "location": "Argentina",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fact",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fact & Fiction",
         "location": "Hungary",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facteur Zéro",
         "location": "France",
         "genres_unsanitized": "Melodic Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faction II",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faction Zero",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Facto Alfa",
         "location": "Bolivia",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Factor",
         "location": "Argentina",
         "genres_unsanitized": "Melodic Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Factor Cross",
         "location": "Brazil",
         "genres_unsanitized": "Melodic Heavy/Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Factor Hate",
         "location": "France",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Factor Kill",
         "location": "Brazil",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Factor RH",
         "location": "Argentina",
         "genres_unsanitized": "Heavy Metal/Hard Rock",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Factor System",
         "location": "Indonesia",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Factory",
         "location": "United Kingdom",
         "genres_unsanitized": "NWOBHM",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Factory",
         "location": "Italy",
         "genres_unsanitized": "Thrash/Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Factory Damage",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Factory of Art",
         "location": "Germany",
         "genres_unsanitized": "Progressive Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Factory of Dreams",
         "location": "International",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Factory of Ghouls",
         "location": "United States",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Factum Mortalis",
         "location": "Colombia",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Factura",
         "location": "Russia",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fade",
         "location": "Italy",
         "genres_unsanitized": "Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fade",
         "location": "India",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fade Away",
         "location": "Greece",
         "genres_unsanitized": "Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fade Sense",
         "location": "Greece",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fade to Black",
         "location": "Macedonia (FYROM)",
         "genres_unsanitized": "Symphonic/Gothic Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fade to Glory",
         "location": "United States",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fade to Oblivion",
         "location": "United States",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faded",
         "location": "Italy",
         "genres_unsanitized": "Black Metal with Folk and Doom Metal Influences",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faded Embrace",
         "location": "United States",
         "genres_unsanitized": "Melodic Death Metal/Hardcore",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faded Grave",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faded Hopes",
         "location": "Greece",
         "genres_unsanitized": "Gothic Doom/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faded Memory",
         "location": "Greece",
         "genres_unsanitized": "Melodic Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faded Serena",
         "location": "Turkey",
         "genres_unsanitized": "Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faded Shadows",
         "location": "Greece",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fadeless Decision",
         "location": "Japan",
         "genres_unsanitized": "Metalcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fadenkreuz",
         "location": "Austria",
         "genres_unsanitized": "Thrash Metal (early), Death Metal (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fadeout",
         "location": "Finland",
         "genres_unsanitized": "Melodic Groove Metal (early), Experimental Rock/Pop (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fader Hvor?",
         "location": "Denmark",
         "genres_unsanitized": "Alternative/Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faderay",
         "location": "Slovakia",
         "genres_unsanitized": "Gothic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fadhalius",
         "location": "Indonesia",
         "genres_unsanitized": "Progressive Folk/Gothic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fadihat",
         "location": "Indonesia",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fading",
         "location": "Poland",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fading Azalea",
         "location": "Sweden",
         "genres_unsanitized": "Symphonic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fading Bliss",
         "location": "Belgium",
         "genres_unsanitized": "Gothic/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fading Circles",
         "location": "Romania",
         "genres_unsanitized": "Power/Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fading Image",
         "location": "Greece",
         "genres_unsanitized": "Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fading Reality",
         "location": "Greece",
         "genres_unsanitized": "Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fading Serenade",
         "location": "Germany",
         "genres_unsanitized": "Gothic Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fading Spirit",
         "location": "United Kingdom",
         "genres_unsanitized": "Atmospheric Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fading Starlight",
         "location": "Germany",
         "genres_unsanitized": "Power/Speed Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fading Sun",
         "location": "Belarus",
         "genres_unsanitized": "Funeral Doom/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fading Waves",
         "location": "Russia",
         "genres_unsanitized": "Progressive Sludge/Post-Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fadom",
         "location": "Greece",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faecal Tripe",
         "location": "Mexico",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faeces",
         "location": "Poland",
         "genres_unsanitized": "Brutal Death Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faen i Helvete",
         "location": "Norway",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faen Tute",
         "location": "Norway",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faerghail",
         "location": "Finland",
         "genres_unsanitized": "Dark Metal, Melodic Black/Gothic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faeriequeene",
         "location": "Italy",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faethom",
         "location": "United States",
         "genres_unsanitized": "Blackened Heavy/Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faethon",
         "location": "Greece",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faethon",
         "location": "Finland",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fäff in Fire",
         "location": "Germany",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faff-Bey",
         "location": "Finland",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fafner",
         "location": "Sweden",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fáfnir",
         "location": "Italy",
         "genres_unsanitized": "Pagan Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fafnir",
         "location": "Brazil",
         "genres_unsanitized": "Melodic Death/Viking Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fagus",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fagyhamu",
         "location": "Hungary",
         "genres_unsanitized": "Pagan Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fahrenheit",
         "location": "Mexico",
         "genres_unsanitized": "Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fahrenheit",
         "location": "Hungary",
         "genres_unsanitized": "Progressive/Melodic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fahrenheit",
         "location": "France",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fahrenheit",
         "location": "Venezuela",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fahrenheit 212",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fahrenheit Zero",
         "location": "Portugal",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faidas",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faidon",
         "location": "Czech Republic",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Failed",
         "location": "United States",
         "genres_unsanitized": "Sludge Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Failed Humanity",
         "location": "United Kingdom",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Failed Perfection",
         "location": "Germany",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Failed Theory",
         "location": "Finland",
         "genres_unsanitized": "Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Failed to Failure",
         "location": "Greenland",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Failed Virgin",
         "location": "Indonesia",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Failing Existence",
         "location": "Australia",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Failsafe",
         "location": "United Kingdom",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Failure",
         "location": "Honduras",
         "genres_unsanitized": "Depressive Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Failure Ritual",
         "location": "United States",
         "genres_unsanitized": "Atmospheric Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faint",
         "location": "Sweden",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faint Horizon",
         "location": "Germany",
         "genres_unsanitized": "Symphonic Gothic Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faint in Pain",
         "location": "Japan",
         "genres_unsanitized": "Power Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faint of Enemy",
         "location": "Germany",
         "genres_unsanitized": "Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fainted",
         "location": "Sweden",
         "genres_unsanitized": "Melodic Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faintest Hope",
         "location": "Japan",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fainting Pace",
         "location": "Denmark",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fair Game",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal/Hard Rock (early), Psychedelic Doom Metal (later)",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fair Warning",
         "location": "United Kingdom",
         "genres_unsanitized": "NWOBHM",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fair Warning",
         "location": "Australia",
         "genres_unsanitized": "Heavy Metal/Hard Rock",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fairchild",
         "location": "Sweden",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fairie's Death Waltz",
         "location": "United States",
         "genres_unsanitized": "Progressive Gothic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fairlight",
         "location": "France",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fairness",
         "location": "Sweden",
         "genres_unsanitized": "Heavy Metal/Hard Rock",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "FairOff",
         "location": "Brazil",
         "genres_unsanitized": "Melodic Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fairy Mirror",
         "location": "Japan",
         "genres_unsanitized": "Melodic Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fairy Tales",
         "location": "Spain",
         "genres_unsanitized": "Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fairy Tales",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fairyland",
         "location": "France",
         "genres_unsanitized": "Symphonic Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fairyscape",
         "location": "Germany",
         "genres_unsanitized": "Gothic Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fairytale",
         "location": "Brazil",
         "genres_unsanitized": "Melodic Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fairytale",
         "location": "Germany",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fairytale Abuse",
         "location": "Denmark",
         "genres_unsanitized": "Melodic Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fairytells",
         "location": "France",
         "genres_unsanitized": "Melodic Gothic Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faith",
         "location": "Sweden",
         "genres_unsanitized": "Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faith Ablaze",
         "location": "Netherlands",
         "genres_unsanitized": "Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faith and Fire",
         "location": "United States",
         "genres_unsanitized": "Hard Rock/Heavy Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faith Buried in Flames",
         "location": "United States",
         "genres_unsanitized": "Death/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faith Collapsing",
         "location": "United States",
         "genres_unsanitized": "Power/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faith Factor",
         "location": "United States",
         "genres_unsanitized": "Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faith Fails",
         "location": "United States",
         "genres_unsanitized": "Death Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faith in Ashes",
         "location": "United States",
         "genres_unsanitized": "Progressive Death/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faith in Chaos",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal/Experimental",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faith in Hate",
         "location": "United Kingdom",
         "genres_unsanitized": "Death Metal/Hardcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faith Industrius",
         "location": "Denmark",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faith Must Pain",
         "location": "Indonesia",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faith No More",
         "location": "United States",
         "genres_unsanitized": "Avant-garde/Alternative/Heavy Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faith of Gestalgt",
         "location": "Japan",
         "genres_unsanitized": "Raw Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faith of Steel",
         "location": "United States",
         "genres_unsanitized": "Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faith or Fear",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faith, Love & Hope",
         "location": "Serbia",
         "genres_unsanitized": "Progressive/Heavy Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faithbomb",
         "location": "United States",
         "genres_unsanitized": "Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faithealer",
         "location": "Germany",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faithessence",
         "location": "Italy",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faithful Breath",
         "location": "Germany",
         "genres_unsanitized": "Progressive Rock (early) Heavy Metal/Hard Rock (later)",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faithful Darkness",
         "location": "Sweden",
         "genres_unsanitized": "Melodic Death/Thrash Metal (early), Melodic Groove Metal (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faithful Witness",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faithhealer",
         "location": "United States",
         "genres_unsanitized": "Melodic Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faithless",
         "location": "Brazil",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faithless Messiah",
         "location": "France",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faithless Mind",
         "location": "Belarus",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faithless Minutes Devoured",
         "location": "International",
         "genres_unsanitized": "Funeral Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faithless Priest",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faithreat",
         "location": "Greece",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faithsedge",
         "location": "United States",
         "genres_unsanitized": "Progressive/Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faithxtractor",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faiv Dee",
         "location": "Japan",
         "genres_unsanitized": "Thrash Metal/Groove/Metalcore",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fakaso",
         "location": "Argentina",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fake Healer",
         "location": "Italy",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fake Heroes",
         "location": "Brazil",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fake Idyll",
         "location": "Germany",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fake Messiah",
         "location": "Switzerland",
         "genres_unsanitized": "Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fake Mors",
         "location": "Italy",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faken Grovn",
         "location": "Germany",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fakin Birra",
         "location": "Uruguay",
         "genres_unsanitized": "Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faktorial",
         "location": "Indonesia",
         "genres_unsanitized": "Gothic Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fal-Tor-Voh",
         "location": "Netherlands",
         "genres_unsanitized": "Stoner/Doom Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falaise",
         "location": "Italy",
         "genres_unsanitized": "Atmospheric Post-Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falanga",
         "location": "Russia",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falange",
         "location": "Brazil",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falanx",
         "location": "Hungary",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falaris",
         "location": "Japan",
         "genres_unsanitized": "Melodic/Symphonic Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falç",
         "location": "Spain",
         "genres_unsanitized": "Death/Thrash Metal/Hardcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falce",
         "location": "Italy",
         "genres_unsanitized": "Avant-Garde/Symphonic Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falchion",
         "location": "Finland",
         "genres_unsanitized": "Melodic Death/Folk Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falciform",
         "location": "New Zealand",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falcon",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal/Hard Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falcon",
         "location": "Argentina",
         "genres_unsanitized": "Heavy Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falcon Prey",
         "location": "Germany",
         "genres_unsanitized": "Melodic Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falconer",
         "location": "Sweden",
         "genres_unsanitized": "Folk/Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falcun",
         "location": "India",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Faleng",
         "location": "Russia",
         "genres_unsanitized": "Funeral Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falgar",
         "location": "Puerto Rico",
         "genres_unsanitized": "Black Metal (early), Neofolk (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falk",
         "location": "Ecuador",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falkenbach",
         "location": "Germany",
         "genres_unsanitized": "Viking/Black/Folk Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falkirk",
         "location": "France",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falkirk",
         "location": "United States",
         "genres_unsanitized": "Sludge Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall",
         "location": "United States",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall",
         "location": "Poland",
         "genres_unsanitized": "Black/Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall",
         "location": "Hungary",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall",
         "location": "United States",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall a Prey",
         "location": "International",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall and Resist",
         "location": "Australia",
         "genres_unsanitized": "Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall Back to Zero",
         "location": "France",
         "genres_unsanitized": "Death/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall From Grace",
         "location": "United States",
         "genres_unsanitized": "Stoner/Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall From Grace",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal/Hard Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall from Grace",
         "location": "United States",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall From Grace",
         "location": "Sweden",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall From Grace",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal/Hard Rock",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall from Perfection",
         "location": "United Kingdom",
         "genres_unsanitized": "Melodic Groove Metal/Alternative Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall from Reality",
         "location": "Russia",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall in Shades",
         "location": "Germany",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall into Misery",
         "location": "Czech Republic",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall into Oblivion",
         "location": "Sweden",
         "genres_unsanitized": "Gothic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall of a Season",
         "location": "Germany",
         "genres_unsanitized": "Metalcore, Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall of Babylon",
         "location": "United States",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall of Because",
         "location": "United Kingdom",
         "genres_unsanitized": "Experimental Industrial Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall of Darkness",
         "location": "Italy",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall of Death",
         "location": "France",
         "genres_unsanitized": "Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall of Dusk",
         "location": "United States",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall of Eden",
         "location": "United States",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall of Empyrean",
         "location": "United States",
         "genres_unsanitized": "Doom/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall of Man",
         "location": "Finland",
         "genres_unsanitized": "Symphonic Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall of Man",
         "location": "Spain",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall of Mankind",
         "location": "Spain",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall of Olympus",
         "location": "United States",
         "genres_unsanitized": "Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall of Pantheon",
         "location": "Denmark",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall of Sanity",
         "location": "United States",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall of Seraphs",
         "location": "Italy",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall of Seraphs",
         "location": "France",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall of Serenity",
         "location": "Germany",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall of Stasis",
         "location": "Canada",
         "genres_unsanitized": "Black/Folk Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall of the Bastards",
         "location": "United States",
         "genres_unsanitized": "Melodic Black/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall of the Divine",
         "location": "Australia",
         "genres_unsanitized": "Melodic Death Metal/Metalcore",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall of the Idols",
         "location": "Finland",
         "genres_unsanitized": "Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall of the Leafe",
         "location": "Finland",
         "genres_unsanitized": "Melodic Death/Folk Metal (early), Atmospheric Gothic Metal (later)",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall ov Serafim",
         "location": "Sweden",
         "genres_unsanitized": "Symphonic Black Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall the Loss",
         "location": "Canada",
         "genres_unsanitized": "Technical/Progressive Groove Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall Time.",
         "location": "Austria",
         "genres_unsanitized": "Sludge/Post-Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall to Flames",
         "location": "United Kingdom",
         "genres_unsanitized": "Deathcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall to Oblivion",
         "location": "United Kingdom",
         "genres_unsanitized": "Melodic Death Metal/Metalcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall to Prey",
         "location": "United States",
         "genres_unsanitized": "Melodic Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall Well's Nightmare",
         "location": "United States",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall'in Dreams",
         "location": "Russia",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fall.Out",
         "location": "United Kingdom",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallacy",
         "location": "Portugal",
         "genres_unsanitized": "Progressive Thrash/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallacy",
         "location": "United States",
         "genres_unsanitized": "Power/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallacy",
         "location": "Germany",
         "genres_unsanitized": "Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallakr",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen",
         "location": "Norway",
         "genres_unsanitized": "Funeral Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen",
         "location": "Belgium",
         "genres_unsanitized": "Death/Thrash Metal/Metalcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen",
         "location": "United Kingdom",
         "genres_unsanitized": "Black/Thrash/Melodic Death Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen",
         "location": "Mexico",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen",
         "location": "Finland",
         "genres_unsanitized": "Melodic Gothic Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen",
         "location": "United Kingdom",
         "genres_unsanitized": "Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Angel",
         "location": "Sweden",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Angel",
         "location": "Spain",
         "genres_unsanitized": "Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Angel",
         "location": "Denmark",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Angel",
         "location": "Mexico",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Angel",
         "location": "Portugal",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Angel",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Angel",
         "location": "United States",
         "genres_unsanitized": "Power/Speed Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Angel",
         "location": "Brazil",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Angels",
         "location": "Sweden",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Angels",
         "location": "Germany",
         "genres_unsanitized": "Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Angels",
         "location": "Cyprus",
         "genres_unsanitized": "Power/Speed Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Angels",
         "location": "Brazil",
         "genres_unsanitized": "Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Angels",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Angels",
         "location": "Italy",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Apollo",
         "location": "United Kingdom",
         "genres_unsanitized": "Death Metal/Deathcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Arise",
         "location": "Greece",
         "genres_unsanitized": "Symphonic Gothic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Arkane",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Christ",
         "location": "United States",
         "genres_unsanitized": "Death/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Cross",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Crowned",
         "location": "Germany",
         "genres_unsanitized": "Melodic Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Dead Wood",
         "location": "Unknown",
         "genres_unsanitized": "Post-Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Decade",
         "location": "Canada",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Divinity",
         "location": "United States",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Embers",
         "location": "United States",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Empire",
         "location": "United States",
         "genres_unsanitized": "Symphonic Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Empire",
         "location": "United States",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Fate",
         "location": "Italy",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Fate",
         "location": "United Kingdom",
         "genres_unsanitized": "Melodic Death/Thrash Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Fortress",
         "location": "Chile",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Fucking Angels",
         "location": "Italy",
         "genres_unsanitized": "Speed Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Grace",
         "location": "Portugal",
         "genres_unsanitized": "Melodic Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Grace",
         "location": "Sri Lanka",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Hallow",
         "location": "United States",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Haven",
         "location": "Finland",
         "genres_unsanitized": "Progressive Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Icon",
         "location": "Croatia",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Icon",
         "location": "Malta",
         "genres_unsanitized": "Groove/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Idol",
         "location": "Brazil",
         "genres_unsanitized": "Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen into Shadow",
         "location": "United States",
         "genres_unsanitized": "Black Metal/Dark Ambient",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Joy",
         "location": "France",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Legion",
         "location": "Canada",
         "genres_unsanitized": "Melodic Thrash/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Man",
         "location": "United States",
         "genres_unsanitized": "Industrial/Thrash Metal with Death Metal Influences",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Mankind",
         "location": "Sweden",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Martyr",
         "location": "United States",
         "genres_unsanitized": "Progressive Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Nation",
         "location": "Russia",
         "genres_unsanitized": "Speed/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Nephilim",
         "location": "United States",
         "genres_unsanitized": "Stoner Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Order",
         "location": "New Zealand",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Paradise",
         "location": "Portugal",
         "genres_unsanitized": "Progressive Doom/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Prophets",
         "location": "United States",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Reign",
         "location": "United States",
         "genres_unsanitized": "Power/Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Saints",
         "location": "Germany",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Sanctuary",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Seasons",
         "location": "Portugal",
         "genres_unsanitized": "Doom/Gothic Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Sentinel",
         "location": "Spain",
         "genres_unsanitized": "Death Metal (early), Gothic Metal (later)",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Seraph",
         "location": "United States",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Shall Rise",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Sins",
         "location": "Australia",
         "genres_unsanitized": "Thrash Metal/Metalcore (early), Death Metal (later)",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Skies",
         "location": "United Kingdom",
         "genres_unsanitized": "Melodic Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Souls",
         "location": "El Salvador",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Suns",
         "location": "United States",
         "genres_unsanitized": "Stoner Metal/Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Symphony",
         "location": "Uruguay",
         "genres_unsanitized": "Symphonic Gothic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Tears",
         "location": "Sweden",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Temple",
         "location": "Netherlands",
         "genres_unsanitized": "Black/Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Temple",
         "location": "Germany",
         "genres_unsanitized": "Melodic Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Titan",
         "location": "United Kingdom",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen to Pieces",
         "location": "Indonesia",
         "genres_unsanitized": "Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Trinity",
         "location": "United States",
         "genres_unsanitized": "Death/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Tyrant",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Up",
         "location": "Austria",
         "genres_unsanitized": "Metalcore/Groove/Nu-Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Utopia",
         "location": "Austria",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Victim",
         "location": "Canada",
         "genres_unsanitized": "Death Metal, Hardcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Voices",
         "location": "France",
         "genres_unsanitized": "Atmospheric/Depressive Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Walls",
         "location": "Germany",
         "genres_unsanitized": "Melodic Thrash Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallen Yggdrasil",
         "location": "Germany",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "FallenHall",
         "location": "Spain",
         "genres_unsanitized": "Epic Folk Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallenlight",
         "location": "Indonesia",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallicide",
         "location": "Finland",
         "genres_unsanitized": "Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Fallin' Time",
         "location": "Italy",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falling",
         "location": "China",
         "genres_unsanitized": "Black/Gothic Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falling Angel",
         "location": "Germany",
         "genres_unsanitized": "Power/Speed Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falling Angels",
         "location": "Chile",
         "genres_unsanitized": "Gothic/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falling Antares",
         "location": "United States",
         "genres_unsanitized": "Extreme Progressive Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falling Apart",
         "location": "Costa Rica",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falling Cloud",
         "location": "United States",
         "genres_unsanitized": "Depressive Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falling Cycle",
         "location": "United States",
         "genres_unsanitized": "Melodic Death Metal/Metalcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falling Darkness",
         "location": "Mexico",
         "genres_unsanitized": "Deathcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falling Down",
         "location": "Germany",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falling Dreams",
         "location": "Turkey",
         "genres_unsanitized": "Doom Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falling Dusk",
         "location": "Portugal",
         "genres_unsanitized": "Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falling Elbow",
         "location": "Belgium",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falling for Unreal",
         "location": "Slovenia",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falling from Grace",
         "location": "Finland",
         "genres_unsanitized": "Groove/Melodic Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falling Giants",
         "location": "Italy",
         "genres_unsanitized": "Stoner/Sludge/Doom Metal with Progressive Influences",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falling in Disgrace",
         "location": "Brazil",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falling in Fight",
         "location": "Russia",
         "genres_unsanitized": "Pagan Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falling Insane",
         "location": "Mexico",
         "genres_unsanitized": "Death/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falling Leaves",
         "location": "Jordan",
         "genres_unsanitized": "Melodic Doom/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falling Meat",
         "location": "Germany",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falling Moon",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Falling Moon",
         "location": "Slovakia",
         "genres_unsanitized": "Symphonic Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     }
 ]

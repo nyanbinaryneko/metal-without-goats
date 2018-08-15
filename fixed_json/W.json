@@ -3,3000 +3,3500 @@
         "bandname": "The W.O.R.S.T.",
         "location": "Italy",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wake",
         "location": "Finland",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wake",
         "location": "Italy",
         "genres_unsanitized": "Death/Thrash Metal with Power influences",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wake",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wake",
         "location": "International",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wake of Suffering",
         "location": "United States",
         "genres_unsanitized": "Thrash/Death Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wakedead Gathering",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wakening",
         "location": "United States",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Walking Dead Orchestra",
         "location": "France",
         "genres_unsanitized": "Death Metal/Deathcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Walls Concave",
         "location": "Germany",
         "genres_unsanitized": "Deathcore/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Walruz",
         "location": "Germany",
         "genres_unsanitized": "Stoner/Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wampyric Specter",
         "location": "Netherlands",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wanderer",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wanderer...",
         "location": "Australia",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wandering Ascetic",
         "location": "Singapore",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wandering Fire",
         "location": "Mexico",
         "genres_unsanitized": "Stoner/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wandering Midget",
         "location": "Finland",
         "genres_unsanitized": "Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The War Show",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Ward",
         "location": "Moldova",
         "genres_unsanitized": "Atmospheric/Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wargasm",
         "location": "Finland",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Warinsane",
         "location": "South Africa",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Warning",
         "location": "Germany",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Warning",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Warriors",
         "location": "Switzerland",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Warslain",
         "location": "Finland",
         "genres_unsanitized": "Death/Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Warwolves",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wasted",
         "location": "Brazil",
         "genres_unsanitized": "Heavy/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Watch",
         "location": "United States",
         "genres_unsanitized": "Progressive Thrash/Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Watch",
         "location": "United Kingdom",
         "genres_unsanitized": "Heavy/Thrash Metal with Black Metal influences",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Watchdogs",
         "location": "Russia",
         "genres_unsanitized": "Sludge/Southern/Groove Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Watcher",
         "location": "Germany",
         "genres_unsanitized": "Progressive Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Watchers",
         "location": "United States",
         "genres_unsanitized": "Atmospheric Black/Sludge Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Watchers",
         "location": "United States",
         "genres_unsanitized": "Heavy/Stoner Metal/Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Water Witch",
         "location": "United Kingdom",
         "genres_unsanitized": "Progressive Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Way of All Flesh",
         "location": "United States",
         "genres_unsanitized": "Progressive Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Way of Purity",
         "location": "Unknown",
         "genres_unsanitized": "Melodic Death Metal/Metalcore (early), Industrial Rock (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Weakening",
         "location": "Sweden",
         "genres_unsanitized": "Melodic Death Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Weed",
         "location": "Italy",
         "genres_unsanitized": "Stoner Rock (early), Stoner Metal (later)",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Weeping Gate",
         "location": "United States",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Weeping Willow",
         "location": "Lebanon",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Weir",
         "location": "Canada",
         "genres_unsanitized": "Atmospheric Sludge Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Welkin",
         "location": "Italy",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Well",
         "location": "United States",
         "genres_unsanitized": "Psychedelic Doom/Stoner Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Whine",
         "location": "Hungary",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Whip",
         "location": "United States",
         "genres_unsanitized": "Heavy/Sludge Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Whisky Rebellion",
         "location": "United States",
         "genres_unsanitized": "Heavy/Thrash/Southern Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Whisper",
         "location": "Portugal",
         "genres_unsanitized": "Gothic Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Whisperer in Darkness",
         "location": "Mexico",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The White Indian",
         "location": "United States",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The White Prince",
         "location": "Mexico",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The White Swan",
         "location": "Canada",
         "genres_unsanitized": "Sludge/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The White Tomb",
         "location": "United States",
         "genres_unsanitized": "Technical Deathcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Whiteness of the Whale",
         "location": "Germany",
         "genres_unsanitized": "Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Whorehouse Massacre",
         "location": "Canada",
         "genres_unsanitized": "Sludge/Drone/Funeral Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wicked",
         "location": "Finland",
         "genres_unsanitized": "Melodic Black/Industrial Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wicked Chambers",
         "location": "Germany",
         "genres_unsanitized": "Melodic Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wicked End",
         "location": "United States",
         "genres_unsanitized": "Metalcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Widow",
         "location": "United States",
         "genres_unsanitized": "Black Metal/Ambient",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wild",
         "location": "Netherlands",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wild",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wild Child",
         "location": "Italy",
         "genres_unsanitized": "Heavy Metal/Hard Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wild Hunt",
         "location": "Canada",
         "genres_unsanitized": "Melodic Death/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wild Mild",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Will of a Million",
         "location": "United States",
         "genres_unsanitized": "Atmospheric Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Will of Tiamat",
         "location": "Ukraine",
         "genres_unsanitized": "Avant-garde Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wimps",
         "location": "France",
         "genres_unsanitized": "Stoner Metal/Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wind",
         "location": "Luxembourg",
         "genres_unsanitized": "Experimental Black/Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wiring",
         "location": "Germany",
         "genres_unsanitized": "Stoner/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wisdoom",
         "location": "Italy",
         "genres_unsanitized": "Doom/Stoner Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wise",
         "location": "Brazil",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Witch",
         "location": "Czech Republic",
         "genres_unsanitized": "Black Metal, Crust",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Witch",
         "location": "France",
         "genres_unsanitized": "Progressive Stoner Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Witches Sabbath",
         "location": "Germany",
         "genres_unsanitized": "Black/Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wizar'd",
         "location": "Australia",
         "genres_unsanitized": "Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wizard",
         "location": "Mexico",
         "genres_unsanitized": "Doom/Stoner Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wizard of Doom",
         "location": "Sweden",
         "genres_unsanitized": "Doom/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wizards of Gore",
         "location": "United States",
         "genres_unsanitized": "Death/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wizzards",
         "location": "Bolivia",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wolf Council",
         "location": "United States",
         "genres_unsanitized": "Stoner Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wolves Age",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wolves of Avalon",
         "location": "United Kingdom",
         "genres_unsanitized": "Pagan Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Womb",
         "location": "Canada",
         "genres_unsanitized": "Sludge/Stoner Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wood's Silence",
         "location": "Italy",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Woods of Solitude",
         "location": "Russia",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Word Bearers",
         "location": "Canada",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The World We Knew",
         "location": "United States",
         "genres_unsanitized": "Melodic Death Metal/Metalcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The World Within",
         "location": "International",
         "genres_unsanitized": "Melodic Death Metal with Symphonic influences",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Worms",
         "location": "United States",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Worship of Silence",
         "location": "United States",
         "genres_unsanitized": "Stoner/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Worshyp",
         "location": "Canada",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Worst",
         "location": "Italy",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wörst",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wound Man",
         "location": "United Kingdom",
         "genres_unsanitized": "Black Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wounded",
         "location": "Netherlands",
         "genres_unsanitized": "Doom/Gothic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wounded Kings",
         "location": "United Kingdom",
         "genres_unsanitized": "Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wrath",
         "location": "Brazil",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wrath",
         "location": "Poland",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wrath Project",
         "location": "International",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wreckage",
         "location": "Singapore",
         "genres_unsanitized": "Deathcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wreckoning",
         "location": "United States",
         "genres_unsanitized": "Heavy  Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wretched",
         "location": "Japan",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wretched",
         "location": "United States",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wretched End",
         "location": "Norway",
         "genres_unsanitized": "Death/Thrash Metal (early), Death/Black Metal (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Wright Valley Trio",
         "location": "Germany",
         "genres_unsanitized": "Sludge/Drone/Doom/Post-Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "W",
         "location": "Russia",
         "genres_unsanitized": "Atmospheric Black Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "W.",
         "location": "United States",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "W. Angel's Conquest",
         "location": "Ukraine",
         "genres_unsanitized": "Power Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "W.A.B.S.O.T.O.W.H.",
         "location": "Brazil",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "W.A.I.L.",
         "location": "Finland",
         "genres_unsanitized": "Doom/Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "W.A.K.O.",
         "location": "Portugal",
         "genres_unsanitized": "Death/Thrash/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "W.A.R",
         "location": "Bulgaria",
         "genres_unsanitized": "Melodic Black/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "W.A.S.P.",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal/Hard Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "W.A.S.T.E.",
         "location": "Canada",
         "genres_unsanitized": "Melodic Power/Black Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "W.C.",
         "location": "Mexico",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "W.C. Noise",
         "location": "Portugal",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "W.C.H.C.",
         "location": "Brazil",
         "genres_unsanitized": "Crossover/Thrash/Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "W.D.L.K.",
         "location": "Japan",
         "genres_unsanitized": "Sludge Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "W.D.M.",
         "location": "Finland",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "W.E.B.",
         "location": "Greece",
         "genres_unsanitized": "Symphonic/Gothic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "W.I.L.D.",
         "location": "France",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "W.M.D.",
         "location": "United States",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "W.O.P.",
         "location": "Italy",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "W.R.A.T.H.",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "W.S.H.C.",
         "location": "Sweden",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "W.T.G.",
         "location": "United States",
         "genres_unsanitized": "Crossover/Thrash, Heavy Metal, Punk",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "W.U.T.",
         "location": "Brazil",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "w00d5b17ch",
         "location": "Canada",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wa",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waal",
         "location": "Iceland",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "WAARM",
         "location": "Indonesia",
         "genres_unsanitized": "Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wachenfeldt",
         "location": "Sweden",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wacht",
         "location": "Switzerland",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wackhanalija",
         "location": "Belarus",
         "genres_unsanitized": "Atmospheric Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wackor",
         "location": "Hungary",
         "genres_unsanitized": "Groove Metal, Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waco",
         "location": "Spain",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waco Jesus",
         "location": "United States",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wadal",
         "location": "Indonesia",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wadalon",
         "location": "Germany",
         "genres_unsanitized": "Black Metal/Ambient",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wade Shöken",
         "location": "France",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wadgelmir",
         "location": "Germany",
         "genres_unsanitized": "Viking Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wading Through Corpses",
         "location": "United States",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wael Daou",
         "location": "Brazil",
         "genres_unsanitized": "Progressive Metal/Shred with Oriental influences",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waelcyrge",
         "location": "Belgium",
         "genres_unsanitized": "Black/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waelmist",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wafat",
         "location": "Indonesia",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waffen",
         "location": "United Kingdom",
         "genres_unsanitized": "Black/Speed Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waffen SS",
         "location": "Italy",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waffen SS",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waffenbrüder",
         "location": "Australia",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waffenträger Luzifers",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waffentreu",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waffenweihe",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waft",
         "location": "United States",
         "genres_unsanitized": "Doom/Sludge Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wagars",
         "location": "Latvia",
         "genres_unsanitized": "Black Metal/Crust Punk",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wagchor",
         "location": "Finland",
         "genres_unsanitized": "Melodic Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wage the War",
         "location": "United States",
         "genres_unsanitized": "Melodic Death Metal/Metalcore",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wages of Sin",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wageslave",
         "location": "United States",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wags Metal Inc.",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waheelas Fährte",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wahn",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "WahnMache / MahnWache",
         "location": "Germany",
         "genres_unsanitized": "Experimental Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wahrer Krieg",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wai Dee Zai",
         "location": "Denmark",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wail",
         "location": "Norway",
         "genres_unsanitized": "Heavy Metal/Hard Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wailing of Relief",
         "location": "Costa Rica",
         "genres_unsanitized": "Depressive/Post-Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wailing Strand",
         "location": "Finland",
         "genres_unsanitized": "Atmospheric Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wainas",
         "location": "Finland",
         "genres_unsanitized": "Death/Doom Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waingro",
         "location": "Canada",
         "genres_unsanitized": "Stoner Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waited",
         "location": "United States",
         "genres_unsanitized": "Sludge Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waithrone",
         "location": "Brazil",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waiting for Dawn",
         "location": "United States",
         "genres_unsanitized": "Heavy/Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waiting for My End",
         "location": "France",
         "genres_unsanitized": "Depressive Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waiting Mortuary",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waiting Silence",
         "location": "Japan",
         "genres_unsanitized": "Symphonic Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wajardo",
         "location": "Chile",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wakas",
         "location": "Peru",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wakboth",
         "location": "France",
         "genres_unsanitized": "Black Metal/Ambient",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wakboth",
         "location": "Finland",
         "genres_unsanitized": "Black/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wake",
         "location": "United States",
         "genres_unsanitized": "Death Metal, Grindcore",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wake",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wake",
         "location": "Canada",
         "genres_unsanitized": "Grindcore/Crust",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wake and Prevail",
         "location": "United States",
         "genres_unsanitized": "Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wake Arkane",
         "location": "Italy",
         "genres_unsanitized": "Progressive/Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wake of Myetsa",
         "location": "United Kingdom",
         "genres_unsanitized": "Sludge/Doom Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wake of Redemption",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal/Hard Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wake to the Mourning",
         "location": "Germany",
         "genres_unsanitized": "Depressive Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wake Up",
         "location": "Belarus",
         "genres_unsanitized": "Progressive/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wake Up Dying",
         "location": "Netherlands",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wake Up on Fire",
         "location": "United States",
         "genres_unsanitized": "Atmospheric Doom/Sludge Metal/Crust Punk",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wakeful",
         "location": "Netherlands",
         "genres_unsanitized": "Progressive Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wakeham's Terrortory",
         "location": "United Kingdom",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waken Eyes",
         "location": "International",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waking Chaos",
         "location": "United States",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waking for Darkness",
         "location": "Brazil",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waking Hour",
         "location": "United States",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waking Judea",
         "location": "United States",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waking Mayhem",
         "location": "Canada",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waking Myth",
         "location": "United States",
         "genres_unsanitized": "Gothic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waking Ruins",
         "location": "United States",
         "genres_unsanitized": "Metalcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waking the Cadaver",
         "location": "United States",
         "genres_unsanitized": "Brutal Death Metal/Deathcore (early), Death Metal/Hardcore (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waking the Dead",
         "location": "Netherlands",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waking Theo",
         "location": "United Kingdom",
         "genres_unsanitized": "Metalcore/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waklevören",
         "location": "Norway",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walaskialf",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wald",
         "location": "Germany",
         "genres_unsanitized": "Blackened Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wald",
         "location": "Switzerland",
         "genres_unsanitized": "Black Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wald",
         "location": "Russia",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wald Geist Winter",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wald Krypta",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waldeinsamkeit",
         "location": "United Kingdom",
         "genres_unsanitized": "Atmospheric Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waldeinsamkeit",
         "location": "Ecuador",
         "genres_unsanitized": "Atmospheric Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walden",
         "location": "Canada",
         "genres_unsanitized": "Atmospheric Black Metal, Folk",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waldenburg",
         "location": "Switzerland",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waldensis",
         "location": "Switzerland",
         "genres_unsanitized": "Melodic Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waldesschrei",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waldgeflüster",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waldgeist",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waldgeist",
         "location": "Russia",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waldheim",
         "location": "Spain",
         "genres_unsanitized": "Melodic Death/Gothic Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waldschabe",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waldschein",
         "location": "Germany",
         "genres_unsanitized": "Pagan/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waldschrat",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waldschrat",
         "location": "Austria",
         "genres_unsanitized": "Black Metal/Neofolk",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waldseel",
         "location": "Germany",
         "genres_unsanitized": "Atmospheric Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waldsterben",
         "location": "Germany",
         "genres_unsanitized": "Black Metal/Ambient",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waldstille",
         "location": "Russia",
         "genres_unsanitized": "Depressive Black Metal/Ambient",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waldtroll",
         "location": "Switzerland",
         "genres_unsanitized": "Black Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waldweg",
         "location": "Italy",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waldwind",
         "location": "Germany",
         "genres_unsanitized": "Progressive Folk/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wale of Souls",
         "location": "Colombia",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walghinge",
         "location": "Belgium",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walhalla",
         "location": "Finland",
         "genres_unsanitized": "Black/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walhalla",
         "location": "France",
         "genres_unsanitized": "Atmospheric Dark Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walhalla",
         "location": "Italy",
         "genres_unsanitized": "Heavy/Power/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walhalla",
         "location": "Spain",
         "genres_unsanitized": "Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wali Kubur",
         "location": "Indonesia",
         "genres_unsanitized": "Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walk Away Alpha",
         "location": "United States",
         "genres_unsanitized": "Melodic Death Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walk in Darkness",
         "location": "Italy",
         "genres_unsanitized": "Gothic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walk Through Fire",
         "location": "Sweden",
         "genres_unsanitized": "Sludge/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walken",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal/Crossover/Hardcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walker",
         "location": "Indonesia",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walking Corpse Syndrome",
         "location": "United States",
         "genres_unsanitized": "Death/Black/Industrial Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walking Dead on Broadway",
         "location": "Germany",
         "genres_unsanitized": "Deathcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walking Dead Suicide",
         "location": "Finland",
         "genres_unsanitized": "Progressive Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walking Infected",
         "location": "Bolivia",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walking over Strings",
         "location": "Venezuela",
         "genres_unsanitized": "Post-Black Metal, Post-Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walking Worm Colony",
         "location": "Sweden",
         "genres_unsanitized": "Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walknut",
         "location": "Russia",
         "genres_unsanitized": "Atmospheric Black Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walküre",
         "location": "United States",
         "genres_unsanitized": "Power/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walküre",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walkyria",
         "location": "Argentina",
         "genres_unsanitized": "Power/Thrash metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walkyrya",
         "location": "Italy",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wall",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wall",
         "location": "Germany",
         "genres_unsanitized": "Experimental Sludge/Stoner Metal/Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wall of Death",
         "location": "Portugal",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wall of Silents",
         "location": "New Zealand",
         "genres_unsanitized": "Heavy Metal with Punk influences",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wall of Sleep",
         "location": "Hungary",
         "genres_unsanitized": "Doom/Stoner Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wall of Sleep",
         "location": "United States",
         "genres_unsanitized": "Stoner/Doom Metal/Hard Rock",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wall of the Eyeless",
         "location": "International",
         "genres_unsanitized": "Progressive Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wall of Vipers",
         "location": "Portugal",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wall of Water",
         "location": "United States",
         "genres_unsanitized": "Post-Black/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wall Red Murder",
         "location": "Puerto Rico",
         "genres_unsanitized": "Grindcore/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wallace",
         "location": "Spain",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wallachia",
         "location": "Norway",
         "genres_unsanitized": "Symphonic Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wallcrawler",
         "location": "Germany",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wallfahrer",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wallop",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wallow",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wallower",
         "location": "United States",
         "genres_unsanitized": "Black Metal/Shoegaze",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walls of Babylon",
         "location": "Italy",
         "genres_unsanitized": "Power/Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walls of Burden",
         "location": "Australia",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walpurgi",
         "location": "Austria",
         "genres_unsanitized": "Pagan Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walpurgis",
         "location": "Belgium",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walpurgis",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walpurgis",
         "location": "France",
         "genres_unsanitized": "Black/Doom/Gothic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walpurgis Nacht",
         "location": "Portugal",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walpurgis Night",
         "location": "Brazil",
         "genres_unsanitized": "Melodic Death/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walpurgis Night",
         "location": "United States",
         "genres_unsanitized": "Heavy/Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walpurgis Night",
         "location": "Italy",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walpurgisnacht",
         "location": "Netherlands",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walpurgisnacht",
         "location": "Germany",
         "genres_unsanitized": "Black Metal/Dark Ambient",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walpurgisnacht",
         "location": "United States",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walpyrgus",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walquiria",
         "location": "Mexico",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walrus Resist",
         "location": "France",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walsung",
         "location": "Brazil",
         "genres_unsanitized": "Pagan Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waltari",
         "location": "Finland",
         "genres_unsanitized": "Progressive Metal/Rock, Crossover",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walter Berterame",
         "location": "Argentina",
         "genres_unsanitized": "Heavy Metal/Shred",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walter Fornication",
         "location": "Netherlands",
         "genres_unsanitized": "Experimental/Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Walter Giardino Temple",
         "location": "Argentina",
         "genres_unsanitized": "Hard Rock/Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waltz",
         "location": "Russia",
         "genres_unsanitized": "Death Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wamphyre",
         "location": "Spain",
         "genres_unsanitized": "Raw Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wamphyri",
         "location": "Portugal",
         "genres_unsanitized": "Raw Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wampus Cat",
         "location": "United States",
         "genres_unsanitized": "Sludge/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wampyr Dungeon",
         "location": "International",
         "genres_unsanitized": "Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wampyric Bloodlust",
         "location": "Russia",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wampyric Moon",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wampyrinacht",
         "location": "Greece",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wan",
         "location": "Sweden",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wan Skin",
         "location": "Russia",
         "genres_unsanitized": "Atmospheric Black Metal/Ambient",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wana'apu Dumiñ",
         "location": "Venezuela",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanax Project",
         "location": "Italy",
         "genres_unsanitized": "Melodic Heavy/Speed Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wandar",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wandelaars",
         "location": "Netherlands",
         "genres_unsanitized": "Raw/Atmospheric Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanderer",
         "location": "Finland",
         "genres_unsanitized": "Black Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanderer",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanderer",
         "location": "Ukraine",
         "genres_unsanitized": "Atmospheric Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanderer",
         "location": "Spain",
         "genres_unsanitized": "Pagan/Viking Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanderer",
         "location": "Portugal",
         "genres_unsanitized": "Heavy/Speed Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanderer",
         "location": "Mexico",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanderer of the Waste",
         "location": "United States",
         "genres_unsanitized": "Progressive Black/Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wandering Oak",
         "location": "United States",
         "genres_unsanitized": "Heavy/Black/Folk Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanderlust",
         "location": "Chile",
         "genres_unsanitized": "Atmospheric Epic Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanderlust",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wandern",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wandersword",
         "location": "Russia",
         "genres_unsanitized": "Melodic Death/Viking Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wangelen",
         "location": "Chile",
         "genres_unsanitized": "Pagan Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanhoop",
         "location": "Belgium",
         "genres_unsanitized": "Black/Doom Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waning",
         "location": "Sweden",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wannsee",
         "location": "Canada",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wantdead",
         "location": "France",
         "genres_unsanitized": "Death Metal/Hardcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanted",
         "location": "United States",
         "genres_unsanitized": "Power/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanted",
         "location": "Portugal",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanted",
         "location": "Greece",
         "genres_unsanitized": "Heavy Metal/Hard Rock",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanted",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanted",
         "location": "Hungary",
         "genres_unsanitized": "Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanted Breed",
         "location": "United States",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanted for Murder",
         "location": "Mexico",
         "genres_unsanitized": "Brutal Death Metal/Deathcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanted Inc.",
         "location": "Germany",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanterkraaft",
         "location": "Luxembourg",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanterwollef",
         "location": "Luxembourg",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanton",
         "location": "Sweden",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanton Decay",
         "location": "Germany",
         "genres_unsanitized": "Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanton Lust",
         "location": "United States",
         "genres_unsanitized": "Black Metal, Shoegaze",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wanzwa",
         "location": "United States",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wapenspraak & Drinkgelag",
         "location": "Belgium",
         "genres_unsanitized": "Pagan, Folk, Thrash Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wapenveld",
         "location": "Netherlands",
         "genres_unsanitized": "Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waqum",
         "location": "Sweden",
         "genres_unsanitized": "Death/Thrash Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War",
         "location": "Sweden",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War",
         "location": "Poland",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War",
         "location": "Italy",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War",
         "location": "Brazil",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War",
         "location": "Spain",
         "genres_unsanitized": "Heavy Metal, Hard Rock",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War 'n Pain",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "WAR 88",
         "location": "Poland",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Agenda",
         "location": "Germany",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Ancestry",
         "location": "Turkey",
         "genres_unsanitized": "Death/Black Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Angel",
         "location": "Iran",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Atrocities",
         "location": "Croatia",
         "genres_unsanitized": "Black/Thrash/Speed Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Blade",
         "location": "Brazil",
         "genres_unsanitized": "Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Blasphemy",
         "location": "Portugal",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Boar",
         "location": "Canada",
         "genres_unsanitized": "Death/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Bong",
         "location": "United States",
         "genres_unsanitized": "Sludge/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Command",
         "location": "Mexico",
         "genres_unsanitized": "Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Command",
         "location": "Canada",
         "genres_unsanitized": "Death/Black/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Crime",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Crime",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Cross",
         "location": "Italy",
         "genres_unsanitized": "Doom/Stoner Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Cry",
         "location": "United States",
         "genres_unsanitized": "Power/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Cult Supremacy",
         "location": "Portugal",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Curse",
         "location": "United States",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Dance",
         "location": "United Kingdom",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Dance",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Dance",
         "location": "Greece",
         "genres_unsanitized": "Epic Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Därmen",
         "location": "Chile",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Device",
         "location": "Greece",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Dogs",
         "location": "Spain",
         "genres_unsanitized": "Heavy/Speed Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Elephant",
         "location": "Canada",
         "genres_unsanitized": "Doom/Sludge Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Elephant",
         "location": "United States",
         "genres_unsanitized": "Black/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Empire",
         "location": "Sweden",
         "genres_unsanitized": "Death/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Engine",
         "location": "Serbia",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Eternal",
         "location": "Brazil",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Faction",
         "location": "Australia",
         "genres_unsanitized": "Death/Groove Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War for War",
         "location": "Czech Republic",
         "genres_unsanitized": "Black Metal (early), Industrial Metal (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Forest",
         "location": "Spain",
         "genres_unsanitized": "Ambient/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Generation 666",
         "location": "Colombia",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Graves",
         "location": "United States",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Hammer",
         "location": "Finland",
         "genres_unsanitized": "Viking/Folk Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Hammer",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Hammer Command",
         "location": "Brazil",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Hammers",
         "location": "Mexico",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Hungry",
         "location": "United States",
         "genres_unsanitized": "Crossover/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Inferno FX",
         "location": "Brazil",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Injun",
         "location": "United States",
         "genres_unsanitized": "Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Inside",
         "location": "France",
         "genres_unsanitized": "Blackened Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Iron",
         "location": "United Kingdom",
         "genres_unsanitized": "Sludge/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Kabinett",
         "location": "Mexico",
         "genres_unsanitized": "Death Metal with Power Influences",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Kommand",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Legion",
         "location": "Colombia",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Lord",
         "location": "Mexico",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Machine",
         "location": "United Kingdom",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Machine",
         "location": "Venezuela",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Maniacs",
         "location": "Colombia",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Master",
         "location": "Portugal",
         "genres_unsanitized": "Raw Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Master",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Messiah",
         "location": "Poland",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Mind",
         "location": "Brazil",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War of Abaddon",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War of Attrition",
         "location": "United States",
         "genres_unsanitized": "Thrash/Death Metal with Metalcore influences",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War of Conquest",
         "location": "Austria",
         "genres_unsanitized": "Melodic Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War of Feelings",
         "location": "Brazil",
         "genres_unsanitized": "Death/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War of Senses",
         "location": "Russia",
         "genres_unsanitized": "Progressive Metal (early), Progressive/Thrash Metal (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War of the Roses",
         "location": "United Kingdom",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War of the Second Dragon",
         "location": "United Kingdom",
         "genres_unsanitized": "Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War of Thrones",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War on the High Seas",
         "location": "United States",
         "genres_unsanitized": "Progressive Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Pantheon",
         "location": "United States",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Pestilence",
         "location": "Argentina",
         "genres_unsanitized": "Black Metal (early), Black/Death Metal (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Pigs",
         "location": "Spain",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Plague",
         "location": "United States",
         "genres_unsanitized": "Industrial Black Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Possession",
         "location": "Greece",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Raven",
         "location": "Argentina",
         "genres_unsanitized": "Power/Speed Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Rider",
         "location": "Chile",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Ripper",
         "location": "United States",
         "genres_unsanitized": "Black/Thrash Metal/Punk",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Ritual",
         "location": "Chile",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Saw",
         "location": "United States",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Sieg",
         "location": "Guatemala",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Slave",
         "location": "United States",
         "genres_unsanitized": "Power/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Swallowed",
         "location": "Russia",
         "genres_unsanitized": "Technical Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Symphony",
         "location": "Spain",
         "genres_unsanitized": "Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Testament",
         "location": "Colombia",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Theory",
         "location": "United States",
         "genres_unsanitized": "Thrash/Death/Groove Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Thrashed",
         "location": "Colombia",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Torment",
         "location": "Brazil",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Torn",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Victim",
         "location": "Brazil",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Within",
         "location": "United States",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War Without Reason",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War x Party",
         "location": "United States",
         "genres_unsanitized": "Black/Speed Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War-Head",
         "location": "Croatia",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War-saw",
         "location": "Poland",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War-Tog",
         "location": "Botswana",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War//Plague",
         "location": "United States",
         "genres_unsanitized": "Crust/Blackened Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "War666",
         "location": "Malaysia",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warägar",
         "location": "Austria",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warage",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "WarAge",
         "location": "Brazil",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Waranimal",
         "location": "United States",
         "genres_unsanitized": "Crossover/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warattah",
         "location": "France",
         "genres_unsanitized": "Power/Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warbastard",
         "location": "United Kingdom",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warbeast",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warbeast Remains",
         "location": "Belgium",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warbell",
         "location": "Poland",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warbiff",
         "location": "Brazil",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warbird",
         "location": "Canada",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warblade",
         "location": "United States",
         "genres_unsanitized": "Melodic Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warbled Arma",
         "location": "Greece",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warblood",
         "location": "Puerto Rico",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warborn Waste",
         "location": "Netherlands",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warbound",
         "location": "Canada",
         "genres_unsanitized": "Melodic Death/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warbound Order",
         "location": "Greece",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warbreath",
         "location": "Chile",
         "genres_unsanitized": "Power/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warbreed",
         "location": "Argentina",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warbride",
         "location": "United States",
         "genres_unsanitized": "Melodic Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warbringer",
         "location": "Italy",
         "genres_unsanitized": "Epic Heavy Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warbringer",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warburg",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warburst Command",
         "location": "Brazil",
         "genres_unsanitized": "Black/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warbutcher",
         "location": "United States",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warbutcher",
         "location": "Italy",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "WarCall",
         "location": "Canada",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warceremony",
         "location": "Finland",
         "genres_unsanitized": "Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warchest",
         "location": "Chile",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warchetype",
         "location": "Spain",
         "genres_unsanitized": "Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warchief",
         "location": "Finland",
         "genres_unsanitized": "Stoner Metal/Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warchild",
         "location": "Germany",
         "genres_unsanitized": "Melodic Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warchild",
         "location": "Czech Republic",
         "genres_unsanitized": "Thrash/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warchild",
         "location": "Italy",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warchild",
         "location": "Sweden",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warchild",
         "location": "United States",
         "genres_unsanitized": "Progressive Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warchild X",
         "location": "Germany",
         "genres_unsanitized": "Melodic Death/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warchitect",
         "location": "Netherlands",
         "genres_unsanitized": "Technical/Progressive Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warchylde",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warckon",
         "location": "Belgium",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warclash",
         "location": "Netherlands",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warclouds",
         "location": "Brazil",
         "genres_unsanitized": "Death Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warcode",
         "location": "Greece",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warcore",
         "location": "Italy",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warcorpse",
         "location": "United States",
         "genres_unsanitized": "Death/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warcrab",
         "location": "United Kingdom",
         "genres_unsanitized": "Death/Sludge Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warcrown",
         "location": "Germany",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warcrusher",
         "location": "Mexico",
         "genres_unsanitized": "Death Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warcrux",
         "location": "United Kingdom",
         "genres_unsanitized": "Heavy Metal/Hard Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warcry",
         "location": "Spain",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warcry",
         "location": "Spain",
         "genres_unsanitized": "Viking Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "WarCry",
         "location": "United States",
         "genres_unsanitized": "Crossover, Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warcry",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warcry",
         "location": "Greece",
         "genres_unsanitized": "Epic Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warcryer",
         "location": "Italy",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warcult",
         "location": "Spain",
         "genres_unsanitized": "Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warcult",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warcult",
         "location": "Austria",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Warcursed",
         "location": "Brazil",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ward",
         "location": "Finland",
         "genres_unsanitized": "Doom/Sludge/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ward",
         "location": "Ukraine",
         "genres_unsanitized": "Black/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wardaemonic",
         "location": "Australia",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wardagger",
         "location": "New Zealand",
         "genres_unsanitized": "Sludge/Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wardance",
         "location": "Germany",
         "genres_unsanitized": "Power/Speed Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Wardance",
         "location": "United States",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     }
 ]

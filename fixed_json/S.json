@@ -3,3000 +3,3500 @@
         "bandname": "S&L",
         "location": "Italy",
         "genres_unsanitized": "Progressive Metal/Rock",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S-Core",
         "location": "France",
         "genres_unsanitized": "Thrash Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S-Tool",
         "location": "Finland",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.A. Adams",
         "location": "United States",
         "genres_unsanitized": "Heavy/Power/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.A. Slayer",
         "location": "United States",
         "genres_unsanitized": "Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.A.D.",
         "location": "Portugal",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.A.D.O.",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.A.R.",
         "location": "Brazil",
         "genres_unsanitized": "Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.A.S.",
         "location": "Australia",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.A.T.A.N.",
         "location": "Poland",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.B.I.",
         "location": "United States",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.C.A.L.P.",
         "location": "Russia",
         "genres_unsanitized": "Doom/Death/Gothic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.C.A.R.",
         "location": "France",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.C.A.R.D.",
         "location": "Russia",
         "genres_unsanitized": "Melodic Black Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.C.A.R.P.S.",
         "location": "Brazil",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.C.A.T.",
         "location": "Russia",
         "genres_unsanitized": "Brutal Death Metal/Goregrind",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.C.E.P.T.R.E.",
         "location": "Finland",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.C.U.M.",
         "location": "Czech Republic",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.D.I.",
         "location": "Germany",
         "genres_unsanitized": "Speed/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.D.I.D.",
         "location": "Denmark",
         "genres_unsanitized": "Avant-garde Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.D.M.",
         "location": "Mexico",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.D.N.",
         "location": "Chile",
         "genres_unsanitized": "Grindcore/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.D.R.",
         "location": "United Kingdom",
         "genres_unsanitized": "Progressive/Thrash/Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.D.S.",
         "location": "Finland",
         "genres_unsanitized": "Speed Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.E.D.",
         "location": "Germany",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.E.T.",
         "location": "Italy",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.F.U.",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.G.R.",
         "location": "Sweden",
         "genres_unsanitized": "Death Metal, Crust Punk",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.H.A.D.E.",
         "location": "Italy",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.H.I.T.",
         "location": "Belgium",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.I.C.",
         "location": "Australia",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.I.D.E.",
         "location": "Russia",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.I.D.S.",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.I.K.",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.I.L.U.R.",
         "location": "Ukraine",
         "genres_unsanitized": "Melodic Death/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.I.M.B.",
         "location": "Netherlands",
         "genres_unsanitized": "Stoner Metal/Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.I.N.",
         "location": "Germany",
         "genres_unsanitized": "Melodic Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.I.S.T.",
         "location": "United Kingdom",
         "genres_unsanitized": "Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.I.T.E.",
         "location": "Italy",
         "genres_unsanitized": "Gothic/Heavy Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.K.N.S.",
         "location": "Canada",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.K.U.R.K.",
         "location": "Sweden",
         "genres_unsanitized": "Heavy Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.L.G.",
         "location": "Malaysia",
         "genres_unsanitized": "Melodic Death/Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.L.O.D.",
         "location": "Slovenia",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.L.R.",
         "location": "Sweden",
         "genres_unsanitized": "Death Metal (early), Power/Thrash Metal (later)",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.L.U.G.S.",
         "location": "Italy",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.L.U.R.",
         "location": "Japan",
         "genres_unsanitized": "Melodic Heavy/Power Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.L.U.T.",
         "location": "Germany",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.M.A.C.K.",
         "location": "Brazil",
         "genres_unsanitized": "Heavy/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.M.D.",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal/Crossover/Punk",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.M.F.",
         "location": "France",
         "genres_unsanitized": "Speed Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.M.I.",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.N.F.",
         "location": "Chile",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.N.O.T.",
         "location": "Hungary",
         "genres_unsanitized": "Industrial Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.N.P.",
         "location": "Italy",
         "genres_unsanitized": "Thrash Metal (early), Metalcore (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.O.B",
         "location": "Japan",
         "genres_unsanitized": "Hardcore Punk (early), Grindcore/Thrashcore (mid), Experimental Hardcore (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.O.B.",
         "location": "United States",
         "genres_unsanitized": "Power/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.O.C.M.D.",
         "location": "Czech Republic",
         "genres_unsanitized": "Black/Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.O.D.",
         "location": "United States",
         "genres_unsanitized": "Hardcore/Crossover/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.O.H.",
         "location": "International",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.O.K.",
         "location": "Spain",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.O.L.",
         "location": "Japan",
         "genres_unsanitized": "Thrash/Heavy Metal, Hard Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.o.M.",
         "location": "Croatia",
         "genres_unsanitized": "Folk/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.O.P.R.O.",
         "location": "Brazil",
         "genres_unsanitized": "Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.O.S!",
         "location": "Poland",
         "genres_unsanitized": "Thrash Metal/Hardcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.O.S.",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.O.S.",
         "location": "Hungary",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.O.S.",
         "location": "United Kingdom",
         "genres_unsanitized": "NWOBHM",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.O.S.",
         "location": "Italy",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.O.S.",
         "location": "Thailand",
         "genres_unsanitized": "Speed Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.O.S.",
         "location": "Bolivia",
         "genres_unsanitized": "Crossover/Thrash/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.O.S.A.",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.O.V.",
         "location": "Germany",
         "genres_unsanitized": "Death Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.O:M.A",
         "location": "Brazil",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.P.O.R.E.",
         "location": "United States",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.P.O.R.K.",
         "location": "United States",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.P.Q.R.",
         "location": "Canada",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.Pollution",
         "location": "Italy",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.R.L.",
         "location": "Italy",
         "genres_unsanitized": "Melodic Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.S. Dagger",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.S.W.G.",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.T.A.B.",
         "location": "Brazil",
         "genres_unsanitized": "Heavy/Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.T.R.E.E.T.S.",
         "location": "Canada",
         "genres_unsanitized": "Crossover/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.U.N.D.S.",
         "location": "Portugal",
         "genres_unsanitized": "Black Metal, Ambient, Noise",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.U.P.",
         "location": "France",
         "genres_unsanitized": "Avant-garde Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.U.T.U.R.E.",
         "location": "France",
         "genres_unsanitized": "Black Metal/Crust",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.V.A.E.L.",
         "location": "Netherlands",
         "genres_unsanitized": "Raw Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.V.E.S.T.",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.W.A.M.P.",
         "location": "Belarus",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S.W.O.R.D.",
         "location": "Belarus",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S1ft",
         "location": "United States",
         "genres_unsanitized": "Thrash/Heavy Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S3",
         "location": "Germany",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S4SA",
         "location": "France",
         "genres_unsanitized": "Progressive Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S6r6th6",
         "location": "Russia",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S7N",
         "location": "Mexico",
         "genres_unsanitized": "Thrash/Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S91",
         "location": "Italy",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S:S:S",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "S:t Erik",
         "location": "Sweden",
         "genres_unsanitized": "Psychedelic Stoner/Doom Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sa Main",
         "location": "France",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sa Meute",
         "location": "France",
         "genres_unsanitized": "Black/Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sa-da-ko",
         "location": "United Kingdom",
         "genres_unsanitized": "Melodic Death/Groove Metal/Metalcore",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "SA-Sanctuary",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "SAAC",
         "location": "Finland",
         "genres_unsanitized": "Raw Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Saagar",
         "location": "Argentina",
         "genres_unsanitized": "Viking/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Saark",
         "location": "Russia",
         "genres_unsanitized": "Depressive Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Saarkoth",
         "location": "United Kingdom",
         "genres_unsanitized": "Melodic Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Saars",
         "location": "Czech Republic",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Saatana Hatiim",
         "location": "Mexico",
         "genres_unsanitized": "Raw Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Saatanan Marionetit",
         "location": "Finland",
         "genres_unsanitized": "Melodic Death/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Saatkrähe",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Saattoväki",
         "location": "Finland",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Saattue",
         "location": "Finland",
         "genres_unsanitized": "Melodic Doom/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabachthani",
         "location": "Sweden",
         "genres_unsanitized": "Gothic/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabactâni",
         "location": "Brazil",
         "genres_unsanitized": "Post-Black Metal (early, later), Post-Rock/Shoegaze (mid)",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabacthani",
         "location": "Mexico",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabaism",
         "location": "Switzerland",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabaium",
         "location": "Slovenia",
         "genres_unsanitized": "Gothic/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Saban",
         "location": "Slovenia",
         "genres_unsanitized": "Black Metal/Ambient",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabaoth",
         "location": "Paraguay",
         "genres_unsanitized": "Gothic/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabaoth",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabaoth",
         "location": "Brazil",
         "genres_unsanitized": "Melodic Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabaoth",
         "location": "Indonesia",
         "genres_unsanitized": "Death Metal/Grindcore (early), Brutal Death Metal (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabaothic Cherubim",
         "location": "United States",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabatan",
         "location": "Spain",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabateur",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabathan",
         "location": "Bolivia",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabathan",
         "location": "Argentina",
         "genres_unsanitized": "Death/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabathan",
         "location": "Mexico",
         "genres_unsanitized": "Blackened Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabathon",
         "location": "Brazil",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabathory",
         "location": "Czech Republic",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabatik",
         "location": "Ecuador",
         "genres_unsanitized": "Black/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabaton",
         "location": "Sweden",
         "genres_unsanitized": "Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabazios",
         "location": "Norway",
         "genres_unsanitized": "Industrial Black Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabazius",
         "location": "United Kingdom",
         "genres_unsanitized": "Drone/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabazz",
         "location": "Japan",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabbagor",
         "location": "South Africa",
         "genres_unsanitized": "Black/Death Metal/Crust",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabbah Navahthani",
         "location": "Cyprus",
         "genres_unsanitized": "Sludge/Doom Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabbat",
         "location": "United Kingdom",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabbat",
         "location": "Japan",
         "genres_unsanitized": "Black/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabbatariam",
         "location": "Brazil",
         "genres_unsanitized": "Progressive Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabbath Assembly",
         "location": "United States",
         "genres_unsanitized": "Psychedelic Rock, Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabbath Black Heretic",
         "location": "Japan",
         "genres_unsanitized": "Symphonic Gothic/Power Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabbath Knights",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabbathan",
         "location": "Mexico",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabbathica",
         "location": "Argentina",
         "genres_unsanitized": "Heavy/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabbatic Feast",
         "location": "United States",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabbatic Goat",
         "location": "New Zealand",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabbatic Round",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabbatical Goat",
         "location": "Netherlands",
         "genres_unsanitized": "Black/Thrash Metal (early), Death Metal (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabbatical Rites",
         "location": "Greece",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabbatical Throne",
         "location": "Brazil",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabbatik Goat",
         "location": "Portugal",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabbatory",
         "location": "Canada",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabbatta Rotta",
         "location": "Spain",
         "genres_unsanitized": "Thrash Metal (early), Grindcore (later)",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabbottage",
         "location": "Mexico",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabbrabells",
         "location": "Japan",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabbtail",
         "location": "Sweden",
         "genres_unsanitized": "Melodic Heavy/Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabdo Pati",
         "location": "Indonesia",
         "genres_unsanitized": "Depressive Black Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabel",
         "location": "Sweden",
         "genres_unsanitized": "Doom/Stoner Metal/Hard Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Saber",
         "location": "United States",
         "genres_unsanitized": "Melodic Heavy/Power Metal/Hard Rock",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Saber Tiger",
         "location": "Japan",
         "genres_unsanitized": "Heavy Metal (early), Power/Progressive Metal (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabhankra",
         "location": "Turkey",
         "genres_unsanitized": "Melodic Death/Thrash Metal with Folk influences",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabiendas",
         "location": "Germany",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabinas Rex",
         "location": "United States",
         "genres_unsanitized": "Symphonic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabke Morde",
         "location": "Iran",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sable",
         "location": "Spain",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sable",
         "location": "Hungary",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sable",
         "location": "Mexico",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sable Beldam",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabnack",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "SABO",
         "location": "Estonia",
         "genres_unsanitized": "Heavy Metal/Hard Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Saboath",
         "location": "Turkey",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabotage",
         "location": "Italy",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabotage",
         "location": "Brazil",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabotage",
         "location": "Argentina",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabotage",
         "location": "Sweden",
         "genres_unsanitized": "Doom Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabotage",
         "location": "Austria",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabotaje",
         "location": "Spain",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Saboter",
         "location": "Greece",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabrax",
         "location": "Bulgaria",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabre",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabre",
         "location": "United Kingdom",
         "genres_unsanitized": "NWOBHM",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabre",
         "location": "Brazil",
         "genres_unsanitized": "Heavy Metal/Hard Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabre",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabre",
         "location": "Canada",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabre",
         "location": "United States",
         "genres_unsanitized": "Sludge/Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabre",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabre Sabatazh",
         "location": "United States",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabretooth",
         "location": "South Africa",
         "genres_unsanitized": "Melodic Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabretooth",
         "location": "Finland",
         "genres_unsanitized": "Speed Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabretung",
         "location": "Australia",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sabroz",
         "location": "Poland",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacarius Noctis",
         "location": "Brazil",
         "genres_unsanitized": "Death/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Saccage",
         "location": "Canada",
         "genres_unsanitized": "Black/Thrash Metal/Crust",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Saccara",
         "location": "Germany",
         "genres_unsanitized": "Thrash Metal/Crossover, RAC/Punk (later)",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacellum Luciferi",
         "location": "Finland",
         "genres_unsanitized": "Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacerdos",
         "location": "United States",
         "genres_unsanitized": "Black Metal, Ambient",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacerdos Ebrius",
         "location": "Finland",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacerdos Mortuus",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacerdoth",
         "location": "Brazil",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sachem",
         "location": "United States",
         "genres_unsanitized": "Stoner/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sachiel",
         "location": "Mexico",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sachsenhausen",
         "location": "Mexico",
         "genres_unsanitized": "Black Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sachta",
         "location": "France",
         "genres_unsanitized": "Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sackrace",
         "location": "Hungary",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacra",
         "location": "Peru",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacra",
         "location": "Russia",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacra Arcana",
         "location": "Hungary",
         "genres_unsanitized": "Folk Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacra Entropía",
         "location": "Chile",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacradis",
         "location": "Italy",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrafice",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacral Death",
         "location": "Italy",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacral Night",
         "location": "France",
         "genres_unsanitized": "Heavy/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacral Rage",
         "location": "Greece",
         "genres_unsanitized": "Speed/Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacralis",
         "location": "Germany",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacram",
         "location": "Greece",
         "genres_unsanitized": "Progressive Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacramence",
         "location": "United States",
         "genres_unsanitized": "Atmospheric Black/Doom Metal/Noise",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrament",
         "location": "Germany",
         "genres_unsanitized": "Power/Thrash Metal (early), Power/Heavy Metal (later)",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrament",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrament",
         "location": "Ukraine",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrament",
         "location": "Brazil",
         "genres_unsanitized": "Black Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrament",
         "location": "Finland",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrament",
         "location": "Greece",
         "genres_unsanitized": "Epic Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrament",
         "location": "Malaysia",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrament",
         "location": "Russia",
         "genres_unsanitized": "Gothic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrament",
         "location": "United States",
         "genres_unsanitized": "Technical Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrament",
         "location": "New Zealand",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrament",
         "location": "United Kingdom",
         "genres_unsanitized": "Technical Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrament",
         "location": "Brazil",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrament",
         "location": "Brazil",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrament",
         "location": "Spain",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrament",
         "location": "Portugal",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrament",
         "location": "Indonesia",
         "genres_unsanitized": "Death/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrament",
         "location": "United Kingdom",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrament A.D.",
         "location": "Canada",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrament L.A.",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrament Murder",
         "location": "Indonesia",
         "genres_unsanitized": "Deathcore/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrament ov Impurity",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacramental",
         "location": "Latvia",
         "genres_unsanitized": "Melodic Thrash/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacramental Awakened",
         "location": "Belgium",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacramental Blood",
         "location": "Serbia",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacramental Carnage",
         "location": "Brazil",
         "genres_unsanitized": "Death/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacramental Fall",
         "location": "Norway",
         "genres_unsanitized": "Symphonic Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacramental Fusion",
         "location": "United States",
         "genres_unsanitized": "Thrash/Doom/Death/Sludge/Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacramental Sachem",
         "location": "Netherlands",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacramental Wine",
         "location": "Belarus",
         "genres_unsanitized": "Symphonic Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacramentary Abolishment",
         "location": "Canada",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacramento",
         "location": "Chile",
         "genres_unsanitized": "Gothic Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacramento",
         "location": "Spain",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacramentum",
         "location": "Sweden",
         "genres_unsanitized": "Melodic Black/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacraphyx",
         "location": "South Africa",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrario",
         "location": "Brazil",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrarium",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrarium Execratus",
         "location": "Italy",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacras",
         "location": "Argentina",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacras",
         "location": "Argentina",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrasanct",
         "location": "United Kingdom",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrasphemy",
         "location": "Germany",
         "genres_unsanitized": "Symphonic Black/Death Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrastic",
         "location": "Czech Republic",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrater",
         "location": "Italy",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacraticus",
         "location": "United States",
         "genres_unsanitized": "Technical Thrash/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacratus",
         "location": "Russia",
         "genres_unsanitized": "Doom/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacratus",
         "location": "Mexico",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrecy",
         "location": "Finland",
         "genres_unsanitized": "Melodic Power/Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred",
         "location": "Spain",
         "genres_unsanitized": "Progressive Metal (early), Rock (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred",
         "location": "Argentina",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred",
         "location": "Indonesia",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred 13",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal/Stoner Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Aeolia",
         "location": "Japan",
         "genres_unsanitized": "Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Alien",
         "location": "United Kingdom",
         "genres_unsanitized": "NWOBHM",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Ally",
         "location": "Canada",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Assault",
         "location": "United States",
         "genres_unsanitized": "Raw Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Assault",
         "location": "United Kingdom",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Blade",
         "location": "Canada",
         "genres_unsanitized": "Progressive Heavy Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Blood",
         "location": "Greece",
         "genres_unsanitized": "Epic Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Blood",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Chao",
         "location": "Germany",
         "genres_unsanitized": "Power/Speed Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Child",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Circle",
         "location": "Finland",
         "genres_unsanitized": "Melodic Doom/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Crucifix",
         "location": "Finland",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Curse",
         "location": "Brazil",
         "genres_unsanitized": "Thrash Metal with Punk Influences",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Curse",
         "location": "Turkey",
         "genres_unsanitized": "Extreme Dark Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Curse",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Darkness",
         "location": "Paraguay",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Dawn",
         "location": "United States",
         "genres_unsanitized": "Progressive Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Death",
         "location": "United States",
         "genres_unsanitized": "Power/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Death",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Denial",
         "location": "United States",
         "genres_unsanitized": "Hardcore/Punk (early), Thrash Metal/Crossover (later)",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Dominion",
         "location": "United States",
         "genres_unsanitized": "Power/Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Few",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Fire",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Gate",
         "location": "Germany",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Goat",
         "location": "Colombia",
         "genres_unsanitized": "Death/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred God",
         "location": "Slovakia",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Groove",
         "location": "Germany",
         "genres_unsanitized": "Melodic Gothic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Ground",
         "location": "United Kingdom",
         "genres_unsanitized": "Blackened Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Guardian",
         "location": "Puerto Rico",
         "genres_unsanitized": "Power/Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Hate",
         "location": "France",
         "genres_unsanitized": "Deathcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Heart",
         "location": "United States",
         "genres_unsanitized": "Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Heart",
         "location": "United Kingdom",
         "genres_unsanitized": "Melodic Heavy Metal/Hard Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Hell",
         "location": "Italy",
         "genres_unsanitized": "Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Imperium",
         "location": "Malaysia",
         "genres_unsanitized": "Melodic Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Land",
         "location": "Greece",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Leather",
         "location": "United States",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Legacy",
         "location": "Maldives",
         "genres_unsanitized": "Thrash/Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Monster",
         "location": "United States",
         "genres_unsanitized": "Stoner/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Moon",
         "location": "United States",
         "genres_unsanitized": "Raw Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Mother Tongue",
         "location": "United Kingdom",
         "genres_unsanitized": "Melodic Death Metal/Metalcore (early), Metalcore/Melodic Hard Rock (later)",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Night",
         "location": "Sweden",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Oath",
         "location": "United States",
         "genres_unsanitized": "Power/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Realm",
         "location": "United States",
         "genres_unsanitized": "Psychedelic Heavy Metal/Rock",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Reich",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Reign",
         "location": "United States",
         "genres_unsanitized": "Melodic Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Revelation",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Rite",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Ritual",
         "location": "United Kingdom",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Seal",
         "location": "France",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Serenity",
         "location": "Croatia",
         "genres_unsanitized": "Symphonic Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Serpent",
         "location": "United States",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Sin",
         "location": "Portugal",
         "genres_unsanitized": "Death/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Sinner",
         "location": "Brazil",
         "genres_unsanitized": "Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Site",
         "location": "Canada",
         "genres_unsanitized": "Progressive Metal/Rock",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Slam",
         "location": "Chile",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Slaughter",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Son",
         "location": "United Kingdom",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Spell",
         "location": "Austria",
         "genres_unsanitized": "Melodic Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Steel",
         "location": "Germany",
         "genres_unsanitized": "Epic Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Steel",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Storm",
         "location": "United States",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Tears",
         "location": "Portugal",
         "genres_unsanitized": "Doom/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Thrash",
         "location": "Argentina",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Warrior",
         "location": "United States",
         "genres_unsanitized": "Melodic Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacred Will",
         "location": "United States",
         "genres_unsanitized": "Neoclassical/Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacredeath",
         "location": "Brazil",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacredfice",
         "location": "Italy",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrefixx",
         "location": "Indonesia",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacreligious Torment",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacremancy",
         "location": "Germany",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrementor",
         "location": "Canada",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacretomia",
         "location": "Sweden",
         "genres_unsanitized": "Death Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacridose",
         "location": "United States",
         "genres_unsanitized": "Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifer",
         "location": "Poland",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacriffice",
         "location": "Brazil",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificalis",
         "location": "Poland",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrification",
         "location": "United States",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificator",
         "location": "Italy",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificatum",
         "location": "Ecuador",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifice",
         "location": "Canada",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifice",
         "location": "Switzerland",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifice",
         "location": "Japan",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifice",
         "location": "Sweden",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifice",
         "location": "Korea, South",
         "genres_unsanitized": "Groove Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifice",
         "location": "Italy",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifice",
         "location": "France",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifice",
         "location": "Indonesia",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifice",
         "location": "Spain",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifice",
         "location": "Brazil",
         "genres_unsanitized": "Death Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifice Justice",
         "location": "Ukraine",
         "genres_unsanitized": "Brutal Death Metal/Deathcore",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifice Mercy",
         "location": "Mexico",
         "genres_unsanitized": "Melodic Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifice Nothing",
         "location": "United States",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifice Slaughtered Jesus",
         "location": "Germany",
         "genres_unsanitized": "Pagan Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifice Soul",
         "location": "China",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifice the Moon",
         "location": "United States",
         "genres_unsanitized": "Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifice Theory",
         "location": "Germany",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifice to Survive",
         "location": "United States",
         "genres_unsanitized": "Progressive Rock/Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificed",
         "location": "Germany",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificed",
         "location": "Russia",
         "genres_unsanitized": "Black Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificed",
         "location": "Greece",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificed",
         "location": "Poland",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificed",
         "location": "Brazil",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificed Alliance",
         "location": "Canada",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificed Moloch",
         "location": "Austria",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificed with a Scythe",
         "location": "Switzerland",
         "genres_unsanitized": "Groove/Thrash Metal/Hardcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificer",
         "location": "Chile",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificer",
         "location": "United States",
         "genres_unsanitized": "Black/Death Metal/Deathcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificia",
         "location": "Russia",
         "genres_unsanitized": "Atmospheric Black Metal/Ambient",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificia Mortuorum",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificial",
         "location": "Denmark",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificial Betrayal",
         "location": "United States",
         "genres_unsanitized": "Black/Death/Thrash Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificial Blood",
         "location": "United States",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificial Chamber",
         "location": "Canada",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificial Dagger",
         "location": "Finland",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificial Death",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificial Forest",
         "location": "Sweden",
         "genres_unsanitized": "Black Metal, Ambient",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificial Genocide",
         "location": "New Zealand",
         "genres_unsanitized": "Black Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificial Massacre",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificial Slaughter",
         "location": "United States",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificial Stone",
         "location": "Belgium",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificial Totem",
         "location": "United States",
         "genres_unsanitized": "Drone/Ambient Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificio",
         "location": "Puerto Rico",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificio",
         "location": "Chile",
         "genres_unsanitized": "Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificio",
         "location": "Argentina",
         "genres_unsanitized": "Melodic Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificio",
         "location": "Brazil",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificio",
         "location": "Spain",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificio (de Muerte)",
         "location": "Mexico",
         "genres_unsanitized": "Melodic Doom/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificio Bizarro",
         "location": "Argentina",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifício Sumério",
         "location": "Brazil",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificium",
         "location": "Germany",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificium",
         "location": "Poland",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificium",
         "location": "Poland",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificium Carmen",
         "location": "Finland",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificium Sacralis",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrificulus",
         "location": "Poland",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifight",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal/Punk",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifire",
         "location": "Australia",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifire",
         "location": "Finland",
         "genres_unsanitized": "Melodic Death/Gothic Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifist",
         "location": "South Africa",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifix",
         "location": "United States",
         "genres_unsanitized": "Thrash/Death/Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifix",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifixio",
         "location": "Chile",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifizer",
         "location": "France",
         "genres_unsanitized": "Speed Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrifycia",
         "location": "Canada",
         "genres_unsanitized": "Black Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilator",
         "location": "Chile",
         "genres_unsanitized": "Thrash/Speed Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilege",
         "location": "Sweden",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilege",
         "location": "United Kingdom",
         "genres_unsanitized": "Crust Punk/Thrash Metal (early), Doom Metal (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilege",
         "location": "Norway",
         "genres_unsanitized": "Melodic Thrash/Speed Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilege",
         "location": "Poland",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilege",
         "location": "Italy",
         "genres_unsanitized": "Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilege",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilege",
         "location": "United Kingdom",
         "genres_unsanitized": "NWOBHM, Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilege",
         "location": "Bangladesh",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilege B.C.",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegeous",
         "location": "Finland",
         "genres_unsanitized": "Raw Black Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegio",
         "location": "Puerto Rico",
         "genres_unsanitized": "Speed/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegio",
         "location": "Ecuador",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegio",
         "location": "Italy",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegio",
         "location": "Mexico",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilégio",
         "location": "Portugal",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegio",
         "location": "Argentina",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegio",
         "location": "Colombia",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilégio",
         "location": "Portugal",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegio",
         "location": "Chile",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegio",
         "location": "Colombia",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegio",
         "location": "Spain",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegio",
         "location": "Peru",
         "genres_unsanitized": "Death Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegio",
         "location": "Chile",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegio",
         "location": "Colombia",
         "genres_unsanitized": "Pagan Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegio",
         "location": "Colombia",
         "genres_unsanitized": "Thrash/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegion",
         "location": "Portugal",
         "genres_unsanitized": "Symphonic Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegion",
         "location": "Germany",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilégios",
         "location": "Brazil",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegious",
         "location": "Norway",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegious",
         "location": "Indonesia",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegious Crown",
         "location": "Italy",
         "genres_unsanitized": "Raw Black Metal, Noise/Ambient",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegious Funeral",
         "location": "Costa Rica",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegious Impalement",
         "location": "Finland",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegious Profanity",
         "location": "Belarus",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegious Rite",
         "location": "Germany",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegious Salacious",
         "location": "Brazil",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegious Sword",
         "location": "Portugal",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegious Throne",
         "location": "United Kingdom",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegist",
         "location": "Sweden",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegium",
         "location": "Poland",
         "genres_unsanitized": "Pagan Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegium",
         "location": "Mexico",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegium",
         "location": "Russia",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegium",
         "location": "Brazil",
         "genres_unsanitized": "Death Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegium",
         "location": "Mexico",
         "genres_unsanitized": "Death Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilegium",
         "location": "Mexico",
         "genres_unsanitized": "Ambient/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilego",
         "location": "Colombia",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilego",
         "location": "Mexico",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrilium",
         "location": "Chile",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacriment",
         "location": "Canada",
         "genres_unsanitized": "Melodic Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrimonia",
         "location": "Poland",
         "genres_unsanitized": "Symphonic Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrimony",
         "location": "Poland",
         "genres_unsanitized": "Funeral Doom Metal/Ambient",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrimoon",
         "location": "Mexico",
         "genres_unsanitized": "Depressive Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacriphyx",
         "location": "Australia",
         "genres_unsanitized": "Death/Thrash/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrist",
         "location": "Czech Republic",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacristia",
         "location": "Brazil",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacristía",
         "location": "Spain",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacristy",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacritual",
         "location": "Australia",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrium",
         "location": "Sweden",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacriversum",
         "location": "Poland",
         "genres_unsanitized": "Death/Thrash Metal (early), Gothic Metal (later)",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacro",
         "location": "Paraguay",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacro",
         "location": "Venezuela",
         "genres_unsanitized": "Death/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacro",
         "location": "Mexico",
         "genres_unsanitized": "Power/Speed Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacro",
         "location": "Argentina",
         "genres_unsanitized": "Melodic Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacro Berus",
         "location": "Chile",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacro Blade",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacro Fuego",
         "location": "Argentina",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacro Goat",
         "location": "Brazil",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacro Macello",
         "location": "Italy",
         "genres_unsanitized": "Symphonic Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacro Ordine dei Cavalieri di Parsifal",
         "location": "Italy",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacro Sanctus",
         "location": "Malta",
         "genres_unsanitized": "Blackened Heavy/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrocurse",
         "location": "International",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrodeath",
         "location": "Chile",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrofire",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrofuck",
         "location": "Poland",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrom",
         "location": "Peru",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrophobia",
         "location": "Spain",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrosanct",
         "location": "Netherlands",
         "genres_unsanitized": "Progressive Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrosanct",
         "location": "Greece",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrosanct",
         "location": "United States",
         "genres_unsanitized": "Melodic Death/Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrosanct",
         "location": "Philippines",
         "genres_unsanitized": "Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrosanct Moon",
         "location": "Slovakia",
         "genres_unsanitized": "Heavy/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrosanctum",
         "location": "Czech Republic",
         "genres_unsanitized": "Gothic/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacroscum",
         "location": "Germany",
         "genres_unsanitized": "Black Metal/Crust",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrosent",
         "location": "Puerto Rico",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrosodomy",
         "location": "Spain",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Sacrospell",
         "location": "Russia",
         "genres_unsanitized": "Atmospheric Black Metal/Drone",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     }
 ]

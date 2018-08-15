@@ -3,2106 +3,2457 @@
         "bandname": "0 X í S T",
         "location": "Finland",
         "genres_unsanitized": "Blackened Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "0 Zone",
         "location": "Greece",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "01101111011101100110111001101001",
         "location": "International",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "0N0",
         "location": "Slovakia",
         "genres_unsanitized": "Experimental Industrial Doom/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1 Shot Kill",
         "location": "Australia",
         "genres_unsanitized": "Death/Groove Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "10 Kingdoms",
         "location": "United States",
         "genres_unsanitized": "Thrash/Heavy Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "10$ Head",
         "location": "United Kingdom",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "10-67 P.D.O.A.",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "10.000 km² gegen die Zeit",
         "location": "Germany",
         "genres_unsanitized": "Stoner/Doom Metal/Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "100 Knives Inside",
         "location": "Denmark",
         "genres_unsanitized": "Progressive Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "100 Slain",
         "location": "Spain",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "100 Suns",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1000 A.D.",
         "location": "United States",
         "genres_unsanitized": "Drone/Sludge Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1000 Bombs",
         "location": "Czech Republic",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1000 Funerals",
         "location": "Iran",
         "genres_unsanitized": "Funeral Doom/Death Metal/Ambient",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1000 Kadaveres",
         "location": "Chile",
         "genres_unsanitized": "Brutal Death Metal/Goregrind",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1000 Odios",
         "location": "Argentina",
         "genres_unsanitized": "Thrash/Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1000 Sins",
         "location": "United Kingdom",
         "genres_unsanitized": "Metalcore",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1000 Vierges",
         "location": "France",
         "genres_unsanitized": "Sludge/Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1000 Yard Stare",
         "location": "United States",
         "genres_unsanitized": "Death/Groove Metal (early), Sludge/Doom/Death Metal (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "100000 Tonnen Kruppstahl",
         "location": "Germany",
         "genres_unsanitized": "Grindcore/Powerviolence",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1000Dead",
         "location": "Greece",
         "genres_unsanitized": "Metalcore/Thrash/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "107 Pasos",
         "location": "Colombia",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1080",
         "location": "United States",
         "genres_unsanitized": "Groove/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "10Eyes",
         "location": "Germany",
         "genres_unsanitized": "Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "11 Paranoias",
         "location": "United Kingdom",
         "genres_unsanitized": "Sludge/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1134",
         "location": "United States",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "11:11",
         "location": "United States",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "11:34",
         "location": "United States",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "11th Dimension",
         "location": "Portugal",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "11th Plague",
         "location": "United States",
         "genres_unsanitized": "Groove/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "12 Days of Anarchy",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "12 Eyes",
         "location": "United States",
         "genres_unsanitized": "Sludge Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "12 Gauge",
         "location": "Netherlands",
         "genres_unsanitized": "Thrash/Groove Metal/Metalcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "12 Gauge Dead",
         "location": "Sweden",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "12 Gauge Outrage",
         "location": "Ireland",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "12 Ton Method",
         "location": "United Kingdom",
         "genres_unsanitized": "Technical Groove Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "12 Ton Sledge",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "12.7",
         "location": "France",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "122 Stab Wounds",
         "location": "Norway",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "12:06",
         "location": "United States",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "12:06",
         "location": "Spain",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "12th Ode",
         "location": "Malta",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13",
         "location": "United States",
         "genres_unsanitized": "Sludge/Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13 A.D.",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13 Candles",
         "location": "United Kingdom",
         "genres_unsanitized": "Gothic Metal/Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13 Candles",
         "location": "Netherlands",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13 Candles",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13 Days Before Suicide",
         "location": "Germany",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13 Killings",
         "location": "United States",
         "genres_unsanitized": "Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13 Lashes",
         "location": "Canada",
         "genres_unsanitized": "Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13 Left to Die",
         "location": "Spain",
         "genres_unsanitized": "Thrash Metal, Metalcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13 Mag",
         "location": "United States",
         "genres_unsanitized": "Southern Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13 Winters",
         "location": "United States",
         "genres_unsanitized": "Symphonic Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13-Digits",
         "location": "France",
         "genres_unsanitized": "Progressive Metal/Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1349",
         "location": "Norway",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1369",
         "location": "United States",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "137",
         "location": "United States",
         "genres_unsanitized": "Sludge/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1389",
         "location": "Bosnia and Herzegovina",
         "genres_unsanitized": "Raw Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13Down",
         "location": "United States",
         "genres_unsanitized": "Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13Even",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13lackHan",
         "location": "Turkey",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13Nerve",
         "location": "Italy",
         "genres_unsanitized": "Groove/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13Rituals",
         "location": "Romania",
         "genres_unsanitized": "Deathcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13th Cadaver",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13th Embodiment",
         "location": "Spain",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13th Knot",
         "location": "United States",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13th Level",
         "location": "United States",
         "genres_unsanitized": "Groove/Thrash Metal/Hardcore",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13th Melody",
         "location": "Canada",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13th Moon",
         "location": "Spain",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13th Temple",
         "location": "Chile",
         "genres_unsanitized": "Black/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "13Trl",
         "location": "Spain",
         "genres_unsanitized": "Depressive Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "14 Sacred Words",
         "location": "United States",
         "genres_unsanitized": "Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "14-22",
         "location": "Argentina",
         "genres_unsanitized": "Hard Rock/Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "14/88",
         "location": "Brazil",
         "genres_unsanitized": "Raw Black Metal/Noise",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "14120912519",
         "location": "Malaysia",
         "genres_unsanitized": "Experimental Black Metal/Dark Ambient",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "14Winterkampf88",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "15 Times Dead",
         "location": "United Kingdom",
         "genres_unsanitized": "Thrash/Groove Metal, Groove Metal (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1572",
         "location": "Russia",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "16",
         "location": "United States",
         "genres_unsanitized": "Sludge Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "16 Stitches",
         "location": "United States",
         "genres_unsanitized": "Progressive Rock/Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "17.XII",
         "location": "Bulgaria",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "17586063",
         "location": "Japan",
         "genres_unsanitized": "Power Metal/Shred",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "17Days",
         "location": "Italy",
         "genres_unsanitized": "Doom Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "18 Speed Tranny",
         "location": "United States",
         "genres_unsanitized": "Heavy/Stoner Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "18 Wheels of Justice",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1833 AD",
         "location": "India",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1837",
         "location": "Canada",
         "genres_unsanitized": "Black/Folk Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1879",
         "location": "Chile",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1914",
         "location": "Ukraine",
         "genres_unsanitized": "Blackened Death/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1917",
         "location": "Argentina",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1931",
         "location": "United States",
         "genres_unsanitized": "Deathcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1968",
         "location": "United Kingdom",
         "genres_unsanitized": "Stoner Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1970",
         "location": "Argentina",
         "genres_unsanitized": "Stoner Metal/Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1984",
         "location": "Indonesia",
         "genres_unsanitized": "Black Metal/Crust",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "19TilDawn",
         "location": "United States",
         "genres_unsanitized": "Thrash/Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1:34",
         "location": "United States",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1Down",
         "location": "Philippines",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1Enemy3",
         "location": "United States",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1KillEmbrace",
         "location": "Hungary",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "1n54n0",
         "location": "Costa Rica",
         "genres_unsanitized": "Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "2 Headed Chang",
         "location": "United States",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "2 Kings",
         "location": "United Kingdom",
         "genres_unsanitized": "Industrial Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "2 Son Multitud",
         "location": "Spain",
         "genres_unsanitized": "Doom/Gothic/Folk Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "2 Ton Predator",
         "location": "Sweden",
         "genres_unsanitized": "Groove/Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "2 Wolves",
         "location": "Finland",
         "genres_unsanitized": "Gothic Doom/Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "20 Grit",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal/Progressive Hard Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "2000 A.D.",
         "location": "Canada",
         "genres_unsanitized": "Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "206和思想者",
         "location": "China",
         "genres_unsanitized": "Doom/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "21 Lucifers",
         "location": "Sweden",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "2112",
         "location": "Argentina",
         "genres_unsanitized": "Progressive Rock/Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "21:37",
         "location": "Poland",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "21st Century Killing Machine",
         "location": "Germany",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "21st Century Sin",
         "location": "United States",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "220 Volt",
         "location": "Sweden",
         "genres_unsanitized": "Heavy Metal (early), Hard Rock (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "220 Voltios",
         "location": "Paraguay",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "23",
         "location": "Croatia",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "23 Acez",
         "location": "Belgium",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "23 Roadkill",
         "location": "United States",
         "genres_unsanitized": "Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "23 Ways to Hell",
         "location": "Spain",
         "genres_unsanitized": "Sludge/Groove Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "237",
         "location": "United States",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "23rd Grade of Evil",
         "location": "Switzerland",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "24Gore",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "24Unity",
         "location": "Canada",
         "genres_unsanitized": "Progressive Metal/Rock",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "26 Beers",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "27 North",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "29/09",
         "location": "France",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "29Jaguar",
         "location": "Japan",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "2Black",
         "location": "Switzerland",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "2Est Voo",
         "location": "Germany",
         "genres_unsanitized": "Melodic Death Metal/Metalcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "2Excess",
         "location": "Germany",
         "genres_unsanitized": "Gothic/Doom Metal (early), Progressive Metal (later)",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "2hd",
         "location": "Venezuela",
         "genres_unsanitized": "Melodic Death/Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "2nCuk",
         "location": "Indonesia",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "2nd Heat",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "2nd Sight",
         "location": "Germany",
         "genres_unsanitized": "Progressive/Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "2nd Suicide",
         "location": "Finland",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "2ndgraderenegade",
         "location": "Australia",
         "genres_unsanitized": "Groove/Industrial Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3",
         "location": "Italy",
         "genres_unsanitized": "Industrial Black Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3 Days of Silence",
         "location": "Switzerland",
         "genres_unsanitized": "Black Metal/Electronic/Ambient",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3 Headed Monster",
         "location": "United States",
         "genres_unsanitized": "Progressive/Power/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3 Headed Moses",
         "location": "United States",
         "genres_unsanitized": "Heavy/Thrash/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3 Inches of Blood",
         "location": "Canada",
         "genres_unsanitized": "Power/Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3 Mexicans from Gorma",
         "location": "Italy",
         "genres_unsanitized": "Stoner/Southern Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3 Mile Scream",
         "location": "Canada",
         "genres_unsanitized": "Melodic Death/Thrash Metal/Metalcore",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3 Parts Demon",
         "location": "United States",
         "genres_unsanitized": "Progressive Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3 Times Driven",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal/Hard Rock",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3's Eve",
         "location": "United States",
         "genres_unsanitized": "Gothic Rock/Ambient, Heavy/Gothic Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3,14...",
         "location": "Azerbaijan",
         "genres_unsanitized": "Melodic Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3-Dead",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3.3.3",
         "location": "Ecuador",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3/4 Ton",
         "location": "United States",
         "genres_unsanitized": "Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "30 Years Too Late",
         "location": "Canada",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "30,000 Monkies",
         "location": "Belgium",
         "genres_unsanitized": "Drone/Doom/Sludge Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "300 Cobras",
         "location": "United States",
         "genres_unsanitized": "Thrash/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "300 Miles Between",
         "location": "Finland",
         "genres_unsanitized": "Melodic Heavy Metal/Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "308",
         "location": "Australia",
         "genres_unsanitized": "Black/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "314 Project",
         "location": "France",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "32 Mildreds",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "324",
         "location": "Japan",
         "genres_unsanitized": "Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "32nd Chamber",
         "location": "Denmark",
         "genres_unsanitized": "Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "34-D",
         "location": "Mexico",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3405",
         "location": "Russia",
         "genres_unsanitized": "Stoner Metal/Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "350teric",
         "location": "Macedonia (FYROM)",
         "genres_unsanitized": "Progressive Metal/Djent",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "359",
         "location": "Finland",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "38DD",
         "location": "United States",
         "genres_unsanitized": "Thrash/Southern Metal/Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3:16",
         "location": "Peru",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3:33",
         "location": "United States",
         "genres_unsanitized": "Crossover Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3B Assylum",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3D House of Beef",
         "location": "United States",
         "genres_unsanitized": "Sludge/Doom Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3D in Your Face",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3Lunas",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3oT7",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3rd Born Sun",
         "location": "United Kingdom",
         "genres_unsanitized": "Death/Thrash Metal (early), Sludge Metal (later)",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3rd Machine",
         "location": "Netherlands",
         "genres_unsanitized": "Industrial Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3rd Revelation",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3rd Room",
         "location": "Italy",
         "genres_unsanitized": "Gothic Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3rd Stage Alert",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3rd Sun",
         "location": "Germany",
         "genres_unsanitized": "Melodic Death Metal/Metalcore",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3XS",
         "location": "Hungary",
         "genres_unsanitized": "Power/Thrash Metal/Metalcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "3η Εποχή",
         "location": "Greece",
         "genres_unsanitized": "Rock (early), Heavy/Thrash Metal (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "4 A.M.",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "4 Chambers of Ivory",
         "location": "Germany",
         "genres_unsanitized": "Doom/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "4 Ciénegas",
         "location": "Mexico",
         "genres_unsanitized": "Stoner Metal/Rock",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "4 Kings",
         "location": "Germany",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "4.6",
         "location": "Finland",
         "genres_unsanitized": "Melodic Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "40 on the Floor",
         "location": "United States",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "40 oz. Fist",
         "location": "United States",
         "genres_unsanitized": "Death Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "40 Watt Sun",
         "location": "United Kingdom",
         "genres_unsanitized": "Doom Metal, Atmospheric Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "403 Forbiddena",
         "location": "Japan",
         "genres_unsanitized": "Melodic Power/Speed Metal/Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "40Gradi",
         "location": "Croatia",
         "genres_unsanitized": "Brutal Death Metal/Grindcore",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "420",
         "location": "United States",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "44 Magnum",
         "location": "Japan",
         "genres_unsanitized": "Heavy Metal/Hard Rock (early), AOR (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "44 X ES",
         "location": "Germany",
         "genres_unsanitized": "Industrial/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "44Mag",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "45 Calibre Brain Surgery",
         "location": "Germany",
         "genres_unsanitized": "Death Metal/Deathcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "45-70",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "468",
         "location": "Russia",
         "genres_unsanitized": "Industrial Death Metal/Grindcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "49 Hydrogen Device",
         "location": "Italy",
         "genres_unsanitized": "Industrial Death/Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "4Arm",
         "location": "Australia",
         "genres_unsanitized": "Groove/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "4CDIIH8",
         "location": "United States",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "4Century",
         "location": "France",
         "genres_unsanitized": "Power Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "4Estigma",
         "location": "Chile",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "4evil",
         "location": "Germany",
         "genres_unsanitized": "Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "4Fourty",
         "location": "United States",
         "genres_unsanitized": "Progressive Rock/Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "4Mag Nitrous",
         "location": "United States",
         "genres_unsanitized": "Stoner/Southern Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "4Nothing",
         "location": "Italy",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "4order",
         "location": "Finland",
         "genres_unsanitized": "Gothic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "4saken1",
         "location": "United States",
         "genres_unsanitized": "Gothic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "4th Circle",
         "location": "France",
         "genres_unsanitized": "Symphonic Gothic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "4th Dimension",
         "location": "Italy",
         "genres_unsanitized": "Symphonic Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "4th Legacy",
         "location": "Serbia",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "4th Level",
         "location": "Italy",
         "genres_unsanitized": "Melodic Power Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "4to Reich",
         "location": "Argentina",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "4Trust",
         "location": "Hungary",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "4XistenZ",
         "location": "Austria",
         "genres_unsanitized": "Groove/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "5 B Hated",
         "location": "Netherlands",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "5 Billion Dead",
         "location": "United States",
         "genres_unsanitized": "Groove Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "5 Days Bleeding",
         "location": "United States",
         "genres_unsanitized": "Melodic Death/Power/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "5 Minutes Hate",
         "location": "United States",
         "genres_unsanitized": "Death Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "5 Stabbed 4 Corpses",
         "location": "Germany",
         "genres_unsanitized": "Brutal Death Metal/Goregrind",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "5 Star Grave",
         "location": "Italy",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "5 Symbols",
         "location": "Czech Republic",
         "genres_unsanitized": "Melodic Death Metal/Metalcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "5 Стихий",
         "location": "Russia",
         "genres_unsanitized": "Melodic Heavy/Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "5/5/2000",
         "location": "United States",
         "genres_unsanitized": "Drone/Doom Metal/Ambient",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "50 Stitches to Salvation",
         "location": "Germany",
         "genres_unsanitized": "Melodic Death Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "502",
         "location": "United States",
         "genres_unsanitized": "Raw Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "50lb.Head",
         "location": "United States",
         "genres_unsanitized": "Southern/Stoner Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "5150",
         "location": "Japan",
         "genres_unsanitized": "Symphonic Power/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "54",
         "location": "Norway",
         "genres_unsanitized": "Extreme Progressive Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "54 Suicides",
         "location": "Germany",
         "genres_unsanitized": "Metalcore/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "54R",
         "location": "United States",
         "genres_unsanitized": "Death/Black Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "5:45",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "5grs",
         "location": "Iran",
         "genres_unsanitized": "Progressive Thrash/Gothic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "5ive",
         "location": "United States",
         "genres_unsanitized": "Melodic Sludge/Drone/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "5m3",
         "location": "Netherlands",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "5ML",
         "location": "Russia",
         "genres_unsanitized": "Depressive Black Metal/Post-Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "5Rand",
         "location": "Italy",
         "genres_unsanitized": "Melodic Death/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "5th Column",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "5th Dawn",
         "location": "United States",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "5th Element",
         "location": "Italy",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "5th of November",
         "location": "Austria",
         "genres_unsanitized": "Deathcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "5th Season",
         "location": "Germany",
         "genres_unsanitized": "Heavy/Power/Progressive Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "5X",
         "location": "Japan",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "6 Degrees",
         "location": "Denmark",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "6 Degrees",
         "location": "Russia",
         "genres_unsanitized": "Atmospheric Sludge/Post-Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "6 Dynasty",
         "location": "Germany",
         "genres_unsanitized": "Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "6 Feet Under",
         "location": "Germany",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "6-Cylinder",
         "location": "France",
         "genres_unsanitized": "Stoner/Sludge Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "6-DTC",
         "location": "France",
         "genres_unsanitized": "Death/Thrash Metal/Hardcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "60 Grit",
         "location": "United States",
         "genres_unsanitized": "Death Metal, Deathcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "602",
         "location": "Russia",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "609",
         "location": "Russia",
         "genres_unsanitized": "Doom/Sludge Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "612 Sacrifices",
         "location": "Slovakia",
         "genres_unsanitized": "Atmospheric Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "616",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "6301719",
         "location": "Germany",
         "genres_unsanitized": "Doom/Black Metal/Ambient",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "6425",
         "location": "Philippines",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "66",
         "location": "Japan",
         "genres_unsanitized": "Raw Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "666",
         "location": "Czech Republic",
         "genres_unsanitized": "Thrash/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "666",
         "location": "Japan",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "666",
         "location": "Norway",
         "genres_unsanitized": "Black/Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "666",
         "location": "Hungary",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "666 Motosierras",
         "location": "Mexico",
         "genres_unsanitized": "Speed/Thrash/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "666 Pack",
         "location": "Mexico",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "666 Realidad Oculta",
         "location": "Colombia",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "666 Shades of Shit",
         "location": "Netherlands",
         "genres_unsanitized": "Death Metal/Goregrind",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "666 Three Six",
         "location": "Japan",
         "genres_unsanitized": "Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "666 XHE",
         "location": "Poland",
         "genres_unsanitized": "Heavy Metal/Hard Rock",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "66crusher",
         "location": "Norway",
         "genres_unsanitized": "Progressive/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "69",
         "location": "Serbia",
         "genres_unsanitized": "Gothic/Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "69 Chambers",
         "location": "Switzerland",
         "genres_unsanitized": "Alternative/Progressive Metal/Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "6th Awakening",
         "location": "Sweden",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "6th Counted Murder",
         "location": "Italy",
         "genres_unsanitized": "Heavy/Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "6th Omen",
         "location": "Puerto Rico",
         "genres_unsanitized": "Thrash/Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7 Dot Dice",
         "location": "Russia",
         "genres_unsanitized": "Stoner/Southern Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7 Grados Richter",
         "location": "Chile",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7 H.Target",
         "location": "Russia",
         "genres_unsanitized": "Experimental/Technical Brutal Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7 Months",
         "location": "United States",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7 Pages of Silence",
         "location": "Ukraine",
         "genres_unsanitized": "Melodic Death Metal/Metalcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7 Peles",
         "location": "Brazil",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7 Seals",
         "location": "Germany",
         "genres_unsanitized": "Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7 Sins",
         "location": "Sweden",
         "genres_unsanitized": "Power/Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7.5 Tonnes of Beard",
         "location": "United Kingdom",
         "genres_unsanitized": "Sludge Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7000 Dying Rats",
         "location": "United States",
         "genres_unsanitized": "Experimental Grindcore/Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "71TonMan",
         "location": "Poland",
         "genres_unsanitized": "Doom/Sludge Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "72 Hrs",
         "location": "Nepal",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "731",
         "location": "Russia",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "731",
         "location": "Poland",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "731",
         "location": "Australia",
         "genres_unsanitized": "Grindcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "731 Urkved",
         "location": "Italy",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "762",
         "location": "United States",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "77",
         "location": "Lithuania",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "78424325",
         "location": "Mexico",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7days",
         "location": "Sweden",
         "genres_unsanitized": "Progressive/Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7mo Regimiento",
         "location": "Argentina",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7Sins of Surviving",
         "location": "Czech Republic",
         "genres_unsanitized": "Metalcore/Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7th Abyss",
         "location": "Germany",
         "genres_unsanitized": "Melodic Death Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7th Angel",
         "location": "United States",
         "genres_unsanitized": "Melodic Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7th Child",
         "location": "United Kingdom",
         "genres_unsanitized": "Technical Brutal Death Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7th Circle",
         "location": "Belgium",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7th City Child",
         "location": "Uruguay",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7th Delirium",
         "location": "Spain",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7th Gate",
         "location": "Austria",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7th Guest",
         "location": "Brazil",
         "genres_unsanitized": "Thrash/Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7th Heaven",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7th Moon",
         "location": "Spain",
         "genres_unsanitized": "Gothic Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7th Nemesis",
         "location": "France",
         "genres_unsanitized": "Extreme Progressive Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7th Overture",
         "location": "United States",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7th Reign",
         "location": "Canada",
         "genres_unsanitized": "Power Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7th Sacrament",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7th Sanctum",
         "location": "Cyprus",
         "genres_unsanitized": "Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7th Seal",
         "location": "Italy",
         "genres_unsanitized": "Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7th Seal",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7th Son",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7th Symphony",
         "location": "Taiwan",
         "genres_unsanitized": "Progressive Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7th Symphony",
         "location": "Brazil",
         "genres_unsanitized": "Symphonic Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "7Zuma7",
         "location": "Netherlands",
         "genres_unsanitized": "Stoner Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "8 Foot Sativa",
         "location": "New Zealand",
         "genres_unsanitized": "Melodic Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "8 Weeks Dead",
         "location": "United States",
         "genres_unsanitized": "Thrash/Stoner Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "8-Point Rose",
         "location": "Sweden",
         "genres_unsanitized": "Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "80 Billion Tons",
         "location": "United States",
         "genres_unsanitized": "Doom/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "80 Kalibre",
         "location": "Turkey",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "86 Proof",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal/Hard Rock",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "88",
         "location": "Bulgaria",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "88 Mile Trip",
         "location": "Canada",
         "genres_unsanitized": "Stoner Rock/Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "88MM Metal Bullets",
         "location": "United States",
         "genres_unsanitized": "Black/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "8m/s",
         "location": "Bulgaria",
         "genres_unsanitized": "Deathcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "8mm Overdose",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "9",
         "location": "Argentina",
         "genres_unsanitized": "Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "9 Days Down",
         "location": "United Kingdom",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "9 Horas",
         "location": "Panama",
         "genres_unsanitized": "Southern Metal/Rock",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "9 Musas",
         "location": "Mexico",
         "genres_unsanitized": "Progressive Rock/Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "9.7 Richter",
         "location": "Romania",
         "genres_unsanitized": "Heavy/Thrash/Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "908",
         "location": "United States",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "999 Society",
         "location": "United States",
         "genres_unsanitized": "Groove/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "9Horizon",
         "location": "Latvia",
         "genres_unsanitized": "Sludge/Stoner Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "9MM",
         "location": "Chile",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "9MM",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal/Hard Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "9th Circle",
         "location": "Sweden",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "9th Circle Symphony",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "9th Entity",
         "location": "Chile",
         "genres_unsanitized": "Death/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "9th Plague",
         "location": "Sweden",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "9xDead",
         "location": "United Kingdom",
         "genres_unsanitized": "Gothic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The 11th Commandment",
         "location": "Serbia",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The 11th Hour",
         "location": "Netherlands",
         "genres_unsanitized": "Doom/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The 135",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The 3rd Attempt",
         "location": "Norway",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The 4th Mirror",
         "location": "Italy",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The 7th Circle",
         "location": "Portugal",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The 7th Gate",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The 8th Day",
         "location": "Ireland",
         "genres_unsanitized": "Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The 8th Sin",
         "location": "Netherlands",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     }
 ]

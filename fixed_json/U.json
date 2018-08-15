@@ -3,3000 +3,3500 @@
         "bandname": "The Ugly",
         "location": "Sweden",
         "genres_unsanitized": "Black/Thrash Metal (early), Black Metal (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Ulcer",
         "location": "Malaysia",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Ultimate Death",
         "location": "Canada",
         "genres_unsanitized": "Thrash/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Ultra Siberian Pant Factory",
         "location": "United States",
         "genres_unsanitized": "Progressive Metal/Metalcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unable",
         "location": "Italy",
         "genres_unsanitized": "Groove/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unabomber Files",
         "location": "Brazil",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unavowed",
         "location": "Canada",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unbeheld",
         "location": "United States",
         "genres_unsanitized": "Psychedelic Stoner Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unborn",
         "location": "Poland",
         "genres_unsanitized": "Melodic Death/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unborn",
         "location": "Argentina",
         "genres_unsanitized": "Gothic/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unborn Dead",
         "location": "Canada",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unchained",
         "location": "Finland",
         "genres_unsanitized": "Power Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unchaining",
         "location": "Italy",
         "genres_unsanitized": "Atmospheric Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unchallenged",
         "location": "Germany",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unconfessed",
         "location": "Greece",
         "genres_unsanitized": "Epic Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unconscious Mind",
         "location": "Canada",
         "genres_unsanitized": "Melodic Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Uncreation",
         "location": "Australia",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Uncrowned",
         "location": "Japan",
         "genres_unsanitized": "Melodic Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Undead Family",
         "location": "Spain",
         "genres_unsanitized": "Death 'n' Roll/Stoner Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Under",
         "location": "Japan",
         "genres_unsanitized": "Raw Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Under",
         "location": "United States",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Undergrave Experience",
         "location": "Italy",
         "genres_unsanitized": "Funeral Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Underside",
         "location": "Spain",
         "genres_unsanitized": "Groove Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Undertaken",
         "location": "Canada",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Undertakers",
         "location": "Mexico",
         "genres_unsanitized": "Deathcore",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Undivine",
         "location": "Finland",
         "genres_unsanitized": "Death Metal, Hardcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unforclosure",
         "location": "Italy",
         "genres_unsanitized": "Symphonic Groove/Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Ungrateful",
         "location": "Sweden",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unguided",
         "location": "Sweden",
         "genres_unsanitized": "Melodic Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The UnhaliGäst",
         "location": "Brazil",
         "genres_unsanitized": "Speed Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unhallowed",
         "location": "Russia",
         "genres_unsanitized": "Death Metal (early), Death/Black Metal (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unholy",
         "location": "United States",
         "genres_unsanitized": "Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unholy",
         "location": "Portugal",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unholy Concoction",
         "location": "United Kingdom",
         "genres_unsanitized": "Southern/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unholy Warlock",
         "location": "United Kingdom",
         "genres_unsanitized": "Stoner/Doom Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The UnHuman Thorn",
         "location": "Chile",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Uninvited",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unity",
         "location": "Germany",
         "genres_unsanitized": "Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Universe",
         "location": "Russia",
         "genres_unsanitized": "Southern Metal/Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Universe Divide",
         "location": "United States",
         "genres_unsanitized": "Technical Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unjust",
         "location": "United States",
         "genres_unsanitized": "Speed Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unknown",
         "location": "United Kingdom",
         "genres_unsanitized": "Melodic Death/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unknown...",
         "location": "Mexico",
         "genres_unsanitized": "Dark Ambient/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unquiet Grave",
         "location": "Sweden",
         "genres_unsanitized": "Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unravelling",
         "location": "Canada",
         "genres_unsanitized": "Progressive Metal/Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unsane",
         "location": "United States",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unseen",
         "location": "Mexico",
         "genres_unsanitized": "Doom/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unshaved Truth",
         "location": "Austria",
         "genres_unsanitized": "Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unshored",
         "location": "United States",
         "genres_unsanitized": "Black/Doom/Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unspeakable Cult ov Goatpenis",
         "location": "Germany",
         "genres_unsanitized": "Experimental Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Untrue Ares",
         "location": "Germany",
         "genres_unsanitized": "Progressive Thrash/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unvoiced",
         "location": "Canada",
         "genres_unsanitized": "Heavy/Gothic Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Unwilling",
         "location": "United States",
         "genres_unsanitized": "Melodic Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Upheaval",
         "location": "Turkey",
         "genres_unsanitized": "Black/Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "The Uprising",
         "location": "Switzerland",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ü",
         "location": "Italy",
         "genres_unsanitized": "Crust/Melodic Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "U-235",
         "location": "Ukraine",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "U-Teris",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "U.D.I.",
         "location": "United States",
         "genres_unsanitized": "Crossover",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "U.D.O.",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "U.G.",
         "location": "Japan",
         "genres_unsanitized": "Melodic Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "U.G.B.",
         "location": "Germany",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "U.G.H.",
         "location": "Malaysia",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "U.L.V.",
         "location": "Greece",
         "genres_unsanitized": "Pagan Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "U.N.C.U.L.T",
         "location": "Brazil",
         "genres_unsanitized": "Black/Death Metal/Dark Ambient",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "U.N.IT",
         "location": "Sweden",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "U.S. Dead Beat",
         "location": "Germany",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "U.S.M.C.",
         "location": "United States",
         "genres_unsanitized": "Experimental Grindcore/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "U.T.M.",
         "location": "Spain",
         "genres_unsanitized": "Heavy/Speed Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "U.Z.I",
         "location": "Mexico",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "U4EA",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "U8",
         "location": "Austria",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uada",
         "location": "United States",
         "genres_unsanitized": "Melodic Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uaral",
         "location": "Chile",
         "genres_unsanitized": "Folk/Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ubbo Sathla",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uber Death Men of Hate",
         "location": "United States",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Überall",
         "location": "Argentina",
         "genres_unsanitized": "Gothic Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Übergang",
         "location": "Germany",
         "genres_unsanitized": "Crossover/Hardcore Punk/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ubergehen",
         "location": "Colombia",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Überhate",
         "location": "Mexico",
         "genres_unsanitized": "Melodic Death/Thrash/Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ubermensch",
         "location": "Australia",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Übermensch",
         "location": "United States",
         "genres_unsanitized": "Black/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Übermensch",
         "location": "Brazil",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Übermensch",
         "location": "Germany",
         "genres_unsanitized": "Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ubersoldat",
         "location": "Australia",
         "genres_unsanitized": "Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ubi Sunt",
         "location": "United States",
         "genres_unsanitized": "Atmospheric/Funeral Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ubigun",
         "location": "Japan",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ubik",
         "location": "France",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ubiquitous",
         "location": "Australia",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ubiquitous",
         "location": "Poland",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ubiquitous",
         "location": "United States",
         "genres_unsanitized": "Progressive Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ubiquitous",
         "location": "United Kingdom",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ubiquitous Realities",
         "location": "Costa Rica",
         "genres_unsanitized": "Technical Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ubiquity",
         "location": "Belgium",
         "genres_unsanitized": "Progressive Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ubiquity",
         "location": "United States",
         "genres_unsanitized": "Melodic Death Metal/Deathcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ubiquity Is the Answer",
         "location": "France",
         "genres_unsanitized": "Progressive Death Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ubisumpt",
         "location": "Puerto Rico",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uburen",
         "location": "Norway",
         "genres_unsanitized": "Black/Viking Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uccultum",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ucigan",
         "location": "Romania",
         "genres_unsanitized": "Post-Black/Sludge Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "UCK Grind",
         "location": "Turkey",
         "genres_unsanitized": "Grindcore/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ucumar",
         "location": "Argentina",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Udainsakr",
         "location": "Germany",
         "genres_unsanitized": "Pagan Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Udar",
         "location": "Poland",
         "genres_unsanitized": "Doom/Sludge/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Úden",
         "location": "Chile",
         "genres_unsanitized": "Funeral Doom Metal, Dark Ambient",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Udha e Zezë",
         "location": "Italy",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "UDK",
         "location": "Chile",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Udo ChaveZZZ",
         "location": "Russia",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Udol",
         "location": "Spain",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Udol",
         "location": "Spain",
         "genres_unsanitized": "Stoner/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Udraborokh",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Udumbal",
         "location": "Belarus",
         "genres_unsanitized": "Ambient/Black Metal (early), Industrial/Dark Ambient (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Udun",
         "location": "United States",
         "genres_unsanitized": "Pagan Black Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Udûn",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Udûn",
         "location": "Croatia",
         "genres_unsanitized": "Atmospheric Pagan Metal/Ambient",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Udyr",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uerberos",
         "location": "Poland",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Üffhüf",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "UFO Gestapo",
         "location": "France",
         "genres_unsanitized": "Sludge/Stoner Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ufomammut",
         "location": "Italy",
         "genres_unsanitized": "Psychedelic Sludge/Stoner/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ufosonic Generator",
         "location": "Italy",
         "genres_unsanitized": "Doom Metal/Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ufrat",
         "location": "Brazil",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ufych Sormeer",
         "location": "France",
         "genres_unsanitized": "Symphonic Black Metal (early), Symphonic Heavy Metal (later)",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uganga",
         "location": "Brazil",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uggae Command",
         "location": "Chile",
         "genres_unsanitized": "Death/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uglor",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal/Hardcore Punk",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ugluk",
         "location": "Italy",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ugly",
         "location": "United States",
         "genres_unsanitized": "Sludge/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ugly but Proud",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ugly Deadman",
         "location": "Russia",
         "genres_unsanitized": "Black 'n' Roll",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ugly Face",
         "location": "Italy",
         "genres_unsanitized": "Thrash Metal/Metalcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ugly Joe",
         "location": "Greece",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ugly Ogre",
         "location": "Estonia",
         "genres_unsanitized": "Melodic Death/Thrash/Pagan Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ugly Wanda",
         "location": "United States",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uglystick",
         "location": "United States",
         "genres_unsanitized": "Heavy/Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ugnėlakis",
         "location": "Lithuania",
         "genres_unsanitized": "Pagan Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ugra Karma",
         "location": "Nepal",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ugress",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ugulishi",
         "location": "Finland",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "UHF",
         "location": "France",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uhkumo",
         "location": "Mexico",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "UHL",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uhna",
         "location": "Sweden",
         "genres_unsanitized": "Sludge Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uhraus",
         "location": "Finland",
         "genres_unsanitized": "Death/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uhrilahja",
         "location": "Finland",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uhrilehto",
         "location": "Finland",
         "genres_unsanitized": "Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uhrimalja",
         "location": "Finland",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uhriristi",
         "location": "Finland",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ühtceare",
         "location": "Argentina",
         "genres_unsanitized": "Atmospheric Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uhtcearu",
         "location": "United States",
         "genres_unsanitized": "Melodic Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uhygge",
         "location": "Denmark",
         "genres_unsanitized": "Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "UI-70",
         "location": "Japan",
         "genres_unsanitized": "Power/Heavy Metal, Hard Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uigg",
         "location": "Canada",
         "genres_unsanitized": "Black/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Úir",
         "location": "United Kingdom",
         "genres_unsanitized": "Atmospheric Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uirapuru",
         "location": "Brazil",
         "genres_unsanitized": "Melodic Progressive Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uitzichtloos",
         "location": "Netherlands",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "UK Hate Grind",
         "location": "United Kingdom",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ūkanose",
         "location": "Lithuania",
         "genres_unsanitized": "Folk Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Üksinda Bunker",
         "location": "United Kingdom",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uktena",
         "location": "United States",
         "genres_unsanitized": "Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulan Bator",
         "location": "Germany",
         "genres_unsanitized": "Progressive/Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulcer",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulcer",
         "location": "Poland",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulcer",
         "location": "Germany",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulcer",
         "location": "United Kingdom",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulcer Uterus",
         "location": "Poland",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulcera",
         "location": "Spain",
         "genres_unsanitized": "Thrash/Heavy Metal/Hard Rock",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Úlcera",
         "location": "Brazil",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulcerate",
         "location": "New Zealand",
         "genres_unsanitized": "Technical Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulcerate Fester",
         "location": "Netherlands",
         "genres_unsanitized": "Death Metal/Grindcore (early), Melodic Heavy Metal (later)",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulcerate Liquor",
         "location": "Germany",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulceration",
         "location": "United States",
         "genres_unsanitized": "Technical Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulcerous Phlegm",
         "location": "Germany",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulcifer",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulcisia Castra",
         "location": "Hungary",
         "genres_unsanitized": "Death/Black Metal/Hardcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulcus",
         "location": "Norway",
         "genres_unsanitized": "Symphonic Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulcus",
         "location": "Italy",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulcus Molle",
         "location": "Norway",
         "genres_unsanitized": "Thrash/Death Metal (early), Symphonic Black Metal (later)",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulcus Ventriculi",
         "location": "Germany",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulf Reich",
         "location": "Colombia",
         "genres_unsanitized": "Progressive/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulfang",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulfar",
         "location": "Italy",
         "genres_unsanitized": "Black/Viking Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Úlfarr",
         "location": "United Kingdom",
         "genres_unsanitized": "Depressive Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulfberht",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulfbiorn",
         "location": "Ukraine",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulfdallir",
         "location": "Russia",
         "genres_unsanitized": "Melodic Death/Viking Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ülfengard",
         "location": "France",
         "genres_unsanitized": "Pagan Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulfhednar",
         "location": "Russia",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulfhednar",
         "location": "Italy",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulfhethnar",
         "location": "Argentina",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulfhethnar",
         "location": "Germany",
         "genres_unsanitized": "Black Metal/RAC",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulfheðnir",
         "location": "Denmark",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulfrinn",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulfsark",
         "location": "Spain",
         "genres_unsanitized": "Epic Viking/Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulfsdalir",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Úlfsmýrr",
         "location": "International",
         "genres_unsanitized": "Atmospheric Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulfur Skogur",
         "location": "Canada",
         "genres_unsanitized": "Black Metal/Crust Punk",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Úlfúð",
         "location": "Iceland",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulg",
         "location": "United States",
         "genres_unsanitized": "Atmospheric Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulgard",
         "location": "United States",
         "genres_unsanitized": "Atmospheric Folk/Black Metal, Ambient",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulgoroth",
         "location": "Germany",
         "genres_unsanitized": "Depressive Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ûlh",
         "location": "Spain",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulhart",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulkagul",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulkan Newen",
         "location": "Chile",
         "genres_unsanitized": "Folk Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulkum",
         "location": "United States",
         "genres_unsanitized": "Funeral Doom/Death/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ull",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uller",
         "location": "United States",
         "genres_unsanitized": "Pagan Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ullyr",
         "location": "United States",
         "genres_unsanitized": "Ambient/Black Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulm",
         "location": "Denmark",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulsect",
         "location": "Netherlands",
         "genres_unsanitized": "Technical/Avant-garde Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultar",
         "location": "Russia",
         "genres_unsanitized": "Post-Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulterior",
         "location": "Netherlands",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulterior",
         "location": "Japan",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulterior Decimation",
         "location": "Malaysia",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultha",
         "location": "Germany",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulthar",
         "location": "United States",
         "genres_unsanitized": "Black/Death Metal, Crust",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulthar",
         "location": "Poland",
         "genres_unsanitized": "Black Metal/Ambient",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulthrash",
         "location": "Spain",
         "genres_unsanitized": "Death/Thrash Metal (early), Death/Black Metal (later)",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultima",
         "location": "Brazil",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultima Forsam",
         "location": "France",
         "genres_unsanitized": "Dark/Gothic Metal with Progressive elements",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultima Missa",
         "location": "Italy",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultima Ratio",
         "location": "Italy",
         "genres_unsanitized": "Black Metal/Ambient",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultima Sentencia",
         "location": "Spain",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultima Thule",
         "location": "Netherlands",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultima War",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimate",
         "location": "Brazil",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimate",
         "location": "France",
         "genres_unsanitized": "Melodic Thrash/Heavy Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimate Abyssic Serpent Lord",
         "location": "Portugal",
         "genres_unsanitized": "Drone/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimate Agony",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimate Disposal",
         "location": "Germany",
         "genres_unsanitized": "Melodic Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimate Fate",
         "location": "Sweden",
         "genres_unsanitized": "Melodic/Symphonic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimate Holocaust",
         "location": "Italy",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimate Loudspeaker",
         "location": "Japan",
         "genres_unsanitized": "Heavy/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimate Massacre",
         "location": "Brazil",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimate Trigger Mechanism",
         "location": "United Kingdom",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimatium",
         "location": "Finland",
         "genres_unsanitized": "Melodic Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimato",
         "location": "Brazil",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimatum",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimatum",
         "location": "Canada",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimatum",
         "location": "France",
         "genres_unsanitized": "Crossover, RAC",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimatum",
         "location": "Romania",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimatum",
         "location": "Mexico",
         "genres_unsanitized": "Heavy Metal/Hard Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimatum",
         "location": "Australia",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimatum",
         "location": "France",
         "genres_unsanitized": "Doom/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimatum",
         "location": "Chile",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimatum",
         "location": "Croatia",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimatum",
         "location": "Canada",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimátum",
         "location": "Hungary",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimatum",
         "location": "Argentina",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimatum",
         "location": "Russia",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimatum",
         "location": "Argentina",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimo Ataque",
         "location": "Brazil",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimo Mondo Cannibale",
         "location": "Italy",
         "genres_unsanitized": "Goregrind",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimos de Cuba",
         "location": "Spain",
         "genres_unsanitized": "Thrash/Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultimum Moriens",
         "location": "Mexico",
         "genres_unsanitized": "Thrash/Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultio",
         "location": "Unknown",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulto Divina",
         "location": "Greece",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultor",
         "location": "Germany",
         "genres_unsanitized": "Black Metal, Noise",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultor",
         "location": "United States",
         "genres_unsanitized": "Black/Death Metal/Crust",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultra",
         "location": "Latvia",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultra Beast",
         "location": "United States",
         "genres_unsanitized": "Heavy/Speed Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultra Infierno",
         "location": "Spain",
         "genres_unsanitized": "Heavy Metal/Hard Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultra Mayhem",
         "location": "Finland",
         "genres_unsanitized": "Heavy/Groove Metal with Power Metal influences",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultra Nova",
         "location": "International",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ültra Raptör",
         "location": "Canada",
         "genres_unsanitized": "Heavy/Speed Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultra Silvam",
         "location": "Sweden",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultra Vomit",
         "location": "France",
         "genres_unsanitized": "Death Metal/Grindcore (early), Various (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultra Vulture",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultra X",
         "location": "Argentina",
         "genres_unsanitized": "Thrash Metal (early), Groove/Industrial Metal (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultra-Violence",
         "location": "Italy",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultra-Violence",
         "location": "Colombia",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultrahead",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultraism",
         "location": "Ecuador",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultraje",
         "location": "Argentina",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultralord",
         "location": "United States",
         "genres_unsanitized": "Doom/Sludge Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultramafic",
         "location": "United States",
         "genres_unsanitized": "Psychedelic Doom/Stoner Metal/Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultraorthodox Fuck",
         "location": "El Salvador",
         "genres_unsanitized": "Brutal Death Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultraphallus",
         "location": "Belgium",
         "genres_unsanitized": "Experimental Sludge/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultrapodre",
         "location": "Portugal",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultrasatan",
         "location": "Portugal",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "UltraSuicide",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultrathrash",
         "location": "United States",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultratumba",
         "location": "Mexico",
         "genres_unsanitized": "Death/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultratumba",
         "location": "Chile",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultratumba",
         "location": "Spain",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultraviolence",
         "location": "Chile",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultrawurscht",
         "location": "Germany",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultreia",
         "location": "Spain",
         "genres_unsanitized": "Folk Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultrix",
         "location": "United States",
         "genres_unsanitized": "Experimental/Progressive/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ultyma",
         "location": "Canada",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulu Lungga",
         "location": "Malaysia",
         "genres_unsanitized": "Raw Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ululate",
         "location": "China",
         "genres_unsanitized": "Raw Black Metal (early), Death Metal (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ululatum Tollunt",
         "location": "United States",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uluun",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulv",
         "location": "Denmark",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulvaskar",
         "location": "Norway",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulvbern",
         "location": "Ukraine",
         "genres_unsanitized": "Depressive Black Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulvdalir",
         "location": "Russia",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulvedharr",
         "location": "Italy",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulvegr",
         "location": "Ukraine",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulveheim",
         "location": "Mexico",
         "genres_unsanitized": "Viking/Folk/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulven",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ülven 88",
         "location": "Argentina",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulvennight",
         "location": "Sweden",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulver",
         "location": "Norway",
         "genres_unsanitized": "Black/Folk Metal (early), Ambient/Avant-garde/Electronica (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulverheim",
         "location": "Sweden",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulvhedin",
         "location": "Norway",
         "genres_unsanitized": "Viking Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulvhedner",
         "location": "Norway",
         "genres_unsanitized": "Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulvkros",
         "location": "Belarus",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulvnatt",
         "location": "Sweden",
         "genres_unsanitized": "Black/Viking Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulysses",
         "location": "Netherlands",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulysses",
         "location": "Italy",
         "genres_unsanitized": "Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ulysses Siren",
         "location": "United States",
         "genres_unsanitized": "Thrash/Speed Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uma Aquelarre",
         "location": "Mexico",
         "genres_unsanitized": "Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umar",
         "location": "Indonesia",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbah",
         "location": "United Kingdom",
         "genres_unsanitized": "Avant-garde Industrial Death Metal/Cybergrind/Electronic",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbakrail",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umberhulk",
         "location": "United States",
         "genres_unsanitized": "Heavy Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umberhulk",
         "location": "Canada",
         "genres_unsanitized": "Doom/Stoner Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbilical Cord",
         "location": "United States",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbilical Fetal Strangulation",
         "location": "Mexico",
         "genres_unsanitized": "Death Metal/Grindcore/Goregrind",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbilical Gored",
         "location": "United States",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbilical Hemorragic",
         "location": "Brazil",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbilical Parricide",
         "location": "United States",
         "genres_unsanitized": "Goregrind",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbilical Strangulation",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbilichaos",
         "location": "Brazil",
         "genres_unsanitized": "Atmospheric Sludge/Drone/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbilicus Mundis",
         "location": "France",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbra",
         "location": "Germany",
         "genres_unsanitized": "Death/Doom/Gothic Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbra",
         "location": "Peru",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbra",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbra",
         "location": "France",
         "genres_unsanitized": "Post-Metal/Sludge Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbra Animae",
         "location": "Netherlands",
         "genres_unsanitized": "Electronic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbra Chaotica",
         "location": "Germany",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbra Deformis",
         "location": "Bosnia and Herzegovina",
         "genres_unsanitized": "Funeral Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbra Morta",
         "location": "Brazil",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbra Mortis",
         "location": "Indonesia",
         "genres_unsanitized": "Black Metal (early), Power Metal (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbra Necroza Noptiera",
         "location": "Hungary",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbra Nihil",
         "location": "Finland",
         "genres_unsanitized": "Progressive/Doom Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbra Noctis",
         "location": "Italy",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbra Obscennum",
         "location": "Brazil",
         "genres_unsanitized": "Black/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbra Omnipotentis",
         "location": "Brazil",
         "genres_unsanitized": "Symphonic Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbra Tortoris",
         "location": "Russia",
         "genres_unsanitized": "Doom Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbra Within",
         "location": "United States",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbraculum Funebris",
         "location": "Brazil",
         "genres_unsanitized": "Symphonic Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbrae",
         "location": "Mexico",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbrae",
         "location": "Colombia",
         "genres_unsanitized": "Depressive/Post-Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbral",
         "location": "Peru",
         "genres_unsanitized": "Power Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbral Filth",
         "location": "Ireland",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbral Presence",
         "location": "Russia",
         "genres_unsanitized": "Black Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbral Torturer",
         "location": "United States",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbrälia",
         "location": "Mexico",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbrarum",
         "location": "Costa Rica",
         "genres_unsanitized": "Progressive Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbrarum Regni",
         "location": "Paraguay",
         "genres_unsanitized": "Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbría",
         "location": "Argentina",
         "genres_unsanitized": "Sludge Metal/Hardcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbris",
         "location": "United Kingdom",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umbrtka",
         "location": "Czech Republic",
         "genres_unsanitized": "Atmospheric Black Metal/Avant-garde",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umea",
         "location": "Argentina",
         "genres_unsanitized": "Groove/Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umin",
         "location": "United States",
         "genres_unsanitized": "Grindcore/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ummon",
         "location": "France",
         "genres_unsanitized": "Experimental Death/Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Ummon",
         "location": "United States",
         "genres_unsanitized": "Atmospheric Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umor",
         "location": "Croatia",
         "genres_unsanitized": "Doom/Stoner Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umoral",
         "location": "Norway",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umount",
         "location": "International",
         "genres_unsanitized": "Thrash/Groove Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umrattawill",
         "location": "Chile",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umtakati",
         "location": "South Africa",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umusibyan",
         "location": "Malaysia",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umvral",
         "location": "Chile",
         "genres_unsanitized": "Power/Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umwelt",
         "location": "United States",
         "genres_unsanitized": "Dark Ambient/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Umzac",
         "location": "Colombia",
         "genres_unsanitized": "Symphonic Gothic/Folk Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Un",
         "location": "United States",
         "genres_unsanitized": "Funeral Doom Metal/Sludge Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Un Moment de Silence",
         "location": "Canada",
         "genres_unsanitized": "Dark Ambient/Drone Doom Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Un Tipo de Langostino",
         "location": "Germany",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "UN-",
         "location": "United Kingdom",
         "genres_unsanitized": "Drone/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Un-Chain",
         "location": "Japan",
         "genres_unsanitized": "Heavy/Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unabated",
         "location": "France",
         "genres_unsanitized": "Groove/Thrash Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unadorned",
         "location": "Turkey",
         "genres_unsanitized": "Progressive Doom/Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unaffected",
         "location": "Sweden",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unafraid",
         "location": "Japan",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unalloyed Regiment",
         "location": "Argentina",
         "genres_unsanitized": "Progressive Death/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unangel",
         "location": "Sweden",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unanimated",
         "location": "Sweden",
         "genres_unsanitized": "Melodic Death/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unanswered R.I.P.",
         "location": "France",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "UnAnyOne",
         "location": "Australia",
         "genres_unsanitized": "Thrash/Death/Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unatas",
         "location": "Finland",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unatur",
         "location": "Norway",
         "genres_unsanitized": "Experimental Black Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unatural Desaster",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unaussprechlichen Kulten",
         "location": "Chile",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unauthorized",
         "location": "Netherlands",
         "genres_unsanitized": "Melodic Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unauthorized",
         "location": "Colombia",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unawakened",
         "location": "United States",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbecoming",
         "location": "United States",
         "genres_unsanitized": "Industrial Death Metal (early), Gothic/Alternative Metal (later)",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbegotten",
         "location": "Spain",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbeheld",
         "location": "Canada",
         "genres_unsanitized": "Technical Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbeing",
         "location": "Norway",
         "genres_unsanitized": "Black/Doom/Sludge Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbeing",
         "location": "Canada",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbelief",
         "location": "Denmark",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbeliever",
         "location": "Poland",
         "genres_unsanitized": "Death Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbidden",
         "location": "Canada",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbirth",
         "location": "Italy",
         "genres_unsanitized": "Technical Brutal Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbleed",
         "location": "Chile",
         "genres_unsanitized": "Groove Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unblemished",
         "location": "Brazil",
         "genres_unsanitized": "Death Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbless",
         "location": "Malaysia",
         "genres_unsanitized": "Black/Folk Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unblessed",
         "location": "Chile",
         "genres_unsanitized": "Death/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unblessed",
         "location": "Singapore",
         "genres_unsanitized": "Death/Thrash/Speed Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unblessed",
         "location": "United States",
         "genres_unsanitized": "Death/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unblessed",
         "location": "France",
         "genres_unsanitized": "Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unblessed",
         "location": "United States",
         "genres_unsanitized": "Heavy  Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unblessed",
         "location": "Indonesia",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unblessed Affliction",
         "location": "Poland",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unblessed Domain",
         "location": "Mexico",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unblessed Force",
         "location": "Russia",
         "genres_unsanitized": "Black/Speed Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unblooded",
         "location": "Brazil",
         "genres_unsanitized": "Death Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbodied",
         "location": "United States",
         "genres_unsanitized": "Progressive/Sludge Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unborn",
         "location": "Czech Republic",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unborn",
         "location": "Poland",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unborn",
         "location": "United Kingdom",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unborn",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unborn",
         "location": "Brazil",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unborn Death",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unborn Suffer",
         "location": "Poland",
         "genres_unsanitized": "Brutal Death Metal/Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unborn Times",
         "location": "Brazil",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unborned",
         "location": "France",
         "genres_unsanitized": "Black/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "UnbornGeneration",
         "location": "Finland",
         "genres_unsanitized": "Death Metal, Grindcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbound",
         "location": "Germany",
         "genres_unsanitized": "Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbound",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbound",
         "location": "Spain",
         "genres_unsanitized": "Power Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbound",
         "location": "United States",
         "genres_unsanitized": "Melodic Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbound",
         "location": "Australia",
         "genres_unsanitized": "Death Metal/Grindcore/Punk",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbounded Sadism",
         "location": "Spain",
         "genres_unsanitized": "Death/Groove Metal/Deathcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbounded Terror",
         "location": "Spain",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbowed",
         "location": "Canada",
         "genres_unsanitized": "Melodic Death/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbowel",
         "location": "Chile",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbreakable",
         "location": "Norway",
         "genres_unsanitized": "Metalcore/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbreakable Hatred",
         "location": "Canada",
         "genres_unsanitized": "Technical Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbreakable NTC",
         "location": "Netherlands",
         "genres_unsanitized": "Thrash Metal/Hardcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbreakable Soul",
         "location": "Spain",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbreath",
         "location": "Spain",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbred",
         "location": "Lithuania",
         "genres_unsanitized": "Thrash/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbridled",
         "location": "Portugal",
         "genres_unsanitized": "Melodic Death Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbroken",
         "location": "Chile",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbroken Bones",
         "location": "Russia",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbroken Curse",
         "location": "Austria",
         "genres_unsanitized": "Metalcore/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unbrokken",
         "location": "Brazil",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unburden",
         "location": "Germany",
         "genres_unsanitized": "Melodic Death/Doom Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unburial",
         "location": "Spain",
         "genres_unsanitized": "Melodic Death/Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unburied",
         "location": "Finland",
         "genres_unsanitized": "Funeral Doom Metal, Experimental Industrial/Noise",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unburied",
         "location": "United States",
         "genres_unsanitized": "Death/Thrash Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unburied",
         "location": "United States",
         "genres_unsanitized": "Brutal Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unburied",
         "location": "Portugal",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unburn",
         "location": "Portugal",
         "genres_unsanitized": "Black/Gothic Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncaged",
         "location": "Australia",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncaged",
         "location": "Egypt",
         "genres_unsanitized": "Progressive Metal with Middle Eastern Influences",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncaladon",
         "location": "Brazil",
         "genres_unsanitized": "Atmospheric/Ambient Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncanny",
         "location": "Sweden",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncanny",
         "location": "Poland",
         "genres_unsanitized": "Symphonic Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncanny Reality",
         "location": "United Kingdom",
         "genres_unsanitized": "Ambient, Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncaved",
         "location": "Brazil",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncelestial",
         "location": "Finland",
         "genres_unsanitized": "Black Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncensored",
         "location": "France",
         "genres_unsanitized": "Thrash Metal/Hardcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unceremonial",
         "location": "United States",
         "genres_unsanitized": "Melodic Black/Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncerta",
         "location": "United Kingdom",
         "genres_unsanitized": "Thrash Metal/Hardcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncertain Future",
         "location": "United States",
         "genres_unsanitized": "Progressive Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncertainty Principle",
         "location": "United Kingdom",
         "genres_unsanitized": "Experimental/Drone/Funeral Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unchain",
         "location": "Japan",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unchain",
         "location": "France",
         "genres_unsanitized": "Heavy/Speed Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unchained",
         "location": "Sweden",
         "genres_unsanitized": "Power Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unchained",
         "location": "United Kingdom",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unchained",
         "location": "Japan",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Unknown"
+        "active": "Unknown",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unchained",
         "location": "Germany",
         "genres_unsanitized": "Heavy/Power Metal (early), Metalcore/Alternative Rock (later)",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unchained",
         "location": "Sweden",
         "genres_unsanitized": "Melodic Heavy Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unchained",
         "location": "France",
         "genres_unsanitized": "Melodic Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unchained Beast",
         "location": "Norway",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unchained Horizon",
         "location": "Germany",
         "genres_unsanitized": "Heavy/Thrash Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unchained Reality",
         "location": "Netherlands",
         "genres_unsanitized": "Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unchained Scarlett",
         "location": "Germany",
         "genres_unsanitized": "Power/Thrash Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unchallenged Hate",
         "location": "Germany",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unchaste",
         "location": "Sweden",
         "genres_unsanitized": "Thrash/Black Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unchecked Aggression",
         "location": "United States",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unchosen",
         "location": "United States",
         "genres_unsanitized": "Progressive Metal",
-        "active": "Changed name"
+        "active": "Changed name",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unchrist",
         "location": "United States",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncion",
         "location": "Mexico",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncivilized",
         "location": "Brazil",
         "genres_unsanitized": "Death Metal",
-        "active": "On hold"
+        "active": "On hold",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncle Acid and the Deadbeats",
         "location": "United Kingdom",
         "genres_unsanitized": "Psychedelic Rock/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncle Chuck",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncle Fester",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncle Scam",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncle Sid",
         "location": "Canada",
         "genres_unsanitized": "Heavy Metal/Hard Rock",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncle Slam",
         "location": "United States",
         "genres_unsanitized": "Thrash Metal/Crossover",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unclean",
         "location": "Czech Republic",
         "genres_unsanitized": "Black Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncleansed",
         "location": "United States",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncleghost",
         "location": "United Kingdom",
         "genres_unsanitized": "Black Metal/Grindcore",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unclouded Perception",
         "location": "Germany",
         "genres_unsanitized": "Heavy/Thrash Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncoffined",
         "location": "United Kingdom",
         "genres_unsanitized": "Death/Doom Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncolored Wishes",
         "location": "France",
         "genres_unsanitized": "Progressive Heavy Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Uncomposing",
         "location": "United States",
         "genres_unsanitized": "Avant-garde Death/Thrash Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unconcern",
         "location": "Slovakia",
         "genres_unsanitized": "Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unconcious",
         "location": "Malaysia",
         "genres_unsanitized": "Death Metal",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unconquered",
         "location": "United States",
         "genres_unsanitized": "Metalcore/Thrash/Death Metal",
-        "active": "Split-up"
+        "active": "Split-up",
+        "genres_cleaned": ""
     },
     {
         "bandname": "Unconscious Disturbance",
         "location": "Brazil",
         "genres_unsanitized": "Thrash/Death Metal/Metalcore",
-        "active": "Active"
+        "active": "Active",
+        "genres_cleaned": ""
     }
 ]
