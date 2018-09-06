@@ -7,20 +7,23 @@ def fix_themes(band_list):
         lyrical_themes = band.get("lyrical_themes")
         themes = lyrical_themes.split(", ")
         for theme in themes:
-            if " and " in theme:
-                themes_split = theme.split(" and ")
+            if " and " in theme or " / " in theme:
+                if " and " in theme:
+                    themes_split = theme.split(" and ")
+                else:
+                    themes_split = theme.split(" / ")
                 themes.remove(theme)
                 themes += themes_split # combine lists
         
         band['themes'] = themes # add themes to dict
         band_list[i] = band # update in place
-        
+
         print("fixed themes for: " + band.get("name"))
     return band_list
 
 # for testing
 def main():
-    band_json = load_list('./json/test.json') # load JSON file set as env variable later
+    band_json = load_list('./json/items.json') # load JSON file set as env variable later
     band_list = fix_themes(band_json)
     dump_list('./json/test_fix.json', band_list)
 
