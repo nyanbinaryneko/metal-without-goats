@@ -2,10 +2,11 @@ from json_helper import load_list, dump_list
 
 # refactor when i don't suck at regex, also slow works for now
 # scale later
-def fix_themes(band_list):
+def theme_fixer(band_list):
     for i, band in enumerate(band_list):
         lyrical_themes = band.get("lyrical_themes")
         themes = lyrical_themes.split(", ")
+        
         for theme in themes:
             if " and " in theme or " / " in theme:
                 if " and " in theme:
@@ -24,7 +25,7 @@ def fix_themes(band_list):
 # for testing
 def main():
     band_json = load_list('./json/items.json') # load JSON file set as env variable later
-    band_list = fix_themes(band_json)
+    band_list = theme_fixer(band_json)
     dump_list('./json/test_fix.json', band_list)
 
 if __name__ == '__main__':
