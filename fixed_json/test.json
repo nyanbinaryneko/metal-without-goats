@@ -1,16 +1,3 @@
 [
-    {
-        "bandname": "!T.O.O.H.!",
-        "location": "Czech Republic",
-        "genres_unsanitized": "Progressive Death Metal/Grindcore (early), Doom Metal (later)",
-        "active": "Active",
-        "genres_cleaned": ""
-    },
-    {
-        "bandname": "!T.E.S.T.!",
-        "location": "Czech Republic",
-        "genres_unsanitized": "Operatic Black Metal/Grindcore",
-        "active": "Active",
-        "genres_cleaned": ""
-    }
+    {"lyrical_themes": "Politics, Misanthropy, Gore", "style": "Progressive Death Metal/Grindcore", "name": "!T.O.O.H.!", "city": "Prague", "metalarchives_id": "16265", "country": "Czech Republic", "formation_year": "01/01/1993"}
 ]
