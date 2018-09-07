@@ -1,3 +1,5 @@
 /ENV
 /json_to_fix
 /scripts/__pycache__
+*.db
+
