@@ -74,12 +74,8 @@ def genre_fixer(band_list):
         print('genre fixed for ' + band.get('name'))
     return band_list
 
-
-def main():
+if __name__ == '__main__':
     band_list = load_list('./json/test.json')
     band_list = theme_fixer(band_list)
     band_list = genre_fixer(band_list)
     dump_list('./json/test-fix.json', band_list)
-
-if __name__ == '__main__':
-    main()
