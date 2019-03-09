@@ -1,0 +1,4 @@
+#!/bin/bash
+set -exu
+LINT=`find . -type f -name '*.py' ! -path "./venv/*" ! -path "./*/venv/*" `
+yapf -i ${LINT}
