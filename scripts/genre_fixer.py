@@ -10,8 +10,7 @@ def remove_early_later(styles): # takes a string
         if '/' in genre_string:
             g = genre_string.split('/')
             style_list += append_metal(g)
-    #print(style_list) # sanity check
-    g_list = list(set(style_list) - set(genre_list)) #merge
+    g_list = list(set(style_list) - set(genre_list)) # merge
     return g_list
 
 def append_metal(style_list):
@@ -25,7 +24,7 @@ def append_metal(style_list):
                 continue
             s1.append(style + s)
     
-    genre_list = list(set(style_list) - set(s1)) #merge
+    genre_list = list(set(style_list) - set(s1)) # merge
     
     return genre_list
 
@@ -39,7 +38,6 @@ def genre_fixer(band_list):
         else:
             genre_list = []
             genre_list.append(styles)
-            #genre_list = append_metal(genre_list)
         band['genres'] = genre_list
         band_list[i] = band
         print('genre fixed for ' + band.get('name'))
@@ -47,11 +45,8 @@ def genre_fixer(band_list):
 
 def main():
     band_list = load_list('./json/items.json')
-    #print(band_list) # sanity check
     band_list = genre_fixer(band_list)
-    #print(band_list)
     dump_list('./json/test-fix.json', band_list)
-    # remove_early_later(band_list) #refactored into taking a band for simplicity
 
 if __name__ == '__main__':
     main()
