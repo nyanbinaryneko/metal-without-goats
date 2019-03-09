@@ -1,11 +1,10 @@
 #!/bin/bash
 
 # run the ma-scrape-fixer on the authoratative json. 
-# the formatter will prettyprint, increasing size, but it'll be human readable.
-
-python ./scripts/metal-archives-scrape-formatter.py 
+# no pretty print option.
+python3 ./scripts/metal-archives-scrape-formatter.py -i ./json/items.json -t -g
 
 # create tables
-python ./scripts/create-ma-tables
+python3 ./scripts/create-ma-tables.py
 
 # set up tables
