@@ -6,14 +6,34 @@ import argparse
 # TODO: add more file support
 # TODO: multifile support
 
+
 def parseargs():
-    parser = argparse.ArgumentParser(description="simple CLI for running the formatter")
-    parser.add_argument(['--themes', '-t'], help="fix lyrical themes from scrape.", action="store_value", default=False)
-    parser.add_argument(['--genres', '-g'], help="fix genres from scrape.", action="store_value", default=False)
-    parser.add_argument(['--infile', '-i'], help="file to fix, only supports json.", type="str", required=True)
-    parser.add_argument(['--outfile', '-o'], help="custom named output file, only supports json", type="str", required=False, default="fixed_bands.json")
+    parser = argparse.ArgumentParser(
+        description="simple CLI for running the formatter")
+    parser.add_argument(['--themes', '-t'],
+                        help="fix lyrical themes from scrape.",
+                        action="store_value",
+                        default=False)
+    parser.add_argument(['--genres', '-g'],
+                        help="fix genres from scrape.",
+                        action="store_value",
+                        default=False)
+    parser.add_argument(['--infile', '-i'],
+                        help="file to fix, only supports json.",
+                        type="str",
+                        required=True)
+    parser.add_argument(['--outfile', '-o'],
+                        help="custom named output file, only supports json",
+                        type="str",
+                        required=False,
+                        default="fixed_bands.json")
+    parser.add_argument(['--pretty', '-p'],
+                        help="pretty print the json file",
+                        action="store_value",
+                        default=True)
 
     return parser.parse_args()
+
 
 def load_list(path):
     with open(path, "r") as read_file:
@@ -98,8 +118,13 @@ def genre_formatter(band_list):
 
 if __name__ == '__main__':
     args = parseargs()
-    band_list = load_list(args.infile) # load bandlist
+    band_list = load_list(args.infile)  # load bandlist
     if args.themes:
         band_list = theme_formatter(band_list)
     if args.genres:
         band_list = genre_formatter(band_list)
+
+    if not args.pretty:
+        json.dump(band_list, args.outfile)
+    else:
+        json.dump(band_list, args.outfile, indent="4")
