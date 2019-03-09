@@ -5,4 +5,7 @@
 
 python ./scripts/metal-archives-scrape-formatter.py 
 
-# create tables and set up db
+# create tables
+python ./scripts/create-ma-tables
+
+# set up tables
