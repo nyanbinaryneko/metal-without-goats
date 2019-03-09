@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# run the ma-scrape-fixer on the authoratative json. 
+# the formatter will prettyprint, increasing size, but it'll be human readable.
+
+python ./scripts/metal-archives-scrape-formatter.py 
+
+# create tables and set up db
