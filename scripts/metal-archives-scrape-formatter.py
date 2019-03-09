@@ -1,5 +1,19 @@
 import json
+import argparse
 
+# TODO: add formatters for location, and other metadata returned by scrape
+# TODO: add scraper into project
+# TODO: add more file support
+# TODO: multifile support
+
+def parseargs():
+    parser = argparse.ArgumentParser(description="simple CLI for running the formatter")
+    parser.add_argument(['--themes', '-t'], help="fix lyrical themes from scrape.", action="store_value", default=False)
+    parser.add_argument(['--genres', '-g'], help="fix genres from scrape.", action="store_value", default=False)
+    parser.add_argument(['--infile', '-i'], help="file to fix, only supports json.", type="str", required=True)
+    parser.add_argument(['--outfile', '-o'], help="custom named output file, only supports json", type="str", required=False, default="fixed_bands.json")
+
+    return parser.parse_args()
 
 def load_list(path):
     with open(path, "r") as read_file:
@@ -12,7 +26,7 @@ def dump_list(path, band_list):
         json.dump(band_list, write_file, indent=2)
 
 
-def theme_fixer(band_list):
+def theme_formatter(band_list):
     for i, band in enumerate(band_list):
         lyrical_themes = band.get("lyrical_themes")
         themes = lyrical_themes.split(", ")
@@ -66,7 +80,7 @@ def append_metal(style_list):
     return genre_list
 
 
-def genre_fixer(band_list):
+def genre_formatter(band_list):
     for i, band in enumerate(band_list):
         styles = band.get('style')
         if '(later)' in styles:
@@ -83,7 +97,9 @@ def genre_fixer(band_list):
 
 
 if __name__ == '__main__':
-    band_list = load_list('./json/test.json')
-    band_list = theme_fixer(band_list)
-    band_list = genre_fixer(band_list)
-    dump_list('./json/test-fix.json', band_list)
+    args = parseargs()
+    band_list = load_list(args.infile) # load bandlist
+    if args.themes:
+        band_list = theme_formatter(band_list)
+    if args.genres:
+        band_list = genre_formatter(band_list)
