@@ -129,7 +129,8 @@ if __name__ == '__main__':
         band_list = genre_formatter(band_list)
 
     if not args.pretty:
-        json.dump(band_list, args.outfile)
+        with open(f'{args.outfile}', 'w+') as f:
+            json.dump(band_list, f)
     else:
         with open(f'{args.outfile}', 'w+') as f:
             json.dump(band_list, f, indent="4")
