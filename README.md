@@ -16,6 +16,6 @@ a decently sized scrape of MA back in September.
 # Quick Start:
 
 1. run `pipenv install`
-2. `python cli.py -i ./json/fixed_bands.json -m create`
+2. `pipenv run python cli.py -i ./json/fixed_bands.json -m create`
 
 
