@@ -6,50 +6,6 @@ import argparse
 # TODO: add more file support
 # TODO: multifile support
 
-
-def parseargs():
-    parser = argparse.ArgumentParser(
-        description="simple CLI for running the formatter")
-    parser.add_argument(
-        '--themes',
-        '-t',
-        help="fix lyrical themes from scrape.",
-        action="store_true",
-        default=False)
-    parser.add_argument(
-        '--genres',
-        '-g',
-        help="fix genres from scrape.",
-        action="store_true",
-        default=False)
-    parser.add_argument(
-        '--infile',
-        '-i',
-        help="file to fix, only supports json.",
-        type=str,
-        required=True)
-    parser.add_argument(
-        '--outfile',
-        '-o',
-        help="custom named output file, only supports json, specify path",
-        type=str,
-        default="./json/fixed_bands.json")
-    parser.add_argument(
-        '--pretty',
-        '-p',
-        help="pretty print the json file",
-        action="store_true",
-        default=False)
-
-    return parser.parse_args()
-
-
-def load_list(path):
-    with open(path, "r") as read_file:
-        band_list = json.load(read_file)
-    return band_list
-
-
 def theme_formatter(band_list):
     for i, band in enumerate(band_list):
         lyrical_themes = band.get("lyrical_themes")
@@ -119,18 +75,3 @@ def genre_formatter(band_list):
         print('genre fixed for ' + band.get('name'))
     return band_list
 
-
-if __name__ == '__main__':
-    args = parseargs()
-    band_list = load_list(args.infile)  # load bandlist
-    if args.themes:
-        band_list = theme_formatter(band_list)
-    if args.genres:
-        band_list = genre_formatter(band_list)
-
-    if not args.pretty:
-        with open(f'{args.outfile}', 'w+') as f:
-            json.dump(band_list, f)
-    else:
-        with open(f'{args.outfile}', 'w+') as f:
-            json.dump(band_list, f, indent="4")
