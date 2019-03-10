@@ -89,11 +89,14 @@ def cleanup_genres():
     session = sessionmaker()
     session.configure(bind=engine)
     s = session()
+    logger.debug(f'genres_count: {s.query(Genres).count()}')
     genres = s.query(Genres).all()
-
     for genre in genres:
-        name = genre.band.name
-        logger.debug(f'genre: {genre.genre} | ma_id: {name}')
+        if "," in genre.genre:
+            g = genre.genre.split(',')
+            logger.debug(g)
+        
 
 def cleanup():
+    Base.prepare()
     cleanup_genres()
