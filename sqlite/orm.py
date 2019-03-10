@@ -2,26 +2,27 @@ import json
 import logging
 
 from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.ext.automap import automap_base
 from sqlalchemy import Column, Integer, String, ForeignKey
 from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
+from sqlalchemy.orm import sessionmaker, relationship, backref
+from sqlalchemy import update
 
-Base = declarative_base()
+Base = automap_base()
 
 logger = logging.getLogger('orm')
 
 
 class Band(Base):  # raw data from MA
-    __tablename__ = "bands"
+    __tablename__ = "band"
 
-    id = Column(Integer, primary_key=True)  # auto increment id
     name = Column(String)
     themes = Column(String)
     style = Column(String)
     city = Column(String)
     region = Column(String)
     country = Column(String)
-    metal_archives_id = Column(String)
+    metal_archives_id = Column(String, primary_key=True)
 
 
 class LyricalThemes(Base):
@@ -31,7 +32,8 @@ class LyricalThemes(Base):
     lyrical_theme = Column(String)
     metal_archives_id = Column(
         String,
-        ForeignKey("bands.metal_archives_id"))  # link to metal archives id
+        ForeignKey("band.metal_archives_id"))  # link to metal archives id
+    band = relationship("Band", backref=backref('metal_archives_id', uselist=False),remote_side=Band.metal_archives_id)
 
 
 class Genres(Base):
@@ -39,13 +41,15 @@ class Genres(Base):
     id = Column(Integer, primary_key=True, autoincrement=True)
     genre = Column(String)
     metal_archives_id = Column(
-        String, ForeignKey("bands.metal_archives_id"))  # link to ma id
+        String, ForeignKey("band.metal_archives_id"))  # link to ma id
+    band = relationship("Band", backref=backref('metal_archives_id', uselist=False), remote_side=Band.metal_archives_id)
 
 
 def create_all():
     engine = create_engine('sqlite:///metal.db')
     session = sessionmaker()
     session.configure(bind=engine)
+    Base.prepare()
     Base.metadata.create_all(engine)
     logging.debug("tables created")
 
@@ -56,7 +60,7 @@ def insert_from_json(bandlist):
     session.configure(bind=engine)
     s = session()
 
-    for band in bandlist:
+    for idx, band in enumerate(bandlist):
         ma_id = band.get("metalarchives_id", "")
         b = Band(
             name=band.get("name", ""),

@@ -4,9 +4,9 @@ import json
 
 import logging
 logging.basicConfig(
-    level="INFO", format='%(name)s | %(levelname)s | %(message)s')
+    level="INFO", format='%(name)s | %(levelname)s | %(message)s', filename='app.log', filemode='a+')
 
-from sqlite.orm import create_all, insert_from_json
+from sqlite.orm import create_all, insert_from_json, cleanup
 
 PARGS = argparse.ArgumentParser(
     description="simple CLI for running and setting up the project.")
@@ -14,7 +14,7 @@ PARGS.add_argument(
     '--mode',
     '-m',
     help=
-    "pick your mode. 'format' to normalize json from scrape. 'create' creates the tables, and inserts from your infile.",
+    "pick your mode. 'format' to normalize json from scrape. 'create' creates the tables, and inserts from your infile, cleanup normalizes the database.",
     choices=['format', 'create'],
     required=True,
     type=str)
