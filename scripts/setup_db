@@ -5,4 +5,4 @@
 python3 cli.py  -m format -i ./json/items.json -t -g
 
 # create tables && set up tables
-python3 cli.py -m create -i ./json/items.json
+python3 cli.py -m create -i ./json/fixed_bands.json
