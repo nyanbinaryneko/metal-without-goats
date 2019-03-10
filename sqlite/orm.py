@@ -16,7 +16,6 @@ logger = logging.getLogger('orm')
 class Band(Base):  # raw data from MA
     __tablename__ = "band"
 
-    id = Column(Integer, primary_key=True, autoincrement=True)  # auto increment id
     name = Column(String)
     themes = Column(String)
     style = Column(String)
@@ -64,7 +63,6 @@ def insert_from_json(bandlist):
     for idx, band in enumerate(bandlist):
         ma_id = band.get("metalarchives_id", "")
         b = Band(
-            id=idx,
             name=band.get("name", ""),
             themes=band.get("lyrical_themes", ""),
             style=band.get("style", ""),
@@ -83,20 +81,3 @@ def insert_from_json(bandlist):
     logger.debug(f'committing bandlist')
     s.commit()
     logger.debug(f'total bands added: {s.query(Band).count()}')
-
-def cleanup_genres():
-    engine = create_engine('sqlite:///metal.db')
-    session = sessionmaker()
-    session.configure(bind=engine)
-    s = session()
-    logger.debug(f'genres_count: {s.query(Genres).count()}')
-    genres = s.query(Genres).all()
-    for genre in genres:
-        if "," in genre.genre:
-            g = genre.genre.split(',')
-            logger.debug(g)
-        
-
-def cleanup():
-    Base.prepare()
-    cleanup_genres()
