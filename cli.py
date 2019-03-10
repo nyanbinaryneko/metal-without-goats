@@ -6,7 +6,7 @@ import logging
 logging.basicConfig(
     level="INFO", format='%(name)s | %(levelname)s | %(message)s')
 
-from sqlite.orm import create_all
+from sqlite.orm import create_all, insert_from_json
 
 PARGS = argparse.ArgumentParser(
     description="simple CLI for running and setting up the project.")
@@ -71,10 +71,11 @@ if __name__ == "__main__":
             bandlist = formatter.genre_formatter(bandlist)
         with open(args.outfile, 'w+') as of:
             if args.pretty:
-                json.dump(of, bandlist, indent=4)
+                json.dump(bandlist, of, indent=4)
             else:
-                json.dump(of, bandlist)
+                json.dump(bandlist, of)
             of.close()
     if args.mode in "create".lower():
         create_all()
+        insert_from_json(bandlist)
     exit
