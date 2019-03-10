@@ -6,7 +6,7 @@ import logging
 logging.basicConfig(
     level="INFO", format='%(name)s | %(levelname)s | %(message)s')
 
-from sqlite.orm import create_all, insert_from_json
+from sqlite.orm import create_all, insert_from_json, cleanup
 
 PARGS = argparse.ArgumentParser(
     description="simple CLI for running and setting up the project.")
@@ -14,8 +14,8 @@ PARGS.add_argument(
     '--mode',
     '-m',
     help=
-    "pick your mode. 'format' to normalize json from scrape. 'create' creates the tables, and inserts from your infile.",
-    choices=['format', 'create'],
+    "pick your mode. 'format' to normalize json from scrape. 'create' creates the tables, and inserts from your infile, cleanup normalizes the database.",
+    choices=['format', 'create', 'cleanup'],
     required=True,
     type=str)
 PARGS.add_argument(
@@ -78,4 +78,6 @@ if __name__ == "__main__":
     if args.mode in "create".lower():
         create_all()
         insert_from_json(bandlist)
+    if args.mode in "cleanup".lower():
+        cleanup()
     exit

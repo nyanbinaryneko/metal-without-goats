@@ -1,5 +1,8 @@
 import json
 import argparse
+import logging
+
+logger = logging.getLogger('formatter')
 
 # TODO: add formatters for location, and other metadata returned by scrape
 # TODO: add scraper into project
@@ -24,7 +27,7 @@ def theme_formatter(band_list):
         band['themes'] = themes  # add themes to dict
         band_list[i] = band  # update in place
 
-        print("fixed themes for: " + band.get("name"))
+        logger.debug("fixed themes for: " + band.get("name"))
     return band_list
 
 
@@ -33,7 +36,7 @@ def remove_early_later(styles):  # takes a string
     genre_list = style_list.split(" (early), ")
     style_list = []
     for genre_string in genre_list:
-        #print(style)
+        #logger.debug(style)
         genre_string = genre_string.strip()
         if '/' in genre_string:
             g = genre_string.split('/')
@@ -47,12 +50,12 @@ def append_metal(style_list):
     for style in style_list:
         s = ' Metal'
         if not ' metal' in style.lower():
-            print('no metal')
+            logger.debug('no metal')
             # jesus christ, refactor THIS line.
             if 'core' in style.lower() or 'punk' in style.lower(
             ) or 'rock' in style.lower() or 'djent' in style.lower(
             ) or 'hardcore' in style.lower() or 'crust' in style.lower():
-                print("in this stupid control " + style)
+                logger.debug("in this stupid control " + style)
                 continue
             s1.append(style + s)
 
@@ -73,5 +76,5 @@ def genre_formatter(band_list):
             genre_list.append(styles)
         band['genres'] = genre_list
         band_list[i] = band
-        print('genre fixed for ' + band.get('name'))
+        logger.debug('genre fixed for ' + band.get('name'))
     return band_list
