@@ -3,13 +3,21 @@ import formatter
 import json
 
 import logging
-logging.basicConfig(level="INFO", format='%(name)s | %(levelname)s | %(message)s')
+logging.basicConfig(
+    level="INFO", format='%(name)s | %(levelname)s | %(message)s')
 
 from sqlite.orm import create_all
 
 PARGS = argparse.ArgumentParser(
     description="simple CLI for running and setting up the project.")
-PARGS.add_argument('--mode', '-m', help="pick your mode.", choices=['format', 'create'], required=True, type=str)
+PARGS.add_argument(
+    '--mode',
+    '-m',
+    help=
+    "pick your mode. 'format' to normalize json from scrape. 'create' creates the tables, and inserts from your infile.",
+    choices=['format', 'create'],
+    required=True,
+    type=str)
 PARGS.add_argument(
     '--themes',
     '-t',
@@ -40,7 +48,12 @@ PARGS.add_argument(
     help="pretty print the json file",
     action="store_true",
     default=False)
-PARGS.add_argument('--verbose', '-v', help='sets logging level for debugging', action='store_true', default=False)
+PARGS.add_argument(
+    '--verbose',
+    '-v',
+    help='sets logging level for debugging',
+    action='store_true',
+    default=False)
 
 if __name__ == "__main__":
     args = PARGS.parse_args()
@@ -49,7 +62,7 @@ if __name__ == "__main__":
     logger = logging.getLogger('cli')
     logger.debug(f'got args: {args}')
     if args.infile:
-        with open(args.infile, "r") as f: # both format and 
+        with open(args.infile, "r") as f:  # both format and
             bandlist = json.load(f, encoding='utf-16')
     if args.mode in "format".lower():
         if args.themes:

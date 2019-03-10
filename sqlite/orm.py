@@ -8,10 +8,11 @@ from sqlalchemy.orm import sessionmaker
 
 Base = declarative_base()
 
-class Band(Base): # raw data from MA
-    __tablename__="bands" 
 
-    id = Column(Integer, primary_key=True) # auto increment id
+class Band(Base):  # raw data from MA
+    __tablename__ = "bands"
+
+    id = Column(Integer, primary_key=True)  # auto increment id
     name = Column(String)
     themes = Column(String)
     style = Column(String)
@@ -20,18 +21,24 @@ class Band(Base): # raw data from MA
     country = Column(String)
     metal_archives_id = Column(String, primary_key=True)
 
+
 class LyricalThemes(Base):
     __tablename__ = "lyrical_themes"
 
     id = Column(Integer, primary_key=True)
     lyrical_theme = Column(String)
-    metal_archives_id = Column(String, ForeignKey("bands.metal_archives_id")) # link to metal archives id
+    metal_archives_id = Column(
+        String,
+        ForeignKey("bands.metal_archives_id"))  # link to metal archives id
+
 
 class Genres(Base):
     __tablename__ = "genres"
     id = Column(Integer, primary_key=True)
     genre = Column(String)
-    metal_archives_id = Column(String, ForeignKey("bands.metal_archives_id")) # link to ma id
+    metal_archives_id = Column(
+        String, ForeignKey("bands.metal_archives_id"))  # link to ma id
+
 
 def create_all():
     engine = create_engine('sqlite:///metal.db')

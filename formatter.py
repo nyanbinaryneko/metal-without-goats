@@ -6,6 +6,7 @@ import argparse
 # TODO: add more file support
 # TODO: multifile support
 
+
 def theme_formatter(band_list):
     for i, band in enumerate(band_list):
         lyrical_themes = band.get("lyrical_themes")
@@ -74,4 +75,3 @@ def genre_formatter(band_list):
         band_list[i] = band
         print('genre fixed for ' + band.get('name'))
     return band_list
-
