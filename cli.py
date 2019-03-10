@@ -5,7 +5,7 @@ import json
 import logging
 logging.basicConfig(level="INFO", format='%(name)s | %(levelname)s | %(message)s')
 
-from sqlite.db import SqliteDB
+from sqlite.orm import create_all
 
 PARGS = argparse.ArgumentParser(
     description="simple CLI for running and setting up the project.")
@@ -63,5 +63,5 @@ if __name__ == "__main__":
                 json.dump(of, bandlist)
             of.close()
     if args.mode in "create".lower():
-        SqliteDB().create_tables()
+        create_all()
     exit
