@@ -2,7 +2,7 @@
 
 # run the ma-scrape-fixer on the authoratative json. 
 # no pretty print option.
-python3 ./scripts/metal-archives-scrape-formatter.py -i ./json/items.json -t -g
+python3 cli.py  -m format -i ./json/items.json -t -g
 
 # create tables && set up tables
-python3 ./scripts/db-setup.py
+python3 cli.py -m create -i ./json/items.json
