@@ -6,7 +6,7 @@ import logging
 logging.basicConfig(
     level="INFO", format='%(name)s | %(levelname)s | %(message)s', filename='app.log', filemode='a+')
 
-from sqlite.orm import create_all, insert_from_json, cleanup
+from sqlite.orm import create_all, insert_from_json
 
 PARGS = argparse.ArgumentParser(
     description="simple CLI for running and setting up the project.")
