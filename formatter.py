@@ -52,7 +52,7 @@ def remove_seps(styles):  # takes a string
 def append_metal(style_list):
     for idx, style in enumerate(style_list):
         style.strip()
-        s = ' Metal'
+        s = 'Metal'
         if not s.lower() in style.lower():
 
             logger.debug(f'no metal {style}')
@@ -63,7 +63,7 @@ def append_metal(style_list):
                 logger.debug("in this stupid control " + style)
             else:
                 logger.debug("appending metal")
-                style = style + s
+                style = f'{style.strip()} {s}'
                 logger.debug(f"{style}")
         style_list[idx] = style.strip()
     logger.debug(f'style_list: {style_list}')
