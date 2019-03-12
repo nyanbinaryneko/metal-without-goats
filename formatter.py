@@ -33,18 +33,19 @@ def theme_formatter(band_list):
 
 
 def remove_seps(styles):  # takes a string
-    '''
-    style_list = styles.strip('(later)')  # strip later, split earlier
-    genre_list = style_list.split(" (early), ")
-    style_list = []
-    '''
     logger.debug(f'styles before: {styles}')
     logger.debug('remove contents of parens & strip:')
     styles = re.sub(r'\([^)]*\)', '', styles).strip("()") # matches parens
     logger.debug(f'{styles}')
-    logger.debug('replace "/" with ",", and split into tokens')
-    styles = re.sub(r'([//])', ',', styles).split(',')
+    logger.debug('replace "/" with ","')
+    styles = re.sub(r'([//])', ',', styles)
     logger.debug(f'{styles}')
+    logger.debug('remove double spaces')
+    styles = re.sub(r'([ ]{2})', ',', styles)
+    logger.debug(f'styles: {styles}')
+    logger.debug('split into tokens:')
+    styles = styles.split(',')
+    logger.debug(f'styles: {styles}')
     return append_metal(styles)
 
 
